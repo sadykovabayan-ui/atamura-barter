@@ -1,0 +1,11 @@
+# Локальные секреты
+.env
+.env.*
+
+# Кеш Python
+__pycache__/
+*.pyc
+
+# Системное
+.DS_Store
+Thumbs.db

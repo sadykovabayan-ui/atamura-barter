@@ -1,0 +1,45 @@
+name: Update Barter Registry
+
+on:
+  schedule:
+    # Каждые 30 минут (минимум для бесплатного GitHub Actions — 5 мин,
+    # но 30 мин достаточно для нашего темпа изменений)
+    - cron: '*/30 * * * *'
+  workflow_dispatch: {}  # Запуск вручную из вкладки Actions
+
+permissions:
+  contents: write  # для коммита обновлённых registry.json + index.html
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Update registry from ProfitBase
+        env:
+          PROFITBASE_API_KEY: ${{ secrets.PROFITBASE_API_KEY }}
+          PROFITBASE_BASE_URL: ${{ secrets.PROFITBASE_BASE_URL }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python scripts/pb_barter_registry.py
+
+      - name: Render dashboard
+        run: python scripts/pb_render_registry.py
+
+      - name: Commit changes (if any)
+        run: |
+          git config user.name "atamura-bot"
+          git config user.email "bot@atamura.kz"
+          git add data/registry.json index.html
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update registry $(date -u +%FT%TZ)"
+            git push
+          else
+            echo "Нет изменений."
+          fi
