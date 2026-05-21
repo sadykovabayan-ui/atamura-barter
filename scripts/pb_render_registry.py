@@ -43,6 +43,7 @@ def main():
 
     rows = []
     for pid, it in items.items():
+        bc = it.get("barter_contractor") or {}
         rows.append({
             "pid": pid,
             "meta": it.get("meta", {}),
@@ -53,6 +54,12 @@ def main():
             "date": it.get("last_date"),
             "history_count": len(it.get("history") or []),
             "initialized": it.get("initialized_from_property", False),
+            "contractor": bc.get("name"),
+            "contractor_deal_id": bc.get("deal_id"),
+            "contractor_stage": bc.get("stage"),
+            "contractor_company": bc.get("company_title"),
+            "contractor_contact_name": bc.get("contact_name"),
+            "contractor_contact_phone": bc.get("contact_phone"),
         })
 
     # Сортировка: сначала текущие бартеры со свежей историей, потом без, потом не-бартер
@@ -66,8 +73,12 @@ def main():
     active = [r for r in rows if r["status"] == BARTER_KEY]
     active_with_hist = [r for r in active if r["history_count"] > 0]
     closed_recent = [r for r in rows if r["status"] != BARTER_KEY and r["history_count"] > 0]
+    with_contractor = [r for r in rows if r.get("contractor")]
 
     total_value = sum((r["meta"].get("price") or 0) for r in active)
+    # Топ подрядчиков
+    from collections import Counter
+    contractor_counts = Counter(r["contractor"] for r in rows if r.get("contractor"))
 
     # JSON для встроенной таблицы
     table_data = []
@@ -88,6 +99,11 @@ def main():
             "mgr": r["mgr"] or "",
             "date_local": ts_to_local(r["date"]) if r["date"] else "",
             "has_history": r["history_count"] > 0,
+            "contractor": r.get("contractor") or "",
+            "contractor_company": r.get("contractor_company") or "",
+            "contractor_contact": r.get("contractor_contact_name") or "",
+            "contractor_phone": r.get("contractor_contact_phone") or "",
+            "contractor_deal_id": r.get("contractor_deal_id") or "",
         })
 
     html = f"""<!DOCTYPE html>
@@ -156,12 +172,25 @@ tbody tr:hover {{ background: #fafbfc; }}
     <div class="value">{len(closed_recent)}</div>
     <div class="hint">Объекты с историей смен (вышли/закрыты)</div>
   </div>
+  <div class="kpi green">
+    <div class="label">С подрядчиком (из Bitrix24)</div>
+    <div class="value">{len(with_contractor)}</div>
+    <div class="hint">Привязано к сделке-бартеру в CRM</div>
+  </div>
+</div>
+
+<div class="kpi" style="margin-bottom: 16px; padding: 16px 22px">
+  <div class="label">ТОП ПОДРЯДЧИКОВ (по числу квартир)</div>
+  <div style="display: flex; flex-wrap: wrap; gap: 8px 16px; margin-top: 10px; font-size: 13px;">
+    {chr(10).join(f'<span><b>{name}</b>: {n}</span>' for name, n in contractor_counts.most_common(15))}
+  </div>
 </div>
 
 <div class="filter-bar">
   <span class="pill active" data-filter="all">Все</span>
   <span class="pill" data-filter="active">⚠️ Активный бартер</span>
   <span class="pill" data-filter="confirmed">✅ Подтверждён историей</span>
+  <span class="pill" data-filter="with_contractor">👤 С подрядчиком</span>
   <span class="pill" data-filter="closed">📕 Закрыт / другой статус</span>
   <input type="text" id="search" placeholder="Поиск: подрядчик, ЖК, номер" style="min-width: 240px"/>
   <span class="count" id="count"></span>
@@ -177,9 +206,10 @@ tbody tr:hover {{ background: #fafbfc; }}
   <th class="num">м²</th>
   <th class="num">Цена</th>
   <th>Статус</th>
-  <th>Сделка (покупатель)</th>
+  <th>🔴 Подрядчик (Bitrix24)</th>
+  <th>Конечная сделка</th>
   <th>Менеджер</th>
-  <th>Последнее событие</th>
+  <th>Дата</th>
 </tr>
 </thead>
 <tbody id="tbody"></tbody>
@@ -202,10 +232,11 @@ function render() {{
   let rows = DATA;
   if (state.filter === 'active') rows = rows.filter(r => r.is_active);
   if (state.filter === 'confirmed') rows = rows.filter(r => r.is_active && r.has_history);
+  if (state.filter === 'with_contractor') rows = rows.filter(r => r.contractor);
   if (state.filter === 'closed') rows = rows.filter(r => !r.is_active && r.has_history);
   if (state.q) {{
     const q = state.q.toLowerCase();
-    rows = rows.filter(r => [r.project, r.house, r.number, r.deal, r.mgr].some(v => (v||'').toLowerCase().includes(q)));
+    rows = rows.filter(r => [r.project, r.house, r.number, r.deal, r.mgr, r.contractor, r.contractor_company, r.contractor_contact].some(v => (v||'').toLowerCase().includes(q)));
   }}
   document.getElementById('count').innerHTML = `Показано: <b>${{rows.length}}</b>`;
   const tbody = document.getElementById('tbody');
@@ -214,6 +245,9 @@ function render() {{
     if (r.is_active && r.has_history) tag = '<span class="tag tag-confirmed">✅ Подтверждён</span>';
     else if (r.is_active) tag = '<span class="tag tag-active">⚠️ Активный</span>';
     else tag = '<span class="tag tag-closed">' + r.status_label + '</span>';
+    const contractorCell = r.contractor
+      ? `<b>${{r.contractor}}</b>${{r.contractor_contact && r.contractor_contact !== r.contractor ? '<br><span class="subtle">' + r.contractor_contact + '</span>' : ''}}${{r.contractor_phone ? '<br><span class="subtle">' + r.contractor_phone + '</span>' : ''}}`
+      : '<span class="subtle">—</span>';
     return `<tr>
       <td>${{r.project||'—'}} / ${{r.house||'—'}}</td>
       <td>${{r.section||'—'}} / №${{r.number||'—'}}</td>
@@ -221,6 +255,7 @@ function render() {{
       <td class="num">${{(r.area||0).toLocaleString('ru-RU')}}</td>
       <td class="num">${{(r.price||0).toLocaleString('ru-RU')}}</td>
       <td>${{tag}}</td>
+      <td>${{contractorCell}}</td>
       <td>${{r.deal||'<span class="subtle">—</span>'}}</td>
       <td>${{r.mgr||'<span class="subtle">—</span>'}}</td>
       <td><span class="subtle">${{r.date_local||'—'}}</span></td>

@@ -29,6 +29,11 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python scripts/pb_barter_registry.py
 
+      - name: Enrich with Bitrix24 deals
+        env:
+          BITRIX24_WEBHOOK_URL: ${{ secrets.BITRIX24_WEBHOOK_URL }}
+        run: python scripts/bitrix_deals.py
+
       - name: Render dashboard
         run: python scripts/pb_render_registry.py
 
@@ -36,7 +41,7 @@ jobs:
         run: |
           git config user.name "atamura-bot"
           git config user.email "bot@atamura.kz"
-          git add data/registry.json index.html
+          git add data/registry.json data/bitrix_deals.json index.html
           if ! git diff --cached --quiet; then
             git commit -m "chore: update registry $(date -u +%FT%TZ)"
             git push
