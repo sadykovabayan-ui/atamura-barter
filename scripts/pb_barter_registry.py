@@ -232,7 +232,9 @@ def initialize_from_property(base: str, token: str, reg: dict) -> int:
     return added
 
 
-def main(notify: bool = True, lookback_days: int = 7, max_pages: int = 200) -> None:
+def main(notify: bool = False, lookback_days: int = 7, max_pages: int = 200) -> None:
+    """notify=False по умолчанию — Telegram-уведомления отключены до решения Баян,
+    через какой канал/бота слать."""
     env = load_env()
     base = env["PROFITBASE_BASE_URL"].rstrip("/")
     token = fetch_with_retry(authenticate, env)
@@ -375,5 +377,7 @@ def main(notify: bool = True, lookback_days: int = 7, max_pages: int = 200) -> N
 
 
 if __name__ == "__main__":
-    notify = "--no-telegram" not in sys.argv
+    # По умолчанию уведомления ВЫКЛЮЧЕНЫ — пока Баян не подтвердит канал/бота для бартера.
+    # Чтобы включить — запустить с флагом --notify
+    notify = "--notify" in sys.argv
     main(notify=notify)

@@ -40,10 +40,10 @@ Settings → Secrets and variables → Actions → New repository secret:
 
 | Имя | Значение |
 |---|---|
-| `PROFITBASE_API_KEY` | `app-de80d7963c8c022719a47707393bac60` |
+| `PROFITBASE_API_KEY` | `<ProfitBase API key>` |
 | `PROFITBASE_BASE_URL` | `https://pb12230.profitbase.ru` |
-| `TELEGRAM_BOT_TOKEN` | `8862999763:AAHXbfAkO8jLHvkBSrEhs_N8jNpIC4Q2Mjg` |
-| `TELEGRAM_CHAT_ID` | `336961566` |
+| `TELEGRAM_BOT_TOKEN` | `<Telegram bot token>` |
+| `TELEGRAM_CHAT_ID` | `<Telegram chat_id>` |
 
 ### 3. Запустить первый раз вручную
 
