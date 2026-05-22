@@ -160,50 +160,85 @@ def normalize_record(r: dict) -> dict:
     }
 
 
-def match_to_registry(rec: dict, items: dict) -> str | None:
-    """Ищет propertyId в registry.json по нормализованному адресу.
+def match_to_registry(rec: dict, items: dict, strict: bool = True) -> tuple[str | None, str]:
+    """Ищет propertyId в registry.json. Возвращает (pid, match_quality).
 
-    Стратегия: для каждой записи в registry смотрим meta.project / meta.house / meta.section /
-    meta.floor / meta.number и сравниваем с rec.
+    strict=True: точный матч по всем полям (project+queue+section+floor+apartment)
+    strict=False: ослабленный — игнорируем секцию (для парковок) или этаж.
     """
     target_project = rec["project"]
     target_queue_label = rec["queue"]
     target_block = (rec["block"] or "").strip()
     target_floor = rec["floor"]
     target_apt = rec["apartment"].strip()
+    is_park = rec["apt_type"] in ("parking", "storage")
 
     if not target_project or not target_queue_label:
-        return None
+        return None, ""
 
+    # Кандидаты: квартиры в нужном ЖК+очереди
+    candidates = []
     for pid, it in items.items():
         m = it.get("meta") or {}
         if not m:
             continue
-        # ЖК
         if (m.get("project") or "").strip().lower() != target_project.lower():
             continue
-        # Очередь (в registry — full house name: "I очередь" или "I очередь - кладовые и паркинг")
         house = (m.get("house") or "").strip()
-        if not house.startswith(target_queue_label):
-            continue
-        # Block / section
+        # Для парковок ищем в "I очередь - кладовые и паркинг"
+        if is_park:
+            if "паркинг" not in house.lower() and "кладов" not in house.lower():
+                continue
+            if not house.startswith(target_queue_label):
+                continue
+        else:
+            # Для жилых — стартует с "I очередь" и НЕ содержит "паркинг"
+            if not house.startswith(target_queue_label):
+                continue
+            if "паркинг" in house.lower() or "кладов" in house.lower():
+                continue
+        candidates.append((pid, m))
+
+    if not candidates:
+        return None, ""
+
+    # Точный матч (строгий)
+    for pid, m in candidates:
         sec = str(m.get("section") or "").strip()
-        if target_block and sec != target_block:
-            # для парковок/кладовых блок в Google Sheet может не совпадать с section в PB
-            if rec["apt_type"] not in ("parking", "storage"):
-                continue
-        # Floor
-        if target_floor is not None and m.get("floor") is not None:
-            if int(m.get("floor")) != int(target_floor) and rec["apt_type"] not in ("parking", "storage"):
-                continue
-        # Apartment number
+        pb_floor = m.get("floor")
         pb_num = str(m.get("number") or "").strip()
-        if target_apt and pb_num and target_apt != pb_num:
-            # для парковок/кладовых иногда «квартира» = код типа «ТП 50» — мягкое сравнение
-            if target_apt not in pb_num and pb_num not in target_apt:
-                continue
-        return pid
-    return None
+        block_ok = (not target_block) or (sec == target_block)
+        floor_ok = (target_floor is None or pb_floor is None) or int(pb_floor) == int(target_floor)
+        apt_ok = (not target_apt) or (target_apt == pb_num)
+        if block_ok and floor_ok and apt_ok:
+            return pid, "exact"
+
+    if strict:
+        return None, ""
+
+    # Ослабленный матч (для 117 «потеряшек»)
+    # Вариант 1: совпадает по apartment + floor, без блока
+    for pid, m in candidates:
+        pb_floor = m.get("floor")
+        pb_num = str(m.get("number") or "").strip()
+        if target_apt and target_apt == pb_num and (target_floor is None or pb_floor is None or int(pb_floor) == int(target_floor)):
+            return pid, "no_block"
+
+    # Вариант 2: для парковок — только по номеру (этаж и блок свободны)
+    if is_park and target_apt:
+        for pid, m in candidates:
+            pb_num = str(m.get("number") or "").strip()
+            if target_apt == pb_num:
+                return pid, "parking_loose"
+
+    # Вариант 3: совпадение по apartment + section, без этажа
+    for pid, m in candidates:
+        sec = str(m.get("section") or "").strip()
+        pb_num = str(m.get("number") or "").strip()
+        if target_apt and target_block and sec == target_block and target_apt == pb_num:
+            return pid, "no_floor"
+
+    return None, ""
 
 
 def main():
@@ -228,21 +263,50 @@ def main():
     reg = json.loads(REGISTRY.read_text(encoding="utf-8"))
     items = reg["items"]
 
-    # Сопоставляем
+    # Сопоставляем — два прохода: сначала строгий, потом ослабленный
     matched = 0
+    matched_loose = 0
     unmatched = []
     by_contractor = defaultdict(list)
     for rec in records:
-        pid = match_to_registry(rec, items)
+        pid, quality = match_to_registry(rec, items, strict=True)
+        if not pid:
+            pid, quality = match_to_registry(rec, items, strict=False)
+            if pid:
+                matched_loose += 1
         if pid:
-            items[pid]["gsheet"] = rec
+            rec_copy = dict(rec)
+            rec_copy["match_quality"] = quality
+            items[pid]["gsheet"] = rec_copy
             by_contractor[rec["contractor"]].append(pid)
             matched += 1
         else:
             unmatched.append(rec)
 
-    print(f"  Сопоставлено: {matched} из {len(records)}")
+    print(f"  Сопоставлено: {matched} из {len(records)} (точный + ослабленный)")
+    print(f"  Из них ослабленный матч: {matched_loose}")
     print(f"  Не нашли пару в registry: {len(unmatched)}")
+
+    # Сохраним unmatched как отдельную секцию реестра — «закрытые / вне ProfitBase активного»
+    UNMATCHED_OUT = DATA_DIR / "gsheet_unmatched.json"
+    UNMATCHED_OUT.write_text(json.dumps(unmatched, ensure_ascii=False, indent=2), encoding="utf-8")
+    print(f"  Несматченные → {UNMATCHED_OUT}")
+
+    # Пометка «зомби»: записи в реестре, у которых НЕТ ни Google Sheet, ни Bitrix24
+    orphans = 0
+    for pid, it in items.items():
+        has_gsheet = bool(it.get("gsheet"))
+        has_bitrix = bool(it.get("barter_contractor"))
+        if not has_gsheet and not has_bitrix:
+            it["orphan_candidate"] = True
+            orphans += 1
+        else:
+            it.pop("orphan_candidate", None)
+    print(f"  «Зомби»-кандидатов (без подрядчика ни в одном источнике): {orphans}")
+
+    # Сохраним unmatched как отдельный «архивный» список — для отображения в дашборде
+    reg["gsheet_external_only"] = unmatched
+    reg["gsheet_external_count"] = len(unmatched)
 
     # Топ подрядчиков
     print("\n  Топ-15 подрядчиков (по сопоставленным квартирам):")

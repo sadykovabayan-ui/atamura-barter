@@ -69,6 +69,7 @@ def main():
             "contractor_note": gs.get("note"),
             "contractor_source": "gsheet" if gs.get("contractor") else ("bitrix24" if bc.get("name") else None),
             "contractor_bitrix_deal_id": bc.get("deal_id"),
+            "orphan_candidate": bool(it.get("orphan_candidate")),
         })
 
     # Сортировка: сначала текущие бартеры со свежей историей, потом без, потом не-бартер
@@ -94,6 +95,12 @@ def main():
     total_paid = sum(r["contractor_amount_paid"] or 0 for r in rows)
     total_done = sum(r["contractor_amount_done"] or 0 for r in rows)
     total_remaining = sum(r["contractor_remaining_to_pay"] or 0 for r in rows)
+
+    # Зомби и внешние
+    orphans = [r for r in rows if r.get("orphan_candidate")]
+    orphans_by_project = Counter((r["meta"].get("project"), r["meta"].get("house")) for r in orphans)
+    external_only = reg.get("gsheet_external_only") or []
+    external_only_active = [e for e in external_only if (e.get("status_barter") or "").strip().lower() not in ("исполнен", "")]
 
     # JSON для встроенной таблицы
     table_data = []
@@ -125,6 +132,7 @@ def main():
             "contractor_remaining_to_pay": r.get("contractor_remaining_to_pay") or 0,
             "contractor_note": r.get("contractor_note") or "",
             "contractor_source": r.get("contractor_source") or "",
+            "orphan_candidate": r.get("orphan_candidate", False),
         })
 
     html = f"""<!DOCTYPE html>
@@ -198,6 +206,11 @@ tbody tr:hover {{ background: #fafbfc; }}
     <div class="value">{len(with_contractor)}</div>
     <div class="hint">Из Google Sheet / Bitrix24</div>
   </div>
+  <div class="kpi" style="border-top-color:#8a94a3">
+    <div class="label">🗑️ Кандидаты на чистку</div>
+    <div class="value">{len(orphans)}</div>
+    <div class="hint">В PB как «Продано ЗБ», но НЕТ в реестре Аскара и Bitrix24 — возможно отработаны</div>
+  </div>
 </div>
 
 <div class="kpi-grid">
@@ -230,11 +243,31 @@ tbody tr:hover {{ background: #fafbfc; }}
   </div>
 </div>
 
+<div class="kpi" style="margin-bottom: 16px; padding: 16px 22px; border-top-color:#8a94a3">
+  <div class="label">🗑️ КАНДИДАТЫ НА ЧИСТКУ (нет подрядчика ни в одном источнике)</div>
+  <p class="subtle" style="margin: 6px 0 10px">
+    Эти {len(orphans)} объектов помечены в ProfitBase как «Продано ЗБ» (customStatusId=132940), но их нет ни в реестре Аскара, ни в Bitrix24-сделках.
+    Скорее всего, бартер уже отработан несколько лет назад, а флаг в ProfitBase «прилип». Стоит пройтись и снять статус вручную.
+  </p>
+  <div style="display: flex; flex-wrap: wrap; gap: 8px 16px; font-size: 13px;">
+    {chr(10).join(f'<span><b>{p}</b> / {h}: {n}</span>' for (p, h), n in orphans_by_project.most_common(20))}
+  </div>
+</div>
+
+<div class="kpi" style="margin-bottom: 16px; padding: 16px 22px; border-top-color:#1d4ed8">
+  <div class="label">📂 ЗАКРЫТЫЕ БАРТЕРЫ ИЗ РЕЕСТРА АСКАРА (нет в ProfitBase активном)</div>
+  <p class="subtle" style="margin: 6px 0 10px">
+    Эти {len(external_only)} записи есть в Google Sheet (старые отработанные бартеры),
+    но в ProfitBase соответствующие квартиры уже не в «Продано ЗБ» — их давно перевели в Продано.
+    Сюда же попало большинство Атмо I, II, III очередей.
+  </p>
+</div>
+
 <div class="filter-bar">
   <span class="pill active" data-filter="all">Все</span>
+  <span class="pill" data-filter="with_contractor">👤 С подрядчиком ({len([r for r in rows if r.get("contractor")])})</span>
+  <span class="pill" data-filter="orphan">🗑️ Кандидаты на чистку ({len(orphans)})</span>
   <span class="pill" data-filter="active">⚠️ Активный бартер</span>
-  <span class="pill" data-filter="confirmed">✅ Подтверждён историей</span>
-  <span class="pill" data-filter="with_contractor">👤 С подрядчиком</span>
   <span class="pill" data-filter="closed">📕 Закрыт / другой статус</span>
   <input type="text" id="search" placeholder="Поиск: подрядчик, ЖК, номер" style="min-width: 240px"/>
   <span class="count" id="count"></span>
@@ -279,6 +312,7 @@ function render() {{
   if (state.filter === 'active') rows = rows.filter(r => r.is_active);
   if (state.filter === 'confirmed') rows = rows.filter(r => r.is_active && r.has_history);
   if (state.filter === 'with_contractor') rows = rows.filter(r => r.contractor);
+  if (state.filter === 'orphan') rows = rows.filter(r => r.orphan_candidate);
   if (state.filter === 'closed') rows = rows.filter(r => !r.is_active && r.has_history);
   if (state.q) {{
     const q = state.q.toLowerCase();

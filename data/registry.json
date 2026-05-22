@@ -1,5 +1,5 @@
 {
-  "last_processed_ts": 1779421156,
+  "last_processed_ts": 1779350747,
   "items": {
     "8898712": {
       "meta": {
@@ -131,7 +131,8 @@
         "remaining_contract": 0,
         "remaining_to_pay": -9990126,
         "company": "Бигустинова Адия",
-        "note": "от Данияра"
+        "note": "от Данияра",
+        "match_quality": "exact"
       }
     },
     "10398449": {
@@ -188,7 +189,8 @@
         "remaining_contract": 5148950,
         "remaining_to_pay": 0,
         "company": "МАФ ТОО",
-        "note": "МАФ - 20 728 950"
+        "note": "МАФ - 20 728 950",
+        "match_quality": "exact"
       }
     },
     "10764247": {
@@ -211,30 +213,31 @@
       "initialized_from_property": true,
       "gsheet": {
         "date": "",
-        "row_num": "4",
-        "contractor": "Рауан, Самал Жель",
+        "row_num": "78",
+        "contractor": "ЗУ бартер",
         "legal_entity": "",
-        "kind": "Услуги",
-        "responsible": "Шынар",
+        "kind": "Другое",
+        "responsible": "Руслан",
         "status_property": "",
         "status_barter": "",
         "project": "Арлан",
         "queue": "III очередь",
-        "block": "5",
+        "block": "S",
         "floor": 6,
         "apartment": "31",
         "apt_type": null,
-        "area": 60,
-        "price_per_meter": 466154,
-        "amount_property": 27969267,
-        "terms": "",
-        "amount_contract": 96387804,
-        "amount_paid_money": 70293083,
-        "amount_done": 92409494,
-        "remaining_contract": 3978310,
-        "remaining_to_pay": -1874546,
-        "company": "Samal Jel ТОО",
-        "note": "вентиляция 25,2 + 2,7 к доплате"
+        "area": 67,
+        "price_per_meter": 440654,
+        "amount_property": 29523800,
+        "terms": "100%",
+        "amount_contract": null,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": 0,
+        "remaining_to_pay": -29523800,
+        "company": "Тоққожаев Рахат Мұхитжанұлы",
+        "note": "земельный участок",
+        "match_quality": "no_block"
       }
     },
     "10764248": {
@@ -280,7 +283,8 @@
         "remaining_contract": 0,
         "remaining_to_pay": 0,
         "company": "Меса ТОО  - Кузенбаева Анар Думанбековна",
-        "note": "опалубка"
+        "note": "опалубка",
+        "match_quality": "exact"
       }
     },
     "10764282": {
@@ -341,30 +345,31 @@
       "initialized_from_property": true,
       "gsheet": {
         "date": "",
-        "row_num": "74",
-        "contractor": "ИП Мурат",
-        "legal_entity": "УДЕРЖАТЬ 165 000 тг!",
+        "row_num": "1",
+        "contractor": "Ертолек",
+        "legal_entity": "ИП Ертолек",
         "kind": "Услуги",
-        "responsible": "Нурсултан - Гульнур",
-        "status_property": "в работе",
-        "status_barter": "",
+        "responsible": "Шынар",
+        "status_property": "ОФОРМЛЕН",
+        "status_barter": "Исполнен",
         "project": "Арлан",
         "queue": "IV очередь",
-        "block": "8",
+        "block": "7",
         "floor": 3,
         "apartment": "13",
         "apt_type": null,
-        "area": 60,
-        "price_per_meter": 441000,
-        "amount_property": 26654040,
-        "terms": "100%",
+        "area": 68,
+        "price_per_meter": 403437,
+        "amount_property": 27700000,
+        "terms": "60 / 40",
         "amount_contract": null,
         "amount_paid_money": null,
         "amount_done": null,
         "remaining_contract": 0,
-        "remaining_to_pay": -26654040,
-        "company": "Нурымбетов ИП",
-        "note": "аренда башенного крана"
+        "remaining_to_pay": -27700000,
+        "company": "ESD stroy / Аргынбекова Раушан Кабдоллаевна",
+        "note": "ДБ подписан Гульнур, ДКП оформлен 27.09.2024 ИП Ертолек",
+        "match_quality": "no_block"
       }
     },
     "10933044": {
@@ -410,7 +415,8 @@
         "remaining_contract": 0,
         "remaining_to_pay": 0,
         "company": "ЗУ бартер",
-        "note": "земельный участок"
+        "note": "земельный участок",
+        "match_quality": "exact"
       }
     },
     "10933049": {
@@ -456,7 +462,8 @@
         "remaining_contract": 0,
         "remaining_to_pay": 0,
         "company": "ЗУ бартер",
-        "note": "земельный участок"
+        "note": "земельный участок",
+        "match_quality": "exact"
       }
     },
     "11026711": {
@@ -597,7 +604,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "11589630": {
@@ -643,7 +651,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "11589632": {
@@ -771,23 +780,23 @@
       "history": [],
       "initialized_from_property": true,
       "gsheet": {
-        "date": "01.08.2025",
-        "row_num": "",
-        "contractor": "Ертолек",
-        "legal_entity": "Ертолек",
-        "kind": "Услуги",
-        "responsible": "Гульнур/Данияр",
-        "status_property": "в работе",
-        "status_barter": "в процессе",
+        "date": "13/01/2025",
+        "row_num": "113",
+        "contractor": "ТОО Майнур Элитсрой",
+        "legal_entity": "Алиева Зара",
+        "kind": "",
+        "responsible": "Гульнур",
+        "status_property": "отработан",
+        "status_barter": "",
         "project": "Атмосфера",
         "queue": "III очередь",
-        "block": "",
-        "floor": null,
-        "apartment": "180",
-        "apt_type": "parking",
-        "area": null,
-        "price_per_meter": null,
-        "amount_property": null,
+        "block": "14",
+        "floor": 4,
+        "apartment": "18",
+        "apt_type": null,
+        "area": 103,
+        "price_per_meter": 430000,
+        "amount_property": 43043000,
         "terms": "",
         "amount_contract": null,
         "amount_paid_money": null,
@@ -795,7 +804,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "",
-        "note": ""
+        "note": "",
+        "match_quality": "no_block"
       }
     },
     "11668389": {
@@ -841,7 +851,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "11668390": {
@@ -887,7 +898,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "11668405": {
@@ -933,7 +945,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "11668407": {
@@ -1066,31 +1079,32 @@
       "history": [],
       "initialized_from_property": true,
       "gsheet": {
-        "date": "01.08.2025",
-        "row_num": "",
-        "contractor": "Ертолек",
-        "legal_entity": "Ертолек",
-        "kind": "Услуги",
-        "responsible": "Гульнур/Данияр",
-        "status_property": "в работе",
-        "status_barter": "в процессе",
+        "date": "23.06.2025",
+        "row_num": "131",
+        "contractor": "ИП Азамат",
+        "legal_entity": "Азамат",
+        "kind": "",
+        "responsible": "Аида",
+        "status_property": "Отработан",
+        "status_barter": "Исполнен",
         "project": "Атмосфера",
         "queue": "III очередь",
         "block": "",
         "floor": null,
-        "apartment": "179",
-        "apt_type": "parking",
+        "apartment": "",
+        "apt_type": "storage",
         "area": null,
         "price_per_meter": null,
-        "amount_property": null,
-        "terms": "",
-        "amount_contract": null,
+        "amount_property": 3500000,
+        "terms": "100%",
+        "amount_contract": 3500000,
         "amount_paid_money": null,
         "amount_done": null,
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "13196681": {
@@ -1136,7 +1150,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "13676681": {
@@ -1182,7 +1197,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "13676684": {
@@ -1204,31 +1220,32 @@
       "history": [],
       "initialized_from_property": true,
       "gsheet": {
-        "date": "11.02.2026",
-        "row_num": "",
-        "contractor": "ИП Азамат",
-        "legal_entity": "Азамат",
+        "date": "",
+        "row_num": "127",
+        "contractor": "Улар Инвест",
+        "legal_entity": "Улар Инвест",
         "kind": "",
-        "responsible": "Аида",
+        "responsible": "Гульнур",
         "status_property": "в работе",
-        "status_barter": "Исполнен",
+        "status_barter": "переуступка",
         "project": "Атмосфера",
         "queue": "IV очередь",
-        "block": "",
-        "floor": null,
-        "apartment": "183",
-        "apt_type": "parking",
-        "area": null,
-        "price_per_meter": null,
-        "amount_property": 2700000,
-        "terms": "100%",
-        "amount_contract": 2700000,
+        "block": "19",
+        "floor": 2,
+        "apartment": "8",
+        "apt_type": null,
+        "area": 88,
+        "price_per_meter": 445000,
+        "amount_property": 39249000,
+        "terms": "50-50",
+        "amount_contract": null,
         "amount_paid_money": null,
         "amount_done": null,
         "remaining_contract": null,
         "remaining_to_pay": null,
-        "company": "ИП Алиев",
-        "note": ""
+        "company": "",
+        "note": "переуступка на ИБДИЕВ АРСЛАН АХМЕТЖАНОВИЧ (Ипотека Наурыз 36 млн, разница в кассу от бартерщика), 3, 249 мл должен налом Улар",
+        "match_quality": "exact"
       }
     },
     "13676695": {
@@ -1274,7 +1291,8 @@
         "remaining_contract": 21170898,
         "remaining_to_pay": -16697692,
         "company": "Азамат ИП",
-        "note": "окна Аура 1 очередь"
+        "note": "окна Аура 1 очередь",
+        "match_quality": "exact"
       }
     },
     "13676696": {
@@ -1320,7 +1338,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "",
-        "note": "переуступка на МУРЗАХМЕТОВ ЗУПАР МУХИТДИНОВИЧ"
+        "note": "переуступка на МУРЗАХМЕТОВ ЗУПАР МУХИТДИНОВИЧ",
+        "match_quality": "exact"
       }
     },
     "13676733": {
@@ -1342,31 +1361,32 @@
       "history": [],
       "initialized_from_property": true,
       "gsheet": {
-        "date": "18.07.2025",
-        "row_num": "134",
-        "contractor": "Хамза Майнур",
-        "legal_entity": "Хамза Майнур (Алиева Зара)",
-        "kind": "товар",
-        "responsible": "Гульнур",
-        "status_property": "отработан",
-        "status_barter": "в процессе",
+        "date": "12.08.2025",
+        "row_num": "",
+        "contractor": "Ертолек",
+        "legal_entity": "Ертолек",
+        "kind": "Услуги",
+        "responsible": "Гульнур/Данияр",
+        "status_property": "в работе",
+        "status_barter": "????????",
         "project": "Атмосфера",
         "queue": "IV очередь",
-        "block": "20",
+        "block": "21",
         "floor": 1,
         "apartment": "1",
         "apt_type": null,
-        "area": 64,
-        "price_per_meter": 410000,
-        "amount_property": 26445000,
-        "terms": "",
+        "area": 67,
+        "price_per_meter": 475000,
+        "amount_property": 32252500,
+        "terms": "АИДА за эту кв. вернули 28,5 млн.тг.",
         "amount_contract": null,
         "amount_paid_money": null,
         "amount_done": null,
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "",
-        "note": ""
+        "note": "",
+        "match_quality": "no_block"
       }
     },
     "13676789": {
@@ -1388,23 +1408,23 @@
       "history": [],
       "initialized_from_property": true,
       "gsheet": {
-        "date": "",
+        "date": "5.9.2025",
         "row_num": "",
-        "contractor": "ИП АСКАР КУЛЫШ",
-        "legal_entity": "ИП АСКАР",
-        "kind": "",
+        "contractor": "Достар лифт (Нурболсын)",
+        "legal_entity": "Достар лифт",
+        "kind": "товар",
         "responsible": "Гульнур",
-        "status_property": "",
-        "status_barter": "",
+        "status_property": "в работе",
+        "status_barter": "в процессе",
         "project": "Атмосфера",
         "queue": "IV очередь",
-        "block": "",
-        "floor": null,
-        "apartment": "204",
-        "apt_type": "parking",
-        "area": null,
-        "price_per_meter": 2500000,
-        "amount_property": 0,
+        "block": "20",
+        "floor": 1,
+        "apartment": "2",
+        "apt_type": null,
+        "area": 67,
+        "price_per_meter": null,
+        "amount_property": 16000000,
         "terms": "",
         "amount_contract": null,
         "amount_paid_money": null,
@@ -1412,7 +1432,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "",
-        "note": "переуступка на КАПИШЕВ БИРЖАН МУРАТОВИЧ"
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "13676796": {
@@ -1458,7 +1479,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "13676812": {
@@ -1504,7 +1526,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "Улар Инвест",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "13676813": {
@@ -1550,7 +1573,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "ПОДНЯЛА СТОИМОСТЬ НА 9%",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "13676828": {
@@ -1615,7 +1639,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "13676840": {
@@ -1680,7 +1705,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "13676842": {
@@ -1726,7 +1752,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "13676843": {
@@ -1772,7 +1799,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "13676851": {
@@ -1818,7 +1846,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "",
-        "note": "переуступка на Азамата мужа Гульнур"
+        "note": "переуступка на Азамата мужа Гульнур",
+        "match_quality": "exact"
       }
     },
     "13676859": {
@@ -1864,7 +1893,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "Улар Инвест",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "13676870": {
@@ -1910,7 +1940,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "13676874": {
@@ -1975,7 +2006,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "13676878": {
@@ -2021,7 +2053,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "13676888": {
@@ -2067,7 +2100,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "14077265": {
@@ -2113,7 +2147,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "14077267": {
@@ -2159,7 +2194,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "",
-        "note": "переуступка на НУРМАХАНБЕТОВА АЙДАНА ЕРЖАНҚЫЗЫ"
+        "note": "переуступка на НУРМАХАНБЕТОВА АЙДАНА ЕРЖАНҚЫЗЫ",
+        "match_quality": "exact"
       }
     },
     "14077302": {
@@ -2205,7 +2241,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "",
-        "note": "переуступка на КАПИШЕВ БИРЖАН МУРАТОВИЧ"
+        "note": "переуступка на КАПИШЕВ БИРЖАН МУРАТОВИЧ",
+        "match_quality": "exact"
       }
     },
     "14077305": {
@@ -2251,7 +2288,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "7 квартир оформили на имя Бахытжанов Бауыржана. 2 кв.- Аура, 5 кв.- Атмосфера. По поручению Данияра, через д.Васю.",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "14136946": {
@@ -2328,7 +2366,35 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "gsheet": {
+        "date": "23.06.2025",
+        "row_num": "130",
+        "contractor": "ИП Азамат",
+        "legal_entity": "Азамат",
+        "kind": "",
+        "responsible": "Аида",
+        "status_property": "Отработан",
+        "status_barter": "Исполнен",
+        "project": "Атмосфера",
+        "queue": "III очередь",
+        "block": "",
+        "floor": null,
+        "apartment": "122",
+        "apt_type": "parking",
+        "area": null,
+        "price_per_meter": null,
+        "amount_property": 2500000,
+        "terms": "100%",
+        "amount_contract": 2500000,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "",
+        "note": "",
+        "match_quality": "exact"
+      }
     },
     "14136966": {
       "meta": {
@@ -2414,31 +2480,32 @@
       "history": [],
       "initialized_from_property": true,
       "gsheet": {
-        "date": "22/01/2025",
-        "row_num": "116",
-        "contractor": "ИП Ертолек",
-        "legal_entity": "Ертолек",
-        "kind": "Услуги",
-        "responsible": "Гульнур",
-        "status_property": "отработан",
+        "date": "16.01.2025",
+        "row_num": "115",
+        "contractor": "Воронцов / Аскольд / Главпроф",
+        "legal_entity": "Андрей / Александр",
+        "kind": "Материалы",
+        "responsible": "Аида",
+        "status_property": "ОФОРМЛЕН",
         "status_barter": "Исполнен",
         "project": "Атмосфера",
         "queue": "III очередь",
-        "block": "17",
-        "floor": 1,
-        "apartment": "1",
-        "apt_type": null,
-        "area": 48,
-        "price_per_meter": 478170,
-        "amount_property": null,
-        "terms": "",
-        "amount_contract": null,
-        "amount_paid_money": null,
-        "amount_done": null,
-        "remaining_contract": null,
+        "block": "",
+        "floor": null,
+        "apartment": "143",
+        "apt_type": "parking",
+        "area": null,
+        "price_per_meter": null,
+        "amount_property": 2500000,
+        "terms": "50 / 50",
+        "amount_contract": 2500000,
+        "amount_paid_money": 0,
+        "amount_done": 2500000,
+        "remaining_contract": 0,
         "remaining_to_pay": null,
         "company": "",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "14136979": {
@@ -2484,7 +2551,8 @@
         "remaining_contract": 0,
         "remaining_to_pay": null,
         "company": "",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "14136980": {
@@ -2530,7 +2598,8 @@
         "remaining_contract": 0,
         "remaining_to_pay": null,
         "company": "",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "14136981": {
@@ -2576,7 +2645,8 @@
         "remaining_contract": 0,
         "remaining_to_pay": null,
         "company": "",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "14136983": {
@@ -2615,7 +2685,35 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "gsheet": {
+        "date": "01.08.2025",
+        "row_num": "",
+        "contractor": "Ертолек",
+        "legal_entity": "Ертолек",
+        "kind": "Услуги",
+        "responsible": "Гульнур/Данияр",
+        "status_property": "в работе",
+        "status_barter": "в процессе",
+        "project": "Атмосфера",
+        "queue": "III очередь",
+        "block": "",
+        "floor": null,
+        "apartment": "179",
+        "apt_type": "parking",
+        "area": null,
+        "price_per_meter": null,
+        "amount_property": null,
+        "terms": "",
+        "amount_contract": null,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "",
+        "note": "",
+        "match_quality": "exact"
+      }
     },
     "14136995": {
       "meta": {
@@ -2634,7 +2732,35 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "gsheet": {
+        "date": "01.08.2025",
+        "row_num": "",
+        "contractor": "Ертолек",
+        "legal_entity": "Ертолек",
+        "kind": "Услуги",
+        "responsible": "Гульнур/Данияр",
+        "status_property": "в работе",
+        "status_barter": "в процессе",
+        "project": "Атмосфера",
+        "queue": "III очередь",
+        "block": "",
+        "floor": null,
+        "apartment": "180",
+        "apt_type": "parking",
+        "area": null,
+        "price_per_meter": null,
+        "amount_property": null,
+        "terms": "",
+        "amount_contract": null,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "",
+        "note": "",
+        "match_quality": "exact"
+      }
     },
     "14137005": {
       "meta": {
@@ -2736,7 +2862,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "",
-        "note": "Оформляем на Алиеву Минару забрал и подписал договор"
+        "note": "Оформляем на Алиеву Минару забрал и подписал договор",
+        "match_quality": "exact"
       }
     },
     "14252695": {
@@ -2756,7 +2883,35 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "gsheet": {
+        "date": "18.09.2025",
+        "row_num": "",
+        "contractor": "SBK Group  Plus",
+        "legal_entity": "SBK Group  Plus/Болганбаев Ш",
+        "kind": "Услуги",
+        "responsible": "Гульнур",
+        "status_property": "в работе",
+        "status_barter": "в процессе",
+        "project": "KERUEN",
+        "queue": "I очередь",
+        "block": "1",
+        "floor": 1,
+        "apartment": "1",
+        "apt_type": null,
+        "area": 78,
+        "price_per_meter": 418880,
+        "amount_property": 32986800,
+        "terms": "100%",
+        "amount_contract": 3298800,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "",
+        "note": "",
+        "match_quality": "no_block"
+      }
     },
     "14252783": {
       "meta": {
@@ -2775,7 +2930,35 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "gsheet": {
+        "date": "20.02.2026",
+        "row_num": "Ернур",
+        "contractor": "ИП Бастау Строи Инжиниринг",
+        "legal_entity": "Муслим 87778097963",
+        "kind": "электрика",
+        "responsible": "Аида",
+        "status_property": "в работе",
+        "status_barter": "в процессе",
+        "project": "KERUEN",
+        "queue": "I очередь",
+        "block": "1",
+        "floor": 1,
+        "apartment": "7",
+        "apt_type": null,
+        "area": 77,
+        "price_per_meter": 490000,
+        "amount_property": 38024000,
+        "terms": "бартер 30-70",
+        "amount_contract": null,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "Ип Бастау Строи Инжиниринг",
+        "note": "",
+        "match_quality": "no_block"
+      }
     },
     "14252792": {
       "meta": {
@@ -2794,7 +2977,35 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "gsheet": {
+        "date": "09.04.2026",
+        "row_num": "",
+        "contractor": "Хамза Майнур",
+        "legal_entity": "Хамза Майнур (Алиева Минара)",
+        "kind": "товар",
+        "responsible": "ГД",
+        "status_property": "в работе",
+        "status_barter": "в процессе",
+        "project": "KERUEN",
+        "queue": "I очередь",
+        "block": "2",
+        "floor": 2,
+        "apartment": "17",
+        "apt_type": null,
+        "area": 51,
+        "price_per_meter": 415000,
+        "amount_property": 21301950,
+        "terms": "Условия 100%",
+        "amount_contract": 21558600,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "",
+        "note": "",
+        "match_quality": "no_block"
+      }
     },
     "14266572": {
       "meta": {
@@ -2813,7 +3024,35 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "gsheet": {
+        "date": "04.09.2025",
+        "row_num": "",
+        "contractor": "ИП Азамат Курылыс",
+        "legal_entity": "Азамат",
+        "kind": "Материалы",
+        "responsible": "Аида",
+        "status_property": "в работе",
+        "status_barter": "в процессе",
+        "project": "KERUEN",
+        "queue": "I очередь",
+        "block": "1",
+        "floor": 3,
+        "apartment": "19",
+        "apt_type": null,
+        "area": 53,
+        "price_per_meter": 461251,
+        "amount_property": 24700000,
+        "terms": "70/30",
+        "amount_contract": 82333333,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "",
+        "note": "",
+        "match_quality": "no_block"
+      }
     },
     "14266582": {
       "meta": {
@@ -2832,7 +3071,35 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "gsheet": {
+        "date": "14.05.2026",
+        "row_num": "",
+        "contractor": "ИП Мурат",
+        "legal_entity": "ИП Мурат",
+        "kind": "Услуги",
+        "responsible": "Аида",
+        "status_property": "в Работе",
+        "status_barter": "Исполнен",
+        "project": "KERUEN",
+        "queue": "I очередь",
+        "block": "1",
+        "floor": 4,
+        "apartment": "29",
+        "apt_type": null,
+        "area": 45,
+        "price_per_meter": 467908,
+        "amount_property": 21360003,
+        "terms": "Условия 100%",
+        "amount_contract": null,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "",
+        "note": "",
+        "match_quality": "no_block"
+      }
     },
     "14266584": {
       "meta": {
@@ -2851,7 +3118,35 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "gsheet": {
+        "date": "28.11.2024",
+        "row_num": "103",
+        "contractor": "Игорь 87773300101",
+        "legal_entity": "Pro СейсмоКЗ",
+        "kind": "",
+        "responsible": "Гульнур",
+        "status_property": "в работе",
+        "status_barter": "",
+        "project": "KERUEN",
+        "queue": "I очередь",
+        "block": "1",
+        "floor": 4,
+        "apartment": "31",
+        "apt_type": null,
+        "area": 45,
+        "price_per_meter": 350000,
+        "amount_property": 15897000,
+        "terms": "100%",
+        "amount_contract": null,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "Pro СейсмоКЗ",
+        "note": "",
+        "match_quality": "no_block"
+      }
     },
     "14266598": {
       "meta": {
@@ -2870,7 +3165,35 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "gsheet": {
+        "date": "13.03.2026",
+        "row_num": "",
+        "contractor": "ИП Бектенова /Аскар",
+        "legal_entity": "Ип Бектенова/ Аскар",
+        "kind": "услуги",
+        "responsible": "Аида",
+        "status_property": "в работе",
+        "status_barter": "в процессе",
+        "project": "KERUEN",
+        "queue": "I очередь",
+        "block": "2",
+        "floor": 6,
+        "apartment": "45",
+        "apt_type": null,
+        "area": 51,
+        "price_per_meter": 460000,
+        "amount_property": 23832600,
+        "terms": "бартер 100%",
+        "amount_contract": 23832600,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "ИП Бектенова/Аскар",
+        "note": "",
+        "match_quality": "no_block"
+      }
     },
     "14266602": {
       "meta": {
@@ -3326,7 +3649,35 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "gsheet": {
+        "date": "20.02.2026",
+        "row_num": "Ернур",
+        "contractor": "ИП БМ Prom Service",
+        "legal_entity": "Анатолий 87071217880",
+        "kind": "",
+        "responsible": "Аида",
+        "status_property": "в работе",
+        "status_barter": "в процессе",
+        "project": "KERUEN",
+        "queue": "I очередь",
+        "block": "2",
+        "floor": 1,
+        "apartment": "3",
+        "apt_type": null,
+        "area": 45,
+        "price_per_meter": 530000,
+        "amount_property": 24236900,
+        "terms": "бартер 30-70",
+        "amount_contract": null,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "ИП БМ Prom Service",
+        "note": "",
+        "match_quality": "no_block"
+      }
     },
     "15099156": {
       "meta": {
@@ -3345,7 +3696,35 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "gsheet": {
+        "date": "09.04.2026",
+        "row_num": "",
+        "contractor": "Хамза Майнур",
+        "legal_entity": "Хамза Майнур (Алиева Минара)",
+        "kind": "товар",
+        "responsible": "ГД",
+        "status_property": "в работе",
+        "status_barter": "в процессе",
+        "project": "KERUEN",
+        "queue": "I очередь",
+        "block": "2",
+        "floor": 2,
+        "apartment": "10",
+        "apt_type": null,
+        "area": 51,
+        "price_per_meter": 415000,
+        "amount_property": 21301950,
+        "terms": "Условия 100%",
+        "amount_contract": 21558600,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "",
+        "note": "",
+        "match_quality": "no_block"
+      }
     },
     "15099157": {
       "meta": {
@@ -3364,7 +3743,35 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "gsheet": {
+        "date": "19.03.2026",
+        "row_num": "",
+        "contractor": "Ермұханбетова Шәрбану Ермұханбетқызы",
+        "legal_entity": "Ермұханбетова Шәрбану Ермұханбетқызы",
+        "kind": "услуги опалубка",
+        "responsible": "Ернур/Олжас",
+        "status_property": "в работе",
+        "status_barter": "в процессе",
+        "project": "KERUEN",
+        "queue": "I очередь",
+        "block": "2",
+        "floor": 2,
+        "apartment": "11",
+        "apt_type": null,
+        "area": 45,
+        "price_per_meter": 460000,
+        "amount_property": 20957600,
+        "terms": "Условия 100%",
+        "amount_contract": 20597600,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "",
+        "note": "",
+        "match_quality": "no_block"
+      }
     },
     "15099163": {
       "meta": {
@@ -3402,7 +3809,35 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "gsheet": {
+        "date": "28.11.2024",
+        "row_num": "102",
+        "contractor": "Игорь 87773300101",
+        "legal_entity": "Pro СейсмоКЗ",
+        "kind": "",
+        "responsible": "Гульнур",
+        "status_property": "в работе",
+        "status_barter": "",
+        "project": "KERUEN",
+        "queue": "I очередь",
+        "block": "2",
+        "floor": 3,
+        "apartment": "22",
+        "apt_type": null,
+        "area": 45,
+        "price_per_meter": 350000,
+        "amount_property": 15897000,
+        "terms": "100%",
+        "amount_contract": null,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "Pro СейсмоКЗ",
+        "note": "",
+        "match_quality": "no_block"
+      }
     },
     "15099173": {
       "meta": {
@@ -3421,7 +3856,35 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "gsheet": {
+        "date": "19.03.2026",
+        "row_num": "",
+        "contractor": "Ермұханбетова Шәрбану Ермұханбетқызы",
+        "legal_entity": "Ермұханбетова Шәрбану Ермұханбетқызы",
+        "kind": "услуги опалубка",
+        "responsible": "Ернур/Олжас",
+        "status_property": "в работе",
+        "status_barter": "в процессе",
+        "project": "KERUEN",
+        "queue": "I очередь",
+        "block": "2",
+        "floor": 4,
+        "apartment": "27",
+        "apt_type": null,
+        "area": 51,
+        "price_per_meter": 460000,
+        "amount_property": 23832600,
+        "terms": "Условия 100%",
+        "amount_contract": 23832600,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "",
+        "note": "",
+        "match_quality": "no_block"
+      }
     },
     "15099178": {
       "meta": {
@@ -3459,7 +3922,35 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "gsheet": {
+        "date": "02.04.2026",
+        "row_num": "",
+        "contractor": "ТОО Okna Daraturym",
+        "legal_entity": "ТОО Okna Daraturym",
+        "kind": "товар",
+        "responsible": "Аида",
+        "status_property": "в работе",
+        "status_barter": "в процессе",
+        "project": "KERUEN",
+        "queue": "I очередь",
+        "block": "2",
+        "floor": 5,
+        "apartment": "43",
+        "apt_type": null,
+        "area": 77,
+        "price_per_meter": 519004,
+        "amount_property": 40274710,
+        "terms": "Условия 70-30",
+        "amount_contract": 40274710,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "",
+        "note": "",
+        "match_quality": "no_block"
+      }
     },
     "15099191": {
       "meta": {
@@ -3497,7 +3988,35 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "gsheet": {
+        "date": "17.12.2025",
+        "row_num": "",
+        "contractor": "Сергей (геология) 87051694491",
+        "legal_entity": "Сергей Дербенов Владислав Александрович",
+        "kind": "Услуги",
+        "responsible": "Дима",
+        "status_property": "в работе",
+        "status_barter": "в процессе",
+        "project": "KERUEN",
+        "queue": "I очередь",
+        "block": "2",
+        "floor": 6,
+        "apartment": "47",
+        "apt_type": null,
+        "area": 45,
+        "price_per_meter": 470000,
+        "amount_property": 21455500,
+        "terms": "50-50",
+        "amount_contract": 21500000,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "",
+        "note": "",
+        "match_quality": "no_block"
+      }
     },
     "15099198": {
       "meta": {
@@ -3516,7 +4035,35 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "gsheet": {
+        "date": "18.08.25",
+        "row_num": "",
+        "contractor": "Бахытжанов Бауыржан (д.Вася)",
+        "legal_entity": "Бахытжанов Бауыржан",
+        "kind": "",
+        "responsible": "Данияр",
+        "status_property": "в работе",
+        "status_barter": "в процессе",
+        "project": "KERUEN",
+        "queue": "I очередь",
+        "block": "2",
+        "floor": 6,
+        "apartment": "52",
+        "apt_type": null,
+        "area": 75,
+        "price_per_meter": 418880,
+        "amount_property": 31826502,
+        "terms": "100%",
+        "amount_contract": 31826502,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "7 квартир оформили на имя Бахытжанов Бауыржана. 2 кв.- Аура, 5 кв.- Атмосфера. По поручению Данияра, через д.Васю.",
+        "note": "",
+        "match_quality": "no_block"
+      }
     },
     "15270782": {
       "meta": {
@@ -3535,7 +4082,35 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "gsheet": {
+        "date": "23.10.25",
+        "row_num": "129",
+        "contractor": "ИП Шукирбай Максат  87471040450",
+        "legal_entity": "Ип Шукирбай",
+        "kind": "услуги спецтехники по Карабулак",
+        "responsible": "Ербол",
+        "status_property": "в работе",
+        "status_barter": "в процессе",
+        "project": "KERUEN",
+        "queue": "III очередь",
+        "block": "5",
+        "floor": 3,
+        "apartment": "22",
+        "apt_type": null,
+        "area": 45,
+        "price_per_meter": 470000,
+        "amount_property": 21347400,
+        "terms": "50-50",
+        "amount_contract": 25000000,
+        "amount_paid_money": 10000000,
+        "amount_done": null,
+        "remaining_contract": 15000000,
+        "remaining_to_pay": null,
+        "company": "Услуги спецтехники по выравниванию ЗУ Карабулак, сумма договора 25 млн. Из них  10 млн, налом. Остаток бартер.",
+        "note": "",
+        "match_quality": "no_block"
+      }
     },
     "15270793": {
       "meta": {
@@ -3554,7 +4129,35 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "gsheet": {
+        "date": "",
+        "row_num": "82",
+        "contractor": "Аскар",
+        "legal_entity": "ИП Мукашев",
+        "kind": "Услуги",
+        "responsible": "Гульнур",
+        "status_property": "в работе",
+        "status_barter": "В процессе",
+        "project": "KERUEN",
+        "queue": "III очередь",
+        "block": "5",
+        "floor": 4,
+        "apartment": "33",
+        "apt_type": null,
+        "area": 29,
+        "price_per_meter": 405000,
+        "amount_property": 12120395,
+        "terms": "50 / 50",
+        "amount_contract": null,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": 0,
+        "remaining_to_pay": -12120395,
+        "company": "Мукашева ИП",
+        "note": "вывески, световые решения, парк",
+        "match_quality": "no_block"
+      }
     },
     "15270805": {
       "meta": {
@@ -3592,7 +4195,35 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "gsheet": {
+        "date": "06.08.2025",
+        "row_num": "",
+        "contractor": "Абуова Маржан (д.Вася)",
+        "legal_entity": "Абуова Маржан (д.Вася)",
+        "kind": "",
+        "responsible": "Данияр",
+        "status_property": "в работе",
+        "status_barter": "в процессе",
+        "project": "KERUEN",
+        "queue": "III очередь",
+        "block": "6",
+        "floor": 6,
+        "apartment": "46",
+        "apt_type": null,
+        "area": 53,
+        "price_per_meter": 431200,
+        "amount_property": 23090760,
+        "terms": "",
+        "amount_contract": 5000000,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "ПДКП оформлена на имя Абуовой",
+        "note": "",
+        "match_quality": "no_block"
+      }
     },
     "15270807": {
       "meta": {
@@ -3611,7 +4242,35 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "gsheet": {
+        "date": "26.09.25",
+        "row_num": "",
+        "contractor": "ДВ (Жандос)",
+        "legal_entity": "ДВ (Жандос)",
+        "kind": "Услуги",
+        "responsible": "Данияр/д.Вася",
+        "status_property": "в работе",
+        "status_barter": "в процессе",
+        "project": "KERUEN",
+        "queue": "III очередь",
+        "block": "6",
+        "floor": 6,
+        "apartment": "47",
+        "apt_type": null,
+        "area": 45,
+        "price_per_meter": 431200,
+        "amount_property": 19684280,
+        "terms": "100%",
+        "amount_contract": null,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "",
+        "note": "",
+        "match_quality": "no_block"
+      }
     },
     "15270808": {
       "meta": {
@@ -3630,7 +4289,35 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "gsheet": {
+        "date": "26.09.25",
+        "row_num": "",
+        "contractor": "ДВ (Жандос)",
+        "legal_entity": "ДВ (Жандос)",
+        "kind": "Услуги",
+        "responsible": "Данияр/д.Вася",
+        "status_property": "в работе",
+        "status_barter": "в процессе",
+        "project": "KERUEN",
+        "queue": "III очередь",
+        "block": "6",
+        "floor": 6,
+        "apartment": "48",
+        "apt_type": null,
+        "area": 45,
+        "price_per_meter": 431200,
+        "amount_property": 19684280,
+        "terms": "100%",
+        "amount_contract": null,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "",
+        "note": "",
+        "match_quality": "no_block"
+      }
     },
     "15270809": {
       "meta": {
@@ -3687,7 +4374,35 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "gsheet": {
+        "date": "13.01.2026",
+        "row_num": "",
+        "contractor": "ИП Ертолек",
+        "legal_entity": "Ертолек",
+        "kind": "услуги",
+        "responsible": "Аида",
+        "status_property": "в работе",
+        "status_barter": "в процессе",
+        "project": "KERUEN",
+        "queue": "III очередь",
+        "block": "6",
+        "floor": 4,
+        "apartment": "34",
+        "apt_type": null,
+        "area": 77,
+        "price_per_meter": 450000,
+        "amount_property": 34920000,
+        "terms": "40/60",
+        "amount_contract": null,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "",
+        "note": "",
+        "match_quality": "no_block"
+      }
     },
     "15270858": {
       "meta": {
@@ -3877,7 +4592,35 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "gsheet": {
+        "date": "19.02.2026",
+        "row_num": "",
+        "contractor": "Хамза Майнур",
+        "legal_entity": "Хамза Майнур (Алиева Минара)",
+        "kind": "товар",
+        "responsible": "ГД Олжас",
+        "status_property": "в работе",
+        "status_barter": "в процессе",
+        "project": "KERUEN",
+        "queue": "II очередь",
+        "block": "4",
+        "floor": 2,
+        "apartment": "9",
+        "apt_type": null,
+        "area": 51,
+        "price_per_meter": 420000,
+        "amount_property": 21756000,
+        "terms": "бартер 100",
+        "amount_contract": null,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "Хамза Майнур",
+        "note": "",
+        "match_quality": "no_block"
+      }
     },
     "15270984": {
       "meta": {
@@ -3896,7 +4639,35 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "gsheet": {
+        "date": "13.01.2026",
+        "row_num": "",
+        "contractor": "ИП Ертолек",
+        "legal_entity": "Ертолек",
+        "kind": "услуги",
+        "responsible": "Аида",
+        "status_property": "в работе",
+        "status_barter": "в процессе",
+        "project": "KERUEN",
+        "queue": "II очередь",
+        "block": "4",
+        "floor": 3,
+        "apartment": "26",
+        "apt_type": null,
+        "area": 51,
+        "price_per_meter": 470000,
+        "amount_property": 24125100,
+        "terms": "40/60",
+        "amount_contract": null,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "",
+        "note": "",
+        "match_quality": "no_block"
+      }
     },
     "15270985": {
       "meta": {
@@ -3915,7 +4686,35 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "gsheet": {
+        "date": "",
+        "row_num": "",
+        "contractor": "Пожсервис",
+        "legal_entity": "Жасулан",
+        "kind": "",
+        "responsible": "Данияр",
+        "status_property": "не офрлмтья",
+        "status_barter": "",
+        "project": "KERUEN",
+        "queue": "II очередь",
+        "block": "3",
+        "floor": 4,
+        "apartment": "27",
+        "apt_type": null,
+        "area": 51,
+        "price_per_meter": 490000,
+        "amount_property": 25386900,
+        "terms": "50%",
+        "amount_contract": null,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "",
+        "note": "",
+        "match_quality": "no_block"
+      }
     },
     "15270991": {
       "meta": {
@@ -3934,7 +4733,35 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "gsheet": {
+        "date": "25.12.2024",
+        "row_num": "110",
+        "contractor": "Senim Doors",
+        "legal_entity": "Дорс",
+        "kind": "двери",
+        "responsible": "Гульнур",
+        "status_property": "",
+        "status_barter": "",
+        "project": "KERUEN",
+        "queue": "II очередь",
+        "block": "3",
+        "floor": 4,
+        "apartment": "33",
+        "apt_type": null,
+        "area": 29,
+        "price_per_meter": 334560,
+        "amount_property": 10000000,
+        "terms": "100%",
+        "amount_contract": 10000000,
+        "amount_paid_money": 0,
+        "amount_done": 6678000,
+        "remaining_contract": 3322000,
+        "remaining_to_pay": null,
+        "company": "",
+        "note": "переуступка Омарову Аслану  от 08.05.2026",
+        "match_quality": "no_block"
+      }
     },
     "15270993": {
       "meta": {
@@ -3972,7 +4799,35 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "gsheet": {
+        "date": "20.04.2026",
+        "row_num": "",
+        "contractor": "ТОО OKTOPROF Андрей Воронцов",
+        "legal_entity": "ТОО OKTOPROF Андрей Воронцов",
+        "kind": "товар",
+        "responsible": "Аида",
+        "status_property": "в работе",
+        "status_barter": "Исполнен",
+        "project": "KERUEN",
+        "queue": "II очередь",
+        "block": "3",
+        "floor": 5,
+        "apartment": "44",
+        "apt_type": null,
+        "area": 51,
+        "price_per_meter": 490000,
+        "amount_property": 25151700,
+        "terms": "Условия 100%",
+        "amount_contract": null,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "",
+        "note": "",
+        "match_quality": "no_block"
+      }
     },
     "15271003": {
       "meta": {
@@ -3991,7 +4846,35 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "gsheet": {
+        "date": "13.01.2026",
+        "row_num": "",
+        "contractor": "ИП Ертолек",
+        "legal_entity": "Ертолек",
+        "kind": "услуги",
+        "responsible": "Аида",
+        "status_property": "в работе",
+        "status_barter": "в процессе",
+        "project": "KERUEN",
+        "queue": "II очередь",
+        "block": "3",
+        "floor": 6,
+        "apartment": "45",
+        "apt_type": null,
+        "area": 51,
+        "price_per_meter": 470000,
+        "amount_property": 24350700,
+        "terms": "40/60",
+        "amount_contract": null,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "",
+        "note": "",
+        "match_quality": "no_block"
+      }
     },
     "15271006": {
       "meta": {
@@ -4029,7 +4912,35 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "gsheet": {
+        "date": "30/12/2025",
+        "row_num": "",
+        "contractor": "ИП URMAN",
+        "legal_entity": "Рустем 87015563639",
+        "kind": "инертные материалы",
+        "responsible": "Азамат и Руслан",
+        "status_property": "в работе",
+        "status_barter": "в процессе",
+        "project": "KERUEN",
+        "queue": "II очередь",
+        "block": "3",
+        "floor": 6,
+        "apartment": "53",
+        "apt_type": null,
+        "area": 51,
+        "price_per_meter": 470000,
+        "amount_property": 24125100,
+        "terms": "100%",
+        "amount_contract": null,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "",
+        "note": "",
+        "match_quality": "no_block"
+      }
     },
     "15271013": {
       "meta": {
@@ -4162,7 +5073,35 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "gsheet": {
+        "date": "11.02.2026",
+        "row_num": "",
+        "contractor": "ИП Бектенова /Аскар",
+        "legal_entity": "Ип Бектенова/ Аскар",
+        "kind": "услуги",
+        "responsible": "Гульнур",
+        "status_property": "в работе",
+        "status_barter": "в процессе",
+        "project": "KERUEN",
+        "queue": "II очередь",
+        "block": "4",
+        "floor": 5,
+        "apartment": "36",
+        "apt_type": null,
+        "area": 51,
+        "price_per_meter": 490000,
+        "amount_property": 25386900,
+        "terms": "100%",
+        "amount_contract": 25386900,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "ИП Бектенова",
+        "note": "",
+        "match_quality": "no_block"
+      }
     },
     "15271049": {
       "meta": {
@@ -4181,7 +5120,35 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "gsheet": {
+        "date": "03.11.2025",
+        "row_num": "",
+        "contractor": "ИП Молдахметов Жомарт",
+        "legal_entity": "ИП Молдахметов Ж",
+        "kind": "Услуги спецтехника",
+        "responsible": "Гульнур",
+        "status_property": "в работе",
+        "status_barter": "в процессе",
+        "project": "KERUEN",
+        "queue": "II очередь",
+        "block": "4",
+        "floor": 5,
+        "apartment": "38",
+        "apt_type": null,
+        "area": 45,
+        "price_per_meter": 470000,
+        "amount_property": 21455500,
+        "terms": "50-50",
+        "amount_contract": 21455500,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "",
+        "note": "",
+        "match_quality": "no_block"
+      }
     },
     "15271050": {
       "meta": {
@@ -4200,7 +5167,35 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "gsheet": {
+        "date": "12.08.2025",
+        "row_num": "",
+        "contractor": "Саги",
+        "legal_entity": "SM STEEL",
+        "kind": "Материалы",
+        "responsible": "Аида",
+        "status_property": "Отработан",
+        "status_barter": "в процессе",
+        "project": "KERUEN",
+        "queue": "II очередь",
+        "block": "4",
+        "floor": 5,
+        "apartment": "39",
+        "apt_type": null,
+        "area": 45,
+        "price_per_meter": 466200,
+        "amount_property": 21319326,
+        "terms": "30/70",
+        "amount_contract": 71064420,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "",
+        "note": "",
+        "match_quality": "no_block"
+      }
     },
     "15271051": {
       "meta": {
@@ -4219,7 +5214,35 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "gsheet": {
+        "date": "12.08.2025",
+        "row_num": "",
+        "contractor": "Саги",
+        "legal_entity": "SM STEEL",
+        "kind": "Материалы",
+        "responsible": "Аида",
+        "status_property": "Отработан",
+        "status_barter": "в процессе",
+        "project": "KERUEN",
+        "queue": "II очередь",
+        "block": "4",
+        "floor": 5,
+        "apartment": "40",
+        "apt_type": null,
+        "area": 45,
+        "price_per_meter": 466200,
+        "amount_property": 21174804,
+        "terms": "30/70",
+        "amount_contract": 70582680,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "",
+        "note": "",
+        "match_quality": "no_block"
+      }
     },
     "15271053": {
       "meta": {
@@ -4238,7 +5261,35 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "gsheet": {
+        "date": "03.11.2025",
+        "row_num": "",
+        "contractor": "ИП Молдахметов Жомарт",
+        "legal_entity": "ИП Молдахметов Ж",
+        "kind": "Услуги спецтехника",
+        "responsible": "Гульнур",
+        "status_property": "в работе",
+        "status_barter": "в процессе",
+        "project": "KERUEN",
+        "queue": "II очередь",
+        "block": "4",
+        "floor": 5,
+        "apartment": "42",
+        "apt_type": null,
+        "area": 29,
+        "price_per_meter": 480000,
+        "amount_property": 14347200,
+        "terms": "50-50",
+        "amount_contract": 14347200,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "",
+        "note": "",
+        "match_quality": "no_block"
+      }
     },
     "15271056": {
       "meta": {
@@ -4314,7 +5365,35 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "gsheet": {
+        "date": "13.01.2026",
+        "row_num": "",
+        "contractor": "ИП Ертолек",
+        "legal_entity": "Ертолек",
+        "kind": "услуги",
+        "responsible": "Аида",
+        "status_property": "в работе",
+        "status_barter": "в процессе",
+        "project": "KERUEN",
+        "queue": "II очередь",
+        "block": "4",
+        "floor": 6,
+        "apartment": "52",
+        "apt_type": null,
+        "area": 77,
+        "price_per_meter": 450000,
+        "amount_property": 34920000,
+        "terms": "40/60",
+        "amount_contract": null,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "",
+        "note": "",
+        "match_quality": "no_block"
+      }
     },
     "15271064": {
       "meta": {
@@ -15071,7 +16150,35 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "gsheet": {
+        "date": "29.08.25",
+        "row_num": "",
+        "contractor": "Сергей (геология) 87051694491 Жуков Матве",
+        "legal_entity": "Сергей (геология)",
+        "kind": "Услуги",
+        "responsible": "Дмитрий/Данияр",
+        "status_property": "в работе",
+        "status_barter": "в процессе",
+        "project": "KERUEN",
+        "queue": "IV очередь",
+        "block": "8",
+        "floor": 6,
+        "apartment": "45",
+        "apt_type": null,
+        "area": 51,
+        "price_per_meter": 446200,
+        "amount_property": 23117622,
+        "terms": "60/40",
+        "amount_contract": null,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "пдкп оформлена на имя Жуков М .  5 млн тг",
+        "note": "",
+        "match_quality": "no_block"
+      }
     },
     "15271110": {
       "meta": {
@@ -15090,7 +16197,35 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "gsheet": {
+        "date": "15.08.2025",
+        "row_num": "",
+        "contractor": "Данияр -шеф",
+        "legal_entity": "Данияр шеф",
+        "kind": "",
+        "responsible": "Данияр",
+        "status_property": "",
+        "status_barter": "",
+        "project": "KERUEN",
+        "queue": "IV очередь",
+        "block": "8",
+        "floor": 6,
+        "apartment": "46",
+        "apt_type": null,
+        "area": 53,
+        "price_per_meter": 431200,
+        "amount_property": 23090760,
+        "terms": "",
+        "amount_contract": null,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "",
+        "note": "",
+        "match_quality": "no_block"
+      }
     },
     "15271111": {
       "meta": {
@@ -15109,7 +16244,35 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "gsheet": {
+        "date": "02.10.2025",
+        "row_num": "",
+        "contractor": "Усенов Магамед",
+        "legal_entity": "Олжас Койлышов (Еркебулан 1)",
+        "kind": "",
+        "responsible": "Данияр",
+        "status_property": "в работе",
+        "status_barter": "в процессе",
+        "project": "KERUEN",
+        "queue": "IV очередь",
+        "block": "8",
+        "floor": 6,
+        "apartment": "47",
+        "apt_type": null,
+        "area": 45,
+        "price_per_meter": 431200,
+        "amount_property": 19684280,
+        "terms": "100%",
+        "amount_contract": 19684280,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "Олжас Койлышов (Еркебулан 1)",
+        "note": "",
+        "match_quality": "no_block"
+      }
     },
     "15271112": {
       "meta": {
@@ -15128,7 +16291,35 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "gsheet": {
+        "date": "29.08.25",
+        "row_num": "",
+        "contractor": "Сергей (геология) 87051694491 Матвей",
+        "legal_entity": "Сергей (геология) Матвей",
+        "kind": "Услуги",
+        "responsible": "Дмитрий/Данияр",
+        "status_property": "в работе",
+        "status_barter": "в процессе",
+        "project": "KERUEN",
+        "queue": "IV очередь",
+        "block": "8",
+        "floor": 6,
+        "apartment": "48",
+        "apt_type": null,
+        "area": 45,
+        "price_per_meter": 446200,
+        "amount_property": 20369030,
+        "terms": "60/40",
+        "amount_contract": null,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "пдкп оформлена на имя Жуков М .  5 млн тг",
+        "note": "",
+        "match_quality": "no_block"
+      }
     },
     "15271114": {
       "meta": {
@@ -15147,7 +16338,35 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "gsheet": {
+        "date": "22.12.2025",
+        "row_num": "",
+        "contractor": "Айбек 87017839472",
+        "legal_entity": "ТОО Амре Курлыс",
+        "kind": "Услуги электромонт.раб",
+        "responsible": "Гульнур",
+        "status_property": "в работе",
+        "status_barter": "в процессе",
+        "project": "KERUEN",
+        "queue": "IV очередь",
+        "block": "7",
+        "floor": 6,
+        "apartment": "50",
+        "apt_type": null,
+        "area": 37,
+        "price_per_meter": 455000,
+        "amount_property": 17221750,
+        "terms": "100%",
+        "amount_contract": 17221750,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "",
+        "note": "",
+        "match_quality": "no_block"
+      }
     },
     "15271116": {
       "meta": {
@@ -15166,7 +16385,35 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "gsheet": {
+        "date": "18.08.25",
+        "row_num": "",
+        "contractor": "Бахытжанов Бауыржан (д.Вася)",
+        "legal_entity": "Бахытжанов Бауыржан",
+        "kind": "",
+        "responsible": "Данияр",
+        "status_property": "в работе",
+        "status_barter": "в процессе",
+        "project": "KERUEN",
+        "queue": "IV очередь",
+        "block": "7",
+        "floor": 6,
+        "apartment": "52",
+        "apt_type": null,
+        "area": 75,
+        "price_per_meter": 418880,
+        "amount_property": 31826502,
+        "terms": "100%",
+        "amount_contract": 31826502,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "7 квартир оформили на имя Бахытжанов Бауыржана. 2 кв.- Аура, 5 кв.- Атмосфера. По поручению Данияра, через д.Васю.",
+        "note": "",
+        "match_quality": "no_block"
+      }
     },
     "15271150": {
       "meta": {
@@ -15185,7 +16432,35 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "gsheet": {
+        "date": "02.03.2026",
+        "row_num": "",
+        "contractor": "ТОО Элконт",
+        "legal_entity": "ТОО Элконт, Галина  87057023638",
+        "kind": "услуги",
+        "responsible": "Аделя",
+        "status_property": "в работе",
+        "status_barter": "в процессе",
+        "project": "KERUEN",
+        "queue": "IV очередь",
+        "block": "8",
+        "floor": 4,
+        "apartment": "33",
+        "apt_type": null,
+        "area": 29,
+        "price_per_meter": 465000,
+        "amount_property": 13898850,
+        "terms": "бартер 60-40",
+        "amount_contract": 13898850,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "ТОО Элконт",
+        "note": "",
+        "match_quality": "no_block"
+      }
     },
     "15271162": {
       "meta": {
@@ -15280,7 +16555,35 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "gsheet": {
+        "date": "02.10.2025",
+        "row_num": "",
+        "contractor": "Садыкова Сулу (Еркебулан 2)",
+        "legal_entity": "Садыкова Сулу (Еркебулан 2)",
+        "kind": "",
+        "responsible": "Данияр",
+        "status_property": "в работе",
+        "status_barter": "в процессе",
+        "project": "KERUEN",
+        "queue": "IV очередь",
+        "block": "8",
+        "floor": 6,
+        "apartment": "49",
+        "apt_type": null,
+        "area": 45,
+        "price_per_meter": 431200,
+        "amount_property": 19585104,
+        "terms": "",
+        "amount_contract": null,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "",
+        "note": "",
+        "match_quality": "no_block"
+      }
     },
     "15271169": {
       "meta": {
@@ -15337,7 +16640,35 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "gsheet": {
+        "date": "20.02.2026",
+        "row_num": "Ернур",
+        "contractor": "ИП БМ Prom Service",
+        "legal_entity": "Анатолий 87071217880",
+        "kind": "",
+        "responsible": "Аида",
+        "status_property": "в работе",
+        "status_barter": "в процессе",
+        "project": "AURA",
+        "queue": "II очередь",
+        "block": "3",
+        "floor": 1,
+        "apartment": "7",
+        "apt_type": null,
+        "area": 74,
+        "price_per_meter": 433200,
+        "amount_property": 32100120,
+        "terms": "бартер 30-70",
+        "amount_contract": null,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "ИП БМ Prom Service",
+        "note": "",
+        "match_quality": "no_block"
+      }
     },
     "15386487": {
       "meta": {
@@ -15356,7 +16687,35 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "gsheet": {
+        "date": "19.08.25",
+        "row_num": "",
+        "contractor": "Шмидт Андрей Александрович (д.Вася)",
+        "legal_entity": "Шмидт А.А",
+        "kind": "",
+        "responsible": "Данияр",
+        "status_property": "в работе",
+        "status_barter": "в процессе",
+        "project": "AURA",
+        "queue": "II очередь",
+        "block": "3",
+        "floor": 6,
+        "apartment": "45",
+        "apt_type": null,
+        "area": 44,
+        "price_per_meter": 425600,
+        "amount_property": 18879616,
+        "terms": "100%",
+        "amount_contract": 18879616,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "",
+        "note": "",
+        "match_quality": "no_block"
+      }
     },
     "15386488": {
       "meta": {
@@ -15375,7 +16734,35 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "gsheet": {
+        "date": "25.08.25",
+        "row_num": "",
+        "contractor": "Абуова Айгерим (д.Вася)",
+        "legal_entity": "Абуова Айгерим (д.Вася)",
+        "kind": "",
+        "responsible": "Данияр",
+        "status_property": "в работе",
+        "status_barter": "в процессе",
+        "project": "AURA",
+        "queue": "II очередь",
+        "block": "3",
+        "floor": 6,
+        "apartment": "46",
+        "apt_type": null,
+        "area": 49,
+        "price_per_meter": 408800,
+        "amount_property": 20166104,
+        "terms": "",
+        "amount_contract": 5000000,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "ПДКП оформлена на имя Абуовой",
+        "note": "",
+        "match_quality": "no_block"
+      }
     },
     "15386489": {
       "meta": {
@@ -15413,7 +16800,35 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "gsheet": {
+        "date": "20.08.25",
+        "row_num": "",
+        "contractor": "Шмидт Андрей Александрович (д.Вася)",
+        "legal_entity": "Шмидт А.А",
+        "kind": "",
+        "responsible": "Данияр",
+        "status_property": "в работе",
+        "status_barter": "в процессе",
+        "project": "AURA",
+        "queue": "II очередь",
+        "block": "3",
+        "floor": 6,
+        "apartment": "49",
+        "apt_type": null,
+        "area": 64,
+        "price_per_meter": 420000,
+        "amount_property": 27157200,
+        "terms": "",
+        "amount_contract": null,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "",
+        "note": "",
+        "match_quality": "no_block"
+      }
     },
     "15386492": {
       "meta": {
@@ -15432,7 +16847,35 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "gsheet": {
+        "date": "19.08.25",
+        "row_num": "",
+        "contractor": "Шмидт Андрей Александрович (д.Вася)",
+        "legal_entity": "Шмидт А.А",
+        "kind": "",
+        "responsible": "Данияр",
+        "status_property": "в работе",
+        "status_barter": "в процессе",
+        "project": "AURA",
+        "queue": "II очередь",
+        "block": "3",
+        "floor": 6,
+        "apartment": "50",
+        "apt_type": null,
+        "area": 75,
+        "price_per_meter": 403200,
+        "amount_property": 30405312,
+        "terms": "100%",
+        "amount_contract": 30405312,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "",
+        "note": "",
+        "match_quality": "no_block"
+      }
     },
     "15386493": {
       "meta": {
@@ -15489,7 +16932,35 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "gsheet": {
+        "date": "19.08.25",
+        "row_num": "",
+        "contractor": "Шмидт Андрей Александрович (д.Вася)",
+        "legal_entity": "Шмидт А.А",
+        "kind": "",
+        "responsible": "Данияр",
+        "status_property": "в работе",
+        "status_barter": "в процессе",
+        "project": "AURA",
+        "queue": "II очередь",
+        "block": "3",
+        "floor": 6,
+        "apartment": "53",
+        "apt_type": null,
+        "area": 44,
+        "price_per_meter": 425600,
+        "amount_property": 18879616,
+        "terms": "100%",
+        "amount_contract": 18879616,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "",
+        "note": "",
+        "match_quality": "no_block"
+      }
     },
     "15386540": {
       "meta": {
@@ -15846,7 +17317,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "15525606": {
@@ -15892,7 +17364,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "15525611": {
@@ -15938,7 +17411,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "ПДКП оформлена на имя Абуовой",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "15525616": {
@@ -16022,7 +17496,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "7 квартир оформили на имя Бахытжанов Бауыржана. 2 кв.- Аура, 5 кв.- Атмосфера. По поручению Данияра, через д.Васю.",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "15525624": {
@@ -16042,7 +17517,35 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "gsheet": {
+        "date": "20/08/2025",
+        "row_num": "",
+        "contractor": "ИП Аскар/ИП Бектенова",
+        "legal_entity": "ИП Аскар",
+        "kind": "услуги",
+        "responsible": "Гульнур/Данияр",
+        "status_property": "в работе",
+        "status_barter": "в процессе",
+        "project": "Атмосфера",
+        "queue": "V очередь",
+        "block": "28",
+        "floor": 1,
+        "apartment": "5",
+        "apt_type": null,
+        "area": 63,
+        "price_per_meter": 481500,
+        "amount_property": 30440430,
+        "terms": "100%",
+        "amount_contract": 30440430,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "",
+        "note": "переуступка на Жунисбай Бекзат  оплатили Аскару с ТОО Kazstroy MK",
+        "match_quality": "no_block"
+      }
     },
     "15525629": {
       "meta": {
@@ -16087,7 +17590,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "15525634": {
@@ -16133,7 +17637,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "15525640": {
@@ -16179,7 +17684,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "",
-        "note": "переуступка на ТУРГУМБАЕВ МАРЛЕН ЕРЛАНОВИЧ, 42 156 200 тн. от 25.02.26"
+        "note": "переуступка на ТУРГУМБАЕВ МАРЛЕН ЕРЛАНОВИЧ, 42 156 200 тн. от 25.02.26",
+        "match_quality": "exact"
       }
     },
     "15525643": {
@@ -16225,7 +17731,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "15525644": {
@@ -16271,7 +17778,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "15525646": {
@@ -16336,7 +17844,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "15525648": {
@@ -16382,7 +17891,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "15525649": {
@@ -16428,7 +17938,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "15525651": {
@@ -16474,7 +17985,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "15525653": {
@@ -16520,7 +18032,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "15525654": {
@@ -16566,7 +18079,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "15525660": {
@@ -16612,7 +18126,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "15525665": {
@@ -16658,7 +18173,8 @@
         "remaining_contract": 29110500,
         "remaining_to_pay": null,
         "company": "",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "15525674": {
@@ -16704,7 +18220,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "7 квартир оформили на имя Бахытжанов Бауыржана. 2 кв.- Аура, 5 кв.- Атмосфера. По поручению Данияра, через д.Васю.",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "15525683": {
@@ -16788,7 +18305,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "15525724": {
@@ -16834,7 +18352,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "",
-        "note": "переуступка на ТУРГУМБАЕВ МАРЛЕН ЕРЛАНОВИЧ, 39 517 800 тн., от 25.02.26, далее пересутупил на Сериков Ернар 13.05.2026"
+        "note": "переуступка на ТУРГУМБАЕВ МАРЛЕН ЕРЛАНОВИЧ, 39 517 800 тн., от 25.02.26, далее пересутупил на Сериков Ернар 13.05.2026",
+        "match_quality": "exact"
       }
     },
     "15525725": {
@@ -16880,7 +18399,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "7 квартир оформили на имя Бахытжанов Бауыржана. 2 кв.- Аура, 5 кв.- Атмосфера. По поручению Данияра, через д.Васю.",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "15525729": {
@@ -16926,7 +18446,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "15525731": {
@@ -16991,7 +18512,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "15525738": {
@@ -17037,7 +18559,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "15525745": {
@@ -17083,7 +18606,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "",
-        "note": "ТҰРЛАН ЕЛДОС ҰЛАНҰЛЫ, Ипотека Наурыз 36 млн - Банк Отбасы от имени клиента.\nНеобходимо проивзести оплату ТОО \"Senim Doors\" по договору поставки. Оплата поступила 18.03.2026"
+        "note": "ТҰРЛАН ЕЛДОС ҰЛАНҰЛЫ, Ипотека Наурыз 36 млн - Банк Отбасы от имени клиента.\nНеобходимо проивзести оплату ТОО \"Senim Doors\" по договору поставки. Оплата поступила 18.03.2026",
+        "match_quality": "exact"
       }
     },
     "15525746": {
@@ -17129,7 +18653,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "15525759": {
@@ -17194,7 +18719,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "15640355": {
@@ -17259,7 +18785,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "16187259": {
@@ -17305,7 +18832,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "16187269": {
@@ -17351,7 +18879,8 @@
         "remaining_contract": 0,
         "remaining_to_pay": -8442000,
         "company": "Кумакбаев Б.",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "16187270": {
@@ -17397,7 +18926,8 @@
         "remaining_contract": 0,
         "remaining_to_pay": -8031600,
         "company": "Кумакбаев Б.",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "16187302": {
@@ -17690,7 +19220,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "16458135": {
@@ -17736,7 +19267,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "16458151": {
@@ -17782,7 +19314,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "16458157": {
@@ -17847,7 +19380,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "16458163": {
@@ -17893,7 +19427,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "Ержан-Исмайл",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "16458166": {
@@ -18015,7 +19550,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "16459216": {
@@ -18061,7 +19597,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "16459226": {
@@ -18335,7 +19872,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "16465137": {
@@ -19103,7 +20641,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "ТОО Бетон А",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "16682219": {
@@ -19142,7 +20681,35 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "gsheet": {
+        "date": "",
+        "row_num": "",
+        "contractor": "Владимир",
+        "legal_entity": "«IZO-MARKET KM»",
+        "kind": "материалы",
+        "responsible": "Аида",
+        "status_property": "в работе",
+        "status_barter": "в процессе",
+        "project": "Атмосфера",
+        "queue": "VII очередь",
+        "block": "39",
+        "floor": 7,
+        "apartment": "23",
+        "apt_type": null,
+        "area": 66,
+        "price_per_meter": 584100,
+        "amount_property": 38807604,
+        "terms": "30%/70%",
+        "amount_contract": 129358680,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "",
+        "note": "",
+        "match_quality": "no_floor"
+      }
     },
     "16682279": {
       "meta": {
@@ -19187,7 +20754,8 @@
         "remaining_contract": null,
         "remaining_to_pay": null,
         "company": "Арлан строй Жадырасын",
-        "note": ""
+        "note": "",
+        "match_quality": "exact"
       }
     },
     "16857112": {
@@ -19207,7 +20775,35 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "gsheet": {
+        "date": "13.02.2026",
+        "row_num": "Ернур",
+        "contractor": "ИП Темир",
+        "legal_entity": "Ерлан и Ержан (стяжка)",
+        "kind": "стяжка",
+        "responsible": "ГД",
+        "status_property": "в работе",
+        "status_barter": "в процессе",
+        "project": "AURA",
+        "queue": "III очередь",
+        "block": "6",
+        "floor": 6,
+        "apartment": "46",
+        "apt_type": null,
+        "area": 49,
+        "price_per_meter": 445977,
+        "amount_property": 22000045,
+        "terms": "бартер 60/40",
+        "amount_contract": 55000113,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "ИП Темир",
+        "note": "",
+        "match_quality": "no_block"
+      }
     },
     "16944981": {
       "meta": {
@@ -19226,7 +20822,35 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "gsheet": {
+        "date": "",
+        "row_num": "99",
+        "contractor": "Пожсервис",
+        "legal_entity": "Жасулан",
+        "kind": "",
+        "responsible": "Данияр",
+        "status_property": "не офрлмтья",
+        "status_barter": "",
+        "project": "Атмосфера",
+        "queue": "IV очередь",
+        "block": "",
+        "floor": null,
+        "apartment": "208",
+        "apt_type": "parking",
+        "area": null,
+        "price_per_meter": null,
+        "amount_property": null,
+        "terms": "50%",
+        "amount_contract": null,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "",
+        "note": "",
+        "match_quality": "exact"
+      }
     },
     "16945000": {
       "meta": {
@@ -19283,7 +20907,35 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "gsheet": {
+        "date": "14.05.2026",
+        "row_num": "",
+        "contractor": "Хамза Майнур",
+        "legal_entity": "Хамза Майнур (Алиева Минара)",
+        "kind": "товар",
+        "responsible": "ГД Олжас",
+        "status_property": "в работе",
+        "status_barter": "в процессе",
+        "project": "Атмосфера",
+        "queue": "V очередь",
+        "block": "28",
+        "floor": null,
+        "apartment": "260",
+        "apt_type": "parking",
+        "area": null,
+        "price_per_meter": null,
+        "amount_property": 1500000,
+        "terms": "Бартер 100%",
+        "amount_contract": 1500000,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "",
+        "note": "Оформляем на Алиеву Минару забрал и подписал договор",
+        "match_quality": "exact"
+      }
     },
     "17049628": {
       "meta": {
@@ -19302,7 +20954,35 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "gsheet": {
+        "date": "14.05.2026",
+        "row_num": "",
+        "contractor": "Хамза Майнур",
+        "legal_entity": "Хамза Майнур (Алиева Минара)",
+        "kind": "товар",
+        "responsible": "ГД Олжас",
+        "status_property": "в работе",
+        "status_barter": "в процессе",
+        "project": "Атмосфера",
+        "queue": "V очередь",
+        "block": "29",
+        "floor": null,
+        "apartment": "263",
+        "apt_type": "parking",
+        "area": null,
+        "price_per_meter": null,
+        "amount_property": 1500000,
+        "terms": "Бартер 100%",
+        "amount_contract": 1500000,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "",
+        "note": "Оформляем на Алиева Руфина забрал и подписал договор",
+        "match_quality": "exact"
+      }
     },
     "17049631": {
       "meta": {
@@ -19321,7 +21001,35 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "gsheet": {
+        "date": "14.05.2026",
+        "row_num": "",
+        "contractor": "Хамза Майнур",
+        "legal_entity": "Хамза Майнур (Алиева Минара)",
+        "kind": "товар",
+        "responsible": "ГД Олжас",
+        "status_property": "в работе",
+        "status_barter": "в процессе",
+        "project": "Атмосфера",
+        "queue": "V очередь",
+        "block": "29",
+        "floor": null,
+        "apartment": "266",
+        "apt_type": "parking",
+        "area": null,
+        "price_per_meter": null,
+        "amount_property": 1500000,
+        "terms": "Бартер 100%",
+        "amount_contract": 1500000,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "",
+        "note": "Оформляем на Алиева Руфина забрал и подписал договор",
+        "match_quality": "exact"
+      }
     },
     "17082148": {
       "meta": {
@@ -30206,26 +31914,13 @@
           "contactName": "Сания",
           "contactPhone": "+77086898224",
           "contactId": 435366
-        },
-        {
-          "date": 1779421156,
-          "date_local": "22.05.2026 08:39",
-          "from_status_key": "BOOKED",
-          "to_status_key": "BOOKED",
-          "to_status_label": "Бронь",
-          "dealId": 525512,
-          "dealName": "Байгонусова Сания Амангельдиновна - КР_4.7.3.18-АЗД",
-          "responsibleName": "Малика",
-          "contactName": "Сания",
-          "contactPhone": "+77086898224",
-          "contactId": 435366
         }
       ],
       "current_status_label": "Бронь",
-      "last_deal_name": "Байгонусова Сания Амангельдиновна - КР_4.7.3.18-АЗД",
-      "last_responsible": "Малика",
-      "last_date": 1779421156,
-      "last_date_local": "22.05.2026 08:39"
+      "last_deal_name": "Сания - Пешеход",
+      "last_responsible": "Ермек",
+      "last_date": 1779338434,
+      "last_date_local": "21.05.2026 09:40"
     },
     "15386475": {
       "meta": {
@@ -158485,7 +160180,8 @@
         "remaining_contract": 0,
         "remaining_to_pay": 0,
         "company": "Изомаркет ТОО",
-        "note": "поставка материалов на тепло и гидроизоляцию, ДКП оформлен"
+        "note": "поставка материалов на тепло и гидроизоляцию, ДКП оформлен",
+        "match_quality": "exact"
       }
     },
     "8889354": {
@@ -158521,30 +160217,31 @@
       },
       "gsheet": {
         "date": "",
-        "row_num": "25",
-        "contractor": "Абдували",
+        "row_num": "31",
+        "contractor": "Нуктебек",
         "legal_entity": "",
         "kind": "Услуги",
-        "responsible": "Гульнур Руслан",
+        "responsible": "Шынар",
         "status_property": "ОФОРМЛЕН",
         "status_barter": "",
         "project": "Атмосфера",
         "queue": "I очередь",
-        "block": "6",
+        "block": "3",
         "floor": 1,
         "apartment": "2",
         "apt_type": null,
         "area": 69,
         "price_per_meter": null,
         "amount_property": 27849570,
-        "terms": "100%",
+        "terms": "75 / 25",
         "amount_contract": null,
         "amount_paid_money": null,
         "amount_done": null,
         "remaining_contract": 0,
         "remaining_to_pay": -27849570,
-        "company": "Альжанова ИП",
-        "note": "гидроизоляция кровли, фундамента - услуга, ДКП оформлен на Шайкен Талгат (физ лицо)"
+        "company": "Маркет.кз ИП",
+        "note": "стяжка, Аскарбектау, ИП Тегизбаева, ИП Кайынбаев",
+        "match_quality": "no_block"
       }
     },
     "8889363": {
@@ -158603,7 +160300,8 @@
         "remaining_contract": 0,
         "remaining_to_pay": -20603633,
         "company": "Dostar лифт ТОО",
-        "note": "ЛИФТ - изготовление, монтаж, передано на оформление"
+        "note": "ЛИФТ - изготовление, монтаж, передано на оформление",
+        "match_quality": "exact"
       }
     },
     "8889298": {
@@ -158662,7 +160360,8 @@
         "remaining_contract": 0,
         "remaining_to_pay": -27662088,
         "company": "МайнурЭлитстрой ТОО",
-        "note": "поставка бетона и инертных материалов, ДКП оформлен"
+        "note": "поставка бетона и инертных материалов, ДКП оформлен",
+        "match_quality": "exact"
       }
     },
     "8889353": {
@@ -158721,7 +160420,8 @@
         "remaining_contract": 0,
         "remaining_to_pay": -27090140,
         "company": "МайнурЭлитстрой ТОО",
-        "note": "поставка бетона и инертных материалов, ДКП оформлен"
+        "note": "поставка бетона и инертных материалов, ДКП оформлен",
+        "match_quality": "exact"
       }
     },
     "8889299": {
@@ -158780,7 +160480,8 @@
         "remaining_contract": 0,
         "remaining_to_pay": -20630703,
         "company": "Dostar лифт ТОО",
-        "note": "ЛИФТ - изготовление, монтаж, передано на оформление"
+        "note": "ЛИФТ - изготовление, монтаж, передано на оформление",
+        "match_quality": "exact"
       }
     },
     "8889356": {
@@ -158839,7 +160540,8 @@
         "remaining_contract": 0,
         "remaining_to_pay": 0,
         "company": "Бородулин ИП",
-        "note": "ДВЕРИ - изготовление, монтаж, ДКП оформлен на Гайденрайх О"
+        "note": "ДВЕРИ - изготовление, монтаж, ДКП оформлен на Гайденрайх О",
+        "match_quality": "exact"
       }
     },
     "8889331": {
@@ -158898,7 +160600,8 @@
         "remaining_contract": 0,
         "remaining_to_pay": -36905116,
         "company": "Арланстройинвест-75 ТОО",
-        "note": "ГАЗ"
+        "note": "ГАЗ",
+        "match_quality": "exact"
       }
     },
     "9043945": {
@@ -158957,7 +160660,8 @@
         "remaining_contract": 0,
         "remaining_to_pay": -18237160,
         "company": "Арланстройинвест-75 ТОО",
-        "note": "ГАЗ"
+        "note": "ГАЗ",
+        "match_quality": "exact"
       }
     },
     "10202197": {
@@ -159048,7 +160752,8 @@
         "remaining_contract": 0,
         "remaining_to_pay": -18237160,
         "company": "Арланстройинвест-75 ТОО",
-        "note": "ГАЗ"
+        "note": "ГАЗ",
+        "match_quality": "exact"
       }
     },
     "10933046": {
@@ -159084,30 +160789,31 @@
       },
       "gsheet": {
         "date": "",
-        "row_num": "20",
-        "contractor": "Дощинская Эвелина Олеговна",
+        "row_num": "14",
+        "contractor": "Алма",
         "legal_entity": "",
         "kind": "Другое",
-        "responsible": "Руслан",
+        "responsible": "Данияр",
         "status_property": "",
         "status_barter": "",
         "project": "Арлан",
         "queue": "IV очередь",
         "block": "7",
         "floor": 1,
-        "apartment": "КП-1",
+        "apartment": "1",
         "apt_type": null,
-        "area": 69,
-        "price_per_meter": 317232,
-        "amount_property": 21920700,
+        "area": 32,
+        "price_per_meter": 306560,
+        "amount_property": 10000000,
         "terms": "",
         "amount_contract": null,
         "amount_paid_money": null,
         "amount_done": null,
         "remaining_contract": 0,
-        "remaining_to_pay": -21920700,
-        "company": "Дощинская Эвелина Олеговна",
-        "note": "Данияр А. / д. Вася"
+        "remaining_to_pay": -10000000,
+        "company": "Досмухамбетова Алма",
+        "note": "от Данияра",
+        "match_quality": "exact"
       }
     },
     "11668341": {
@@ -159166,7 +160872,8 @@
         "remaining_contract": -43552560,
         "remaining_to_pay": 0,
         "company": "Воронцов / Аскольд / Главпроф",
-        "note": "ТМЦ подсистема / через титан"
+        "note": "ТМЦ подсистема / через титан",
+        "match_quality": "exact"
       }
     },
     "11589627": {
@@ -159385,7 +161092,8 @@
         "remaining_contract": 0,
         "remaining_to_pay": -21450690,
         "company": "Аскар ИП",
-        "note": "услуги техники Құлыш Асқар Алтайұлы, ДКП оформлен"
+        "note": "услуги техники Құлыш Асқар Алтайұлы, ДКП оформлен",
+        "match_quality": "exact"
       }
     },
     "9043976": {
@@ -159444,7 +161152,8 @@
         "remaining_contract": 0,
         "remaining_to_pay": 0,
         "company": "АКХ Капитал",
-        "note": "ФЦП, ДКП оформлен"
+        "note": "ФЦП, ДКП оформлен",
+        "match_quality": "exact"
       }
     },
     "11609330": {
@@ -159536,6 +161245,34 @@
         "contact_phone": "77003003979",
         "source": "bitrix24",
         "date_create": "2023-09-13T07:00:28+03:00"
+      },
+      "gsheet": {
+        "date": "",
+        "row_num": "35",
+        "contractor": "ПКФ-Сталь",
+        "legal_entity": "",
+        "kind": "Материалы",
+        "responsible": "Аида",
+        "status_property": "ОФОРМЛЕН",
+        "status_barter": "Исполнен",
+        "project": "Атмосфера",
+        "queue": "II очередь",
+        "block": "9",
+        "floor": 4,
+        "apartment": "17",
+        "apt_type": null,
+        "area": 67,
+        "price_per_meter": 414999,
+        "amount_property": 28000000,
+        "terms": "100%",
+        "amount_contract": 56608280,
+        "amount_paid_money": 28608280,
+        "amount_done": 56608280,
+        "remaining_contract": 0,
+        "remaining_to_pay": 0,
+        "company": "ПКФ-Сталь",
+        "note": "скидку дала Гульнур / офомрлен ДКП на Калымова",
+        "match_quality": "no_floor"
       }
     },
     "10398384": {
@@ -159571,30 +161308,31 @@
       },
       "gsheet": {
         "date": "",
-        "row_num": "13",
-        "contractor": "ИП Сыздыков",
-        "legal_entity": "",
-        "kind": "Услуги",
-        "responsible": "Гульнур Руслан",
+        "row_num": "38",
+        "contractor": "Нурболсын",
+        "legal_entity": "Dostar Lift",
+        "kind": "Материалы",
+        "responsible": "Аида",
         "status_property": "ОФОРМЛЕН",
         "status_barter": "Исполнен",
         "project": "Атмосфера",
         "queue": "II очередь",
-        "block": "10",
+        "block": "9",
         "floor": 2,
         "apartment": "6",
         "apt_type": null,
-        "area": 44,
-        "price_per_meter": 477000,
-        "amount_property": 21145410,
-        "terms": "50 / 50",
+        "area": 65,
+        "price_per_meter": null,
+        "amount_property": 16000002,
+        "terms": "100%",
         "amount_contract": null,
         "amount_paid_money": null,
         "amount_done": null,
         "remaining_contract": 0,
-        "remaining_to_pay": -21145410,
-        "company": "Данияр земельный комитет",
-        "note": "земельный комитет"
+        "remaining_to_pay": -16000002,
+        "company": "Dostar лифт ТОО",
+        "note": "ЛИФТ - изготовление, монтаж",
+        "match_quality": "no_block"
       }
     },
     "8889334": {
@@ -159653,7 +161391,8 @@
         "remaining_contract": 0,
         "remaining_to_pay": -35020000,
         "company": "МайнурЭлитстрой ТОО",
-        "note": "поставка бетона и инертных материалов, ДКП оформлен"
+        "note": "поставка бетона и инертных материалов, ДКП оформлен",
+        "match_quality": "exact"
       }
     },
     "9043918": {
@@ -159712,46 +161451,12 @@
         "remaining_contract": 0,
         "remaining_to_pay": -15631095,
         "company": "Арланстройинвест-75 ТОО",
-        "note": "ГАЗ"
+        "note": "ГАЗ",
+        "match_quality": "exact"
       }
-    },
-    "15271091": {
-      "meta": {
-        "project": "KERUEN",
-        "house": "IV очередь",
-        "section": "Подъезд 7",
-        "number": "27",
-        "floor": 4,
-        "rooms": 2,
-        "area": 51.81,
-        "price": 25905000,
-        "status": "BOOKED",
-        "customStatusId": 112773
-      },
-      "current_status": "BOOKED",
-      "history": [
-        {
-          "date": 1779409371,
-          "date_local": "22.05.2026 05:22",
-          "from_status_key": null,
-          "to_status_key": "BOOKED",
-          "to_status_label": "Бронь",
-          "dealId": 524190,
-          "dealName": "без - Пешеход",
-          "responsibleName": "Салима",
-          "contactName": "Гулдария",
-          "contactPhone": "+77474248416",
-          "contactId": 434410
-        }
-      ],
-      "current_status_label": "Бронь",
-      "last_deal_name": "без - Пешеход",
-      "last_responsible": "Салима",
-      "last_date": 1779409371,
-      "last_date_local": "22.05.2026 05:22"
     }
   },
   "last_run": 1779375403,
   "bitrix_last_sync": "2024-11-19T09:08:48+03:00",
-  "gsheet_last_sync": 1779439908
+  "gsheet_last_sync": 1779440672
 }
