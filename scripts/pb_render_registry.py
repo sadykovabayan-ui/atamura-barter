@@ -180,36 +180,32 @@ tbody tr:hover {{ background: #fafbfc; }}
 </header>
 <div class="container">
 
+<div style="background:#fffbeb; border-left:4px solid #d97706; padding:14px 18px; border-radius:6px; margin-bottom:20px; font-size:13.5px; color:#5a4408">
+<b>Что такое реестр:</b> в ProfitBase есть статус «Продано ЗБ» (= квартира прошла или проходит через бартер). Таких сейчас {len(active)}.
+Из них {len(with_contractor)} уже сматчены с реестром Аскара (Google Sheet) или сделкой в Bitrix24 — для них видно имя подрядчика и финансы.
+Остальные {len(orphans)} — без подрядчика; это, скорее всего, отработанные давно бартеры (особенно Атмо I/II/III), просто статус «Продано ЗБ» в ProfitBase «прилип» и его надо снять вручную.
+</div>
+
 <div class="kpi-grid">
   <div class="kpi red">
-    <div class="label">Активный бартер</div>
+    <div class="label">⚠️ Активный бартер</div>
     <div class="value">{len(active)}</div>
-    <div class="hint">Объектов с customStatusId «Продано ЗБ»</div>
+    <div class="hint">Квартир в ProfitBase помечено как «Продано ЗБ» (customStatusId=132940). Это весь корпус — включая отработанные и «зомби».</div>
   </div>
   <div class="kpi green">
-    <div class="label">Подтверждено историей</div>
-    <div class="value">{len(active_with_hist)}</div>
-    <div class="hint">Есть свежий CHANGE_STATUS event</div>
-  </div>
-  <div class="kpi">
-    <div class="label">Стоимость в бартере</div>
-    <div class="value">{fmt_money(total_value)}</div>
-    <div class="hint">₸ — по price из ProfitBase</div>
-  </div>
-  <div class="kpi">
-    <div class="label">Изменений за период</div>
-    <div class="value">{len(closed_recent)}</div>
-    <div class="hint">Объекты с историей смен (вышли/закрыты)</div>
-  </div>
-  <div class="kpi green">
-    <div class="label">С подрядчиком</div>
+    <div class="label">👤 С подрядчиком</div>
     <div class="value">{len(with_contractor)}</div>
-    <div class="hint">Из Google Sheet / Bitrix24</div>
+    <div class="hint">Из 338 — нашли имя подрядчика в Google Sheet от Аскара или в Bitrix24-сделке.</div>
   </div>
   <div class="kpi" style="border-top-color:#8a94a3">
-    <div class="label">🗑️ Кандидаты на чистку</div>
+    <div class="label">🗑️ Без подрядчика (кандидаты на чистку)</div>
     <div class="value">{len(orphans)}</div>
-    <div class="hint">В PB как «Продано ЗБ», но НЕТ в реестре Аскара и Bitrix24 — возможно отработаны</div>
+    <div class="hint">Из 338 — НЕТ имени подрядчика ни в Sheet, ни в CRM. Скорее всего бартер давно отработан, в ProfitBase забыли снять статус «Продано ЗБ».</div>
+  </div>
+  <div class="kpi">
+    <div class="label">💰 Стоимость в бартере</div>
+    <div class="value">{fmt_money(total_value)}</div>
+    <div class="hint">₸ — сумма цен квартир в «Продано ЗБ» по ProfitBase.</div>
   </div>
 </div>
 
