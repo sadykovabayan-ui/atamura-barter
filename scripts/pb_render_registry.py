@@ -44,6 +44,9 @@ def main():
     rows = []
     for pid, it in items.items():
         bc = it.get("barter_contractor") or {}
+        gs = it.get("gsheet") or {}
+        # Главный «подрядчик» — берём из Google Sheet (свежее, полнее), иначе из Bitrix24
+        primary_contractor = gs.get("contractor") or bc.get("name")
         rows.append({
             "pid": pid,
             "meta": it.get("meta", {}),
@@ -54,12 +57,18 @@ def main():
             "date": it.get("last_date"),
             "history_count": len(it.get("history") or []),
             "initialized": it.get("initialized_from_property", False),
-            "contractor": bc.get("name"),
-            "contractor_deal_id": bc.get("deal_id"),
-            "contractor_stage": bc.get("stage"),
-            "contractor_company": bc.get("company_title"),
-            "contractor_contact_name": bc.get("contact_name"),
-            "contractor_contact_phone": bc.get("contact_phone"),
+            "contractor": primary_contractor,
+            "contractor_legal_entity": gs.get("legal_entity"),
+            "contractor_responsible": gs.get("responsible"),
+            "contractor_status_barter": gs.get("status_barter"),
+            "contractor_terms": gs.get("terms"),
+            "contractor_amount_contract": gs.get("amount_contract"),
+            "contractor_amount_paid": gs.get("amount_paid_money"),
+            "contractor_amount_done": gs.get("amount_done"),
+            "contractor_remaining_to_pay": gs.get("remaining_to_pay"),
+            "contractor_note": gs.get("note"),
+            "contractor_source": "gsheet" if gs.get("contractor") else ("bitrix24" if bc.get("name") else None),
+            "contractor_bitrix_deal_id": bc.get("deal_id"),
         })
 
     # Сортировка: сначала текущие бартеры со свежей историей, потом без, потом не-бартер
@@ -79,6 +88,12 @@ def main():
     # Топ подрядчиков
     from collections import Counter
     contractor_counts = Counter(r["contractor"] for r in rows if r.get("contractor"))
+
+    # Финансовые сводки из Google Sheet
+    total_contract = sum(r["contractor_amount_contract"] or 0 for r in rows)
+    total_paid = sum(r["contractor_amount_paid"] or 0 for r in rows)
+    total_done = sum(r["contractor_amount_done"] or 0 for r in rows)
+    total_remaining = sum(r["contractor_remaining_to_pay"] or 0 for r in rows)
 
     # JSON для встроенной таблицы
     table_data = []
@@ -100,10 +115,16 @@ def main():
             "date_local": ts_to_local(r["date"]) if r["date"] else "",
             "has_history": r["history_count"] > 0,
             "contractor": r.get("contractor") or "",
-            "contractor_company": r.get("contractor_company") or "",
-            "contractor_contact": r.get("contractor_contact_name") or "",
-            "contractor_phone": r.get("contractor_contact_phone") or "",
-            "contractor_deal_id": r.get("contractor_deal_id") or "",
+            "contractor_legal_entity": r.get("contractor_legal_entity") or "",
+            "contractor_responsible": r.get("contractor_responsible") or "",
+            "contractor_status_barter": r.get("contractor_status_barter") or "",
+            "contractor_terms": r.get("contractor_terms") or "",
+            "contractor_amount_contract": r.get("contractor_amount_contract") or 0,
+            "contractor_amount_paid": r.get("contractor_amount_paid") or 0,
+            "contractor_amount_done": r.get("contractor_amount_done") or 0,
+            "contractor_remaining_to_pay": r.get("contractor_remaining_to_pay") or 0,
+            "contractor_note": r.get("contractor_note") or "",
+            "contractor_source": r.get("contractor_source") or "",
         })
 
     html = f"""<!DOCTYPE html>
@@ -173,9 +194,32 @@ tbody tr:hover {{ background: #fafbfc; }}
     <div class="hint">Объекты с историей смен (вышли/закрыты)</div>
   </div>
   <div class="kpi green">
-    <div class="label">С подрядчиком (из Bitrix24)</div>
+    <div class="label">С подрядчиком</div>
     <div class="value">{len(with_contractor)}</div>
-    <div class="hint">Привязано к сделке-бартеру в CRM</div>
+    <div class="hint">Из Google Sheet / Bitrix24</div>
+  </div>
+</div>
+
+<div class="kpi-grid">
+  <div class="kpi">
+    <div class="label">Сумма договоров (бартер)</div>
+    <div class="value">{fmt_money(total_contract)}</div>
+    <div class="hint">₸ — из Google Sheet</div>
+  </div>
+  <div class="kpi green">
+    <div class="label">Выполнено</div>
+    <div class="value">{fmt_money(total_done)}</div>
+    <div class="hint">₸ — подрядчик отработал</div>
+  </div>
+  <div class="kpi">
+    <div class="label">Оплачено деньгами</div>
+    <div class="value">{fmt_money(total_paid)}</div>
+    <div class="hint">₸ — наличные/безнал доплаты</div>
+  </div>
+  <div class="kpi red">
+    <div class="label">Остаток к оплате</div>
+    <div class="value">{fmt_money(total_remaining)}</div>
+    <div class="hint">₸ — компания должна подрядчикам</div>
   </div>
 </div>
 
@@ -206,10 +250,12 @@ tbody tr:hover {{ background: #fafbfc; }}
   <th class="num">м²</th>
   <th class="num">Цена</th>
   <th>Статус</th>
-  <th>🔴 Подрядчик (Bitrix24)</th>
-  <th>Конечная сделка</th>
-  <th>Менеджер</th>
-  <th>Дата</th>
+  <th>👤 Подрядчик</th>
+  <th>Условия / Статус бартера</th>
+  <th class="num">Договор ₸</th>
+  <th class="num">Выполн. ₸</th>
+  <th class="num">Остаток ₸</th>
+  <th>Ответств.</th>
 </tr>
 </thead>
 <tbody id="tbody"></tbody>
@@ -236,7 +282,7 @@ function render() {{
   if (state.filter === 'closed') rows = rows.filter(r => !r.is_active && r.has_history);
   if (state.q) {{
     const q = state.q.toLowerCase();
-    rows = rows.filter(r => [r.project, r.house, r.number, r.deal, r.mgr, r.contractor, r.contractor_company, r.contractor_contact].some(v => (v||'').toLowerCase().includes(q)));
+    rows = rows.filter(r => [r.project, r.house, r.number, r.deal, r.mgr, r.contractor, r.contractor_legal_entity, r.contractor_responsible, r.contractor_status_barter].some(v => (v||'').toLowerCase().includes(q)));
   }}
   document.getElementById('count').innerHTML = `Показано: <b>${{rows.length}}</b>`;
   const tbody = document.getElementById('tbody');
@@ -246,7 +292,10 @@ function render() {{
     else if (r.is_active) tag = '<span class="tag tag-active">⚠️ Активный</span>';
     else tag = '<span class="tag tag-closed">' + r.status_label + '</span>';
     const contractorCell = r.contractor
-      ? `<b>${{r.contractor}}</b>${{r.contractor_contact && r.contractor_contact !== r.contractor ? '<br><span class="subtle">' + r.contractor_contact + '</span>' : ''}}${{r.contractor_phone ? '<br><span class="subtle">' + r.contractor_phone + '</span>' : ''}}`
+      ? `<b>${{r.contractor}}</b>${{r.contractor_legal_entity && r.contractor_legal_entity !== r.contractor ? '<br><span class="subtle">' + r.contractor_legal_entity + '</span>' : ''}}`
+      : '<span class="subtle">—</span>';
+    const termsCell = r.contractor_terms || r.contractor_status_barter
+      ? `${{r.contractor_terms || ''}}<br><span class="subtle">${{r.contractor_status_barter || ''}}</span>`
       : '<span class="subtle">—</span>';
     return `<tr>
       <td>${{r.project||'—'}} / ${{r.house||'—'}}</td>
@@ -256,9 +305,11 @@ function render() {{
       <td class="num">${{(r.price||0).toLocaleString('ru-RU')}}</td>
       <td>${{tag}}</td>
       <td>${{contractorCell}}</td>
-      <td>${{r.deal||'<span class="subtle">—</span>'}}</td>
-      <td>${{r.mgr||'<span class="subtle">—</span>'}}</td>
-      <td><span class="subtle">${{r.date_local||'—'}}</span></td>
+      <td>${{termsCell}}</td>
+      <td class="num">${{r.contractor_amount_contract ? r.contractor_amount_contract.toLocaleString('ru-RU') : '<span class="subtle">—</span>'}}</td>
+      <td class="num">${{r.contractor_amount_done ? r.contractor_amount_done.toLocaleString('ru-RU') : '<span class="subtle">—</span>'}}</td>
+      <td class="num">${{r.contractor_remaining_to_pay ? '<b style=\"color:#c0392b\">' + r.contractor_remaining_to_pay.toLocaleString('ru-RU') + '</b>' : '<span class="subtle">—</span>'}}</td>
+      <td>${{r.contractor_responsible || r.mgr || '<span class="subtle">—</span>'}}</td>
     </tr>`;
   }}).join('');
 }}

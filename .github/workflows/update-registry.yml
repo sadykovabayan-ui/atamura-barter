@@ -35,6 +35,9 @@ jobs:
           BITRIX24_WEBHOOK_URL: ${{ secrets.BITRIX24_WEBHOOK_URL }}
         run: python scripts/bitrix_deals.py
 
+      - name: Pull Google Sheet (Аскар, рабочий реестр)
+        run: python scripts/gsheet_registry.py
+
       - name: Render dashboard
         run: python scripts/pb_render_registry.py
 
@@ -42,7 +45,7 @@ jobs:
         run: |
           git config user.name "atamura-bot"
           git config user.email "bot@atamura.kz"
-          git add data/registry.json data/bitrix_deals.json index.html
+          git add data/registry.json data/bitrix_deals.json data/gsheet_registry.json index.html
           if ! git diff --cached --quiet; then
             git commit -m "chore: update registry $(date -u +%FT%TZ)"
             git push
