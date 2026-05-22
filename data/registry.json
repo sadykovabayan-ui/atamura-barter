@@ -1,5 +1,5 @@
 {
-  "last_processed_ts": 1779350747,
+  "last_processed_ts": 1779421156,
   "items": {
     "8898712": {
       "meta": {
@@ -32100,6 +32100,19 @@
           "dealId": 525512,
           "dealName": "Сания - Пешеход",
           "responsibleName": "Ермек",
+          "contactName": "Сания",
+          "contactPhone": "+77086898224",
+          "contactId": 435366
+        },
+        {
+          "date": 1779421156,
+          "date_local": "22.05.2026 08:39",
+          "from_status_key": "BOOKED",
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 525512,
+          "dealName": "Байгонусова Сания Амангельдиновна - КР_4.7.3.18-АЗД",
+          "responsibleName": "Малика",
           "contactName": "Сания",
           "contactPhone": "+77086898224",
           "contactId": 435366
@@ -161651,6 +161664,42 @@
         "note": "ГАЗ",
         "match_quality": "exact"
       }
+    },
+    "15271091": {
+      "meta": {
+        "project": "KERUEN",
+        "house": "IV очередь",
+        "section": "Подъезд 7",
+        "number": "27",
+        "floor": 4,
+        "rooms": 2,
+        "area": 51.81,
+        "price": 25905000,
+        "status": "BOOKED",
+        "customStatusId": 112773
+      },
+      "current_status": "BOOKED",
+      "history": [
+        {
+          "date": 1779409371,
+          "date_local": "22.05.2026 05:22",
+          "from_status_key": null,
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 524190,
+          "dealName": "без - Пешеход",
+          "responsibleName": "Салима",
+          "contactName": "Гулдария",
+          "contactPhone": "+77474248416",
+          "contactId": 434410
+        }
+      ],
+      "current_status_label": "Бронь",
+      "last_deal_name": "без - Пешеход",
+      "last_responsible": "Салима",
+      "last_date": 1779409371,
+      "last_date_local": "22.05.2026 05:22",
+      "orphan_candidate": true
     }
   },
   "last_run": 1779375403,
