@@ -1,5 +1,5 @@
 {
-  "last_processed_ts": 1779350747,
+  "last_processed_ts": 1779421156,
   "items": {
     "8898712": {
       "meta": {
@@ -18,7 +18,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "8898718": {
       "meta": {
@@ -37,7 +38,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "9277947": {
       "meta": {
@@ -86,7 +88,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "10398410": {
       "meta": {
@@ -304,7 +307,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "10862616": {
       "meta": {
@@ -323,7 +327,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "10933023": {
       "meta": {
@@ -483,7 +488,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "11026715": {
       "meta": {
@@ -502,7 +508,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "11026716": {
       "meta": {
@@ -521,7 +528,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "11026722": {
       "meta": {
@@ -540,7 +548,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "11026723": {
       "meta": {
@@ -559,7 +568,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "11589625": {
       "meta": {
@@ -759,7 +769,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "11668369": {
       "meta": {
@@ -1058,7 +1069,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "11975386": {
       "meta": {
@@ -1594,7 +1606,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "13676838": {
       "meta": {
@@ -1660,7 +1673,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "13676841": {
       "meta": {
@@ -1961,7 +1975,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "13676877": {
       "meta": {
@@ -2309,7 +2324,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "14136947": {
       "meta": {
@@ -2328,7 +2344,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "14136956": {
       "meta": {
@@ -2347,7 +2364,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "14136957": {
       "meta": {
@@ -2413,7 +2431,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "14136967": {
       "meta": {
@@ -2666,7 +2685,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "14136994": {
       "meta": {
@@ -2779,7 +2799,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "14137008": {
       "meta": {
@@ -2798,7 +2819,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "14137009": {
       "meta": {
@@ -2817,7 +2839,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "14137024": {
       "meta": {
@@ -3212,7 +3235,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "14962460": {
       "meta": {
@@ -3231,7 +3255,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "14962461": {
       "meta": {
@@ -3250,7 +3275,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "14962462": {
       "meta": {
@@ -3269,7 +3295,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "14962463": {
       "meta": {
@@ -3288,7 +3315,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "14962464": {
       "meta": {
@@ -3307,7 +3335,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "14962465": {
       "meta": {
@@ -3326,7 +3355,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "14962466": {
       "meta": {
@@ -3345,7 +3375,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "14962467": {
       "meta": {
@@ -3364,7 +3395,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "14962468": {
       "meta": {
@@ -3383,7 +3415,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "14962469": {
       "meta": {
@@ -3402,7 +3435,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "14962470": {
       "meta": {
@@ -3421,7 +3455,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "14962471": {
       "meta": {
@@ -3440,7 +3475,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "14962472": {
       "meta": {
@@ -3459,7 +3495,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "14962473": {
       "meta": {
@@ -3478,7 +3515,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "14962474": {
       "meta": {
@@ -3497,7 +3535,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "14962475": {
       "meta": {
@@ -3516,7 +3555,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "14962476": {
       "meta": {
@@ -3535,7 +3575,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "14962477": {
       "meta": {
@@ -3554,7 +3595,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "14962478": {
       "meta": {
@@ -3573,7 +3615,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "14962479": {
       "meta": {
@@ -3592,7 +3635,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "14962480": {
       "meta": {
@@ -3611,7 +3655,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "14962481": {
       "meta": {
@@ -3630,7 +3675,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15099149": {
       "meta": {
@@ -3790,7 +3836,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15099168": {
       "meta": {
@@ -3903,7 +3950,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15099189": {
       "meta": {
@@ -3969,7 +4017,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15099193": {
       "meta": {
@@ -4176,7 +4225,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15270806": {
       "meta": {
@@ -4336,7 +4386,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15270813": {
       "meta": {
@@ -4355,7 +4406,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15270847": {
       "meta": {
@@ -4421,7 +4473,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15270859": {
       "meta": {
@@ -4440,7 +4493,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15270860": {
       "meta": {
@@ -4459,7 +4513,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15270861": {
       "meta": {
@@ -4478,7 +4533,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15270862": {
       "meta": {
@@ -4497,7 +4553,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15270864": {
       "meta": {
@@ -4516,7 +4573,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15270865": {
       "meta": {
@@ -4535,7 +4593,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15270866": {
       "meta": {
@@ -4554,7 +4613,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15270974": {
       "meta": {
@@ -4573,7 +4633,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15270975": {
       "meta": {
@@ -4780,7 +4841,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15271002": {
       "meta": {
@@ -4893,7 +4955,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15271011": {
       "meta": {
@@ -4959,7 +5022,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15271014": {
       "meta": {
@@ -4978,7 +5042,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15271015": {
       "meta": {
@@ -4997,7 +5062,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15271020": {
       "meta": {
@@ -5016,7 +5082,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15271037": {
       "meta": {
@@ -5035,7 +5102,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15271046": {
       "meta": {
@@ -5054,7 +5122,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15271047": {
       "meta": {
@@ -5308,7 +5377,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15271057": {
       "meta": {
@@ -5327,7 +5397,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15271058": {
       "meta": {
@@ -5346,7 +5417,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15271063": {
       "meta": {
@@ -5412,7 +5484,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15271070": {
       "meta": {
@@ -5431,7 +5504,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15271072": {
       "meta": {
@@ -5450,7 +5524,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15271100": {
       "meta": {
@@ -16131,7 +16206,8 @@
         }
       ],
       "initialized_from_property": true,
-      "last_date_local": "21.05.2026 06:35"
+      "last_date_local": "21.05.2026 06:35",
+      "orphan_candidate": true
     },
     "15271109": {
       "meta": {
@@ -16479,7 +16555,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15271163": {
       "meta": {
@@ -16498,7 +16575,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15271164": {
       "meta": {
@@ -16517,7 +16595,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15271165": {
       "meta": {
@@ -16536,7 +16615,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15271166": {
       "meta": {
@@ -16602,7 +16682,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15271170": {
       "meta": {
@@ -16621,7 +16702,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15386449": {
       "meta": {
@@ -16781,7 +16863,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15386491": {
       "meta": {
@@ -16894,7 +16977,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15386494": {
       "meta": {
@@ -16913,7 +16997,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15386495": {
       "meta": {
@@ -16979,7 +17064,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15386541": {
       "meta": {
@@ -16998,7 +17084,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15386542": {
       "meta": {
@@ -17017,7 +17104,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15386545": {
       "meta": {
@@ -17036,7 +17124,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15386547": {
       "meta": {
@@ -17055,7 +17144,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15386548": {
       "meta": {
@@ -17074,7 +17164,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15521504": {
       "meta": {
@@ -17093,7 +17184,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15521505": {
       "meta": {
@@ -17112,7 +17204,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15521506": {
       "meta": {
@@ -17131,7 +17224,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15521507": {
       "meta": {
@@ -17150,7 +17244,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15521508": {
       "meta": {
@@ -17169,7 +17264,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15521509": {
       "meta": {
@@ -17188,7 +17284,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15521510": {
       "meta": {
@@ -17207,7 +17304,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15521545": {
       "meta": {
@@ -17226,7 +17324,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15525596": {
       "meta": {
@@ -17432,7 +17531,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15525620": {
       "meta": {
@@ -17451,7 +17551,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15525621": {
       "meta": {
@@ -17799,7 +17900,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15525647": {
       "meta": {
@@ -18241,7 +18343,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15525693": {
       "meta": {
@@ -18260,7 +18363,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15525707": {
       "meta": {
@@ -18467,7 +18571,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15525735": {
       "meta": {
@@ -18674,7 +18779,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15525764": {
       "meta": {
@@ -18740,7 +18846,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16187243": {
       "meta": {
@@ -18947,7 +19054,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16458110": {
       "meta": {
@@ -18966,7 +19074,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16458111": {
       "meta": {
@@ -18985,7 +19094,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16458112": {
       "meta": {
@@ -19004,7 +19114,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16458113": {
       "meta": {
@@ -19023,7 +19134,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16458114": {
       "meta": {
@@ -19042,7 +19154,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16458115": {
       "meta": {
@@ -19061,7 +19174,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16458116": {
       "meta": {
@@ -19080,7 +19194,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16458118": {
       "meta": {
@@ -19099,7 +19214,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16458120": {
       "meta": {
@@ -19118,7 +19234,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16458121": {
       "meta": {
@@ -19137,7 +19254,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16458122": {
       "meta": {
@@ -19156,7 +19274,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16458123": {
       "meta": {
@@ -19175,7 +19294,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16458133": {
       "meta": {
@@ -19335,7 +19455,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16458162": {
       "meta": {
@@ -19448,7 +19569,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16458168": {
       "meta": {
@@ -19467,7 +19589,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16458173": {
       "meta": {
@@ -19486,7 +19609,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16459203": {
       "meta": {
@@ -19505,7 +19629,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16459210": {
       "meta": {
@@ -19618,7 +19743,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16459233": {
       "meta": {
@@ -19637,7 +19763,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16459234": {
       "meta": {
@@ -19656,7 +19783,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16459235": {
       "meta": {
@@ -19675,7 +19803,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16459236": {
       "meta": {
@@ -19694,7 +19823,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16459237": {
       "meta": {
@@ -19713,7 +19843,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16459238": {
       "meta": {
@@ -19732,7 +19863,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16459240": {
       "meta": {
@@ -19751,7 +19883,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16459241": {
       "meta": {
@@ -19770,7 +19903,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16459242": {
       "meta": {
@@ -19789,7 +19923,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16459243": {
       "meta": {
@@ -19808,7 +19943,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16459244": {
       "meta": {
@@ -19827,7 +19963,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16459249": {
       "meta": {
@@ -19893,7 +20030,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16465138": {
       "meta": {
@@ -19912,7 +20050,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16465139": {
       "meta": {
@@ -19931,7 +20070,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16465140": {
       "meta": {
@@ -19950,7 +20090,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16465141": {
       "meta": {
@@ -19969,7 +20110,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16465142": {
       "meta": {
@@ -19988,7 +20130,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16465143": {
       "meta": {
@@ -20007,7 +20150,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16465144": {
       "meta": {
@@ -20026,7 +20170,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16465145": {
       "meta": {
@@ -20045,7 +20190,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16465176": {
       "meta": {
@@ -20064,7 +20210,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16465177": {
       "meta": {
@@ -20083,7 +20230,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16465178": {
       "meta": {
@@ -20102,7 +20250,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16465200": {
       "meta": {
@@ -20121,7 +20270,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16487407": {
       "meta": {
@@ -20140,7 +20290,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16487408": {
       "meta": {
@@ -20159,7 +20310,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16487414": {
       "meta": {
@@ -20178,7 +20330,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16487415": {
       "meta": {
@@ -20197,7 +20350,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16487424": {
       "meta": {
@@ -20216,7 +20370,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16487425": {
       "meta": {
@@ -20235,7 +20390,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16487426": {
       "meta": {
@@ -20254,7 +20410,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16487434": {
       "meta": {
@@ -20273,7 +20430,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16487435": {
       "meta": {
@@ -20292,7 +20450,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16487436": {
       "meta": {
@@ -20311,7 +20470,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16487452": {
       "meta": {
@@ -20330,7 +20490,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16487453": {
       "meta": {
@@ -20349,7 +20510,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16584908": {
       "meta": {
@@ -20368,7 +20530,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16584909": {
       "meta": {
@@ -20387,7 +20550,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16584910": {
       "meta": {
@@ -20406,7 +20570,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16584912": {
       "meta": {
@@ -20425,7 +20590,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16584913": {
       "meta": {
@@ -20444,7 +20610,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16584914": {
       "meta": {
@@ -20463,7 +20630,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16584915": {
       "meta": {
@@ -20482,7 +20650,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16584916": {
       "meta": {
@@ -20501,7 +20670,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16584919": {
       "meta": {
@@ -20520,7 +20690,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16584920": {
       "meta": {
@@ -20539,7 +20710,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16584921": {
       "meta": {
@@ -20558,7 +20730,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16584922": {
       "meta": {
@@ -20577,7 +20750,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16584923": {
       "meta": {
@@ -20596,7 +20770,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16584935": {
       "meta": {
@@ -20662,7 +20837,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16682268": {
       "meta": {
@@ -20869,7 +21045,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "16945001": {
       "meta": {
@@ -20888,7 +21065,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "17049625": {
       "meta": {
@@ -21048,7 +21226,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "17082149": {
       "meta": {
@@ -21067,7 +21246,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "17082150": {
       "meta": {
@@ -21086,7 +21266,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "17082151": {
       "meta": {
@@ -21105,7 +21286,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "17082152": {
       "meta": {
@@ -21124,7 +21306,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "17082197": {
       "meta": {
@@ -21143,7 +21326,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "17082204": {
       "meta": {
@@ -21162,7 +21346,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "17082243": {
       "meta": {
@@ -21181,7 +21366,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "17082248": {
       "meta": {
@@ -21200,7 +21386,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "17082249": {
       "meta": {
@@ -21219,7 +21406,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "17082250": {
       "meta": {
@@ -21238,7 +21426,8 @@
       "last_responsible": null,
       "last_date": 0,
       "history": [],
-      "initialized_from_property": true
+      "initialized_from_property": true,
+      "orphan_candidate": true
     },
     "15271082": {
       "meta": {
@@ -31914,13 +32103,27 @@
           "contactName": "Сания",
           "contactPhone": "+77086898224",
           "contactId": 435366
+        },
+        {
+          "date": 1779421156,
+          "date_local": "22.05.2026 08:39",
+          "from_status_key": "BOOKED",
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 525512,
+          "dealName": "Байгонусова Сания Амангельдиновна - КР_4.7.3.18-АЗД",
+          "responsibleName": "Малика",
+          "contactName": "Сания",
+          "contactPhone": "+77086898224",
+          "contactId": 435366
         }
       ],
       "current_status_label": "Бронь",
-      "last_deal_name": "Сания - Пешеход",
-      "last_responsible": "Ермек",
-      "last_date": 1779338434,
-      "last_date_local": "21.05.2026 09:40"
+      "last_deal_name": "Байгонусова Сания Амангельдиновна - КР_4.7.3.18-АЗД",
+      "last_responsible": "Малика",
+      "last_date": 1779421156,
+      "last_date_local": "22.05.2026 08:39",
+      "orphan_candidate": true
     },
     "15386475": {
       "meta": {
@@ -42602,7 +42805,8 @@
       "last_deal_name": "Ислам - Пешеход",
       "last_responsible": "Самал",
       "last_date": 1779341119,
-      "last_date_local": "21.05.2026 10:25"
+      "last_date_local": "21.05.2026 10:25",
+      "orphan_candidate": true
     },
     "15525699": {
       "meta": {
@@ -63944,7 +64148,8 @@
       "last_deal_name": "САМИГУЛЛИНА НУРША РУСЛАНОВНА АТ_5.28.4.20-МАК",
       "last_responsible": "Мейрамгуль",
       "last_date": 1779329291,
-      "last_date_local": "21.05.2026 07:08"
+      "last_date_local": "21.05.2026 07:08",
+      "orphan_candidate": true
     },
     "16469315": {
       "meta": {
@@ -74626,7 +74831,8 @@
       "last_deal_name": "Жумабаев Данияр Манасбекович",
       "last_responsible": "Нургуль",
       "last_date": 1779350096,
-      "last_date_local": "21.05.2026 12:54"
+      "last_date_local": "21.05.2026 12:54",
+      "orphan_candidate": true
     },
     "16469477": {
       "meta": {
@@ -85308,7 +85514,8 @@
       "last_deal_name": "Жумабаев Данияр Манасбекович",
       "last_responsible": "Нургуль",
       "last_date": 1779349926,
-      "last_date_local": "21.05.2026 12:52"
+      "last_date_local": "21.05.2026 12:52",
+      "orphan_candidate": true
     },
     "16469492": {
       "meta": {
@@ -95990,7 +96197,8 @@
       "last_deal_name": "Ибрайм Мадияр Нұрболұлы",
       "last_responsible": "Нургуль",
       "last_date": 1779326841,
-      "last_date_local": "21.05.2026 06:27"
+      "last_date_local": "21.05.2026 06:27",
+      "orphan_candidate": true
     },
     "17049653": {
       "meta": {
@@ -149312,7 +149520,8 @@
       "last_deal_name": "Кунчаев Айдос Иенбергенович",
       "last_responsible": "Нургуль",
       "last_date": 1779350747,
-      "last_date_local": "21.05.2026 13:05"
+      "last_date_local": "21.05.2026 13:05",
+      "orphan_candidate": true
     },
     "17680657": {
       "meta": {
@@ -159994,7 +160203,8 @@
       "last_deal_name": "Без имени - Пешеход",
       "last_responsible": "Ернур",
       "last_date": 1779343437,
-      "last_date_local": "21.05.2026 11:03"
+      "last_date_local": "21.05.2026 11:03",
+      "orphan_candidate": true
     },
     "8898915": {
       "meta": {
@@ -161454,9 +161664,1614 @@
         "note": "ГАЗ",
         "match_quality": "exact"
       }
+    },
+    "15271091": {
+      "meta": {
+        "project": "KERUEN",
+        "house": "IV очередь",
+        "section": "Подъезд 7",
+        "number": "27",
+        "floor": 4,
+        "rooms": 2,
+        "area": 51.81,
+        "price": 25905000,
+        "status": "BOOKED",
+        "customStatusId": 112773
+      },
+      "current_status": "BOOKED",
+      "history": [
+        {
+          "date": 1779409371,
+          "date_local": "22.05.2026 05:22",
+          "from_status_key": null,
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 524190,
+          "dealName": "без - Пешеход",
+          "responsibleName": "Салима",
+          "contactName": "Гулдария",
+          "contactPhone": "+77474248416",
+          "contactId": 434410
+        }
+      ],
+      "current_status_label": "Бронь",
+      "last_deal_name": "без - Пешеход",
+      "last_responsible": "Салима",
+      "last_date": 1779409371,
+      "last_date_local": "22.05.2026 05:22",
+      "orphan_candidate": true
     }
   },
-  "last_run": 1779440104,
+  "last_run": 1779440729,
   "bitrix_last_sync": "2024-11-19T09:08:48+03:00",
-  "gsheet_last_sync": 1779440672
+  "gsheet_last_sync": 1779440782,
+  "gsheet_external_only": [
+    {
+      "date": "24.04.2025",
+      "row_num": "125",
+      "contractor": "ТОО KUSA BETON  ( Ермек - Аксай Резорт)",
+      "legal_entity": "ТОО KUSA BETON",
+      "kind": "материалы",
+      "responsible": "Аида",
+      "status_property": "в работе",
+      "status_barter": "в процессе",
+      "project": "Атмосфера",
+      "queue": "III очередь",
+      "block": "18",
+      "floor": 1,
+      "apartment": "2/38",
+      "apt_type": null,
+      "area": 82,
+      "price_per_meter": 470000,
+      "amount_property": 38925400,
+      "terms": "30%/70%",
+      "amount_contract": 129751333,
+      "amount_paid_money": null,
+      "amount_done": null,
+      "remaining_contract": null,
+      "remaining_to_pay": null,
+      "company": "",
+      "note": ""
+    },
+    {
+      "date": "20/08/2025",
+      "row_num": "",
+      "contractor": "ИП Аскар",
+      "legal_entity": "ИП Аскар",
+      "kind": "услуги",
+      "responsible": "Гульнур/Данияр",
+      "status_property": "в работе",
+      "status_barter": "в процессе",
+      "project": "Атмосфера",
+      "queue": "III очередь",
+      "block": "14",
+      "floor": null,
+      "apartment": "155",
+      "apt_type": "parking",
+      "area": null,
+      "price_per_meter": 2500000,
+      "amount_property": 2500000,
+      "terms": "100%",
+      "amount_contract": 2500000,
+      "amount_paid_money": null,
+      "amount_done": null,
+      "remaining_contract": null,
+      "remaining_to_pay": null,
+      "company": "",
+      "note": "переуступка на КАПИШЕВ БИРЖАН МУРАТОВИЧ"
+    },
+    {
+      "date": "",
+      "row_num": "91",
+      "contractor": "Саадам",
+      "legal_entity": "Kotlovan-KZ",
+      "kind": "Услуги",
+      "responsible": "Нурсултан - Гульнур",
+      "status_property": "ОФОРМЛЕН",
+      "status_barter": "исполнен",
+      "project": "Атмосфера",
+      "queue": "II очередь",
+      "block": "12",
+      "floor": 1,
+      "apartment": "1",
+      "apt_type": null,
+      "area": 66,
+      "price_per_meter": 456338,
+      "amount_property": 30209543,
+      "terms": "50 / 50",
+      "amount_contract": null,
+      "amount_paid_money": null,
+      "amount_done": null,
+      "remaining_contract": 0,
+      "remaining_to_pay": -30209543,
+      "company": "ИП Котлован.кз",
+      "note": "услуги спецтехники, инертные, разработка котлована. ОФормлен ДКП , сентябрь"
+    },
+    {
+      "date": "",
+      "row_num": "63",
+      "contractor": "Ертолек",
+      "legal_entity": "",
+      "kind": "Услуги",
+      "responsible": "Шынар",
+      "status_property": "в работе",
+      "status_barter": "исполнен",
+      "project": "Атмосфера",
+      "queue": "III очередь",
+      "block": "14",
+      "floor": 1,
+      "apartment": "1б",
+      "apt_type": null,
+      "area": 72,
+      "price_per_meter": 427000,
+      "amount_property": 30837940,
+      "terms": "50 / 50",
+      "amount_contract": null,
+      "amount_paid_money": null,
+      "amount_done": null,
+      "remaining_contract": 0,
+      "remaining_to_pay": -30837940,
+      "company": "Ертолек ИП",
+      "note": "СМР Атмосфера 3 очередь АБВ"
+    },
+    {
+      "date": "",
+      "row_num": "41",
+      "contractor": "Бисенов Ахмет Дюсюбекович",
+      "legal_entity": "",
+      "kind": "Услуги",
+      "responsible": "Гульнур",
+      "status_property": "ОФОРМЛЕН",
+      "status_barter": "Исполнен",
+      "project": "Атмосфера",
+      "queue": "I очередь",
+      "block": "3",
+      "floor": 1,
+      "apartment": "КП-1",
+      "apt_type": null,
+      "area": 87,
+      "price_per_meter": null,
+      "amount_property": 22645970,
+      "terms": "30-53-17",
+      "amount_contract": null,
+      "amount_paid_money": null,
+      "amount_done": null,
+      "remaining_contract": 0,
+      "remaining_to_pay": -22645970,
+      "company": "KAZBUILDEXPERT ТОО",
+      "note": "инжиниринговые услуги, 750к / месяц. ДКП оформлпн"
+    },
+    {
+      "date": "",
+      "row_num": "28",
+      "contractor": "Кияс",
+      "legal_entity": "ИП Шалбарбаева Б.А.",
+      "kind": "Услуги",
+      "responsible": "Нурсултан - Гульнур",
+      "status_property": "ОФОРМЛЕН",
+      "status_barter": "Исполнен",
+      "project": "Атмосфера",
+      "queue": "II очередь",
+      "block": "7",
+      "floor": 1,
+      "apartment": "2",
+      "apt_type": null,
+      "area": 44,
+      "price_per_meter": 523600,
+      "amount_property": 23504404,
+      "terms": "50 / 50",
+      "amount_contract": null,
+      "amount_paid_money": null,
+      "amount_done": null,
+      "remaining_contract": 0,
+      "remaining_to_pay": -23504404,
+      "company": "Бектемир ИП (ИП Шалбарбаева Баян)",
+      "note": "услуги спецтехники, инертные, ДКП оформлен на Ниязову"
+    },
+    {
+      "date": "",
+      "row_num": "30",
+      "contractor": "Саадам",
+      "legal_entity": "ТОО Kotlovan-KZ",
+      "kind": "Услуги",
+      "responsible": "Нурсултан - Гульнур",
+      "status_property": "ОФОРМЛЕН",
+      "status_barter": "Исполнен",
+      "project": "Атмосфера",
+      "queue": "II очередь",
+      "block": "7",
+      "floor": 2,
+      "apartment": "4",
+      "apt_type": null,
+      "area": 92,
+      "price_per_meter": 449888,
+      "amount_property": 41479674,
+      "terms": "50 / 50",
+      "amount_contract": null,
+      "amount_paid_money": null,
+      "amount_done": null,
+      "remaining_contract": 0,
+      "remaining_to_pay": -41479674,
+      "company": "KOTLOVAN.kz ИП",
+      "note": "услуги спецтехники, инертные, разработка котлована, ОФормлен ДКП , сентябрь"
+    },
+    {
+      "date": "",
+      "row_num": "6",
+      "contractor": "Анара ГАЗ - МОНАРХ",
+      "legal_entity": "",
+      "kind": "Услуги",
+      "responsible": "Гульнур Руслан",
+      "status_property": "",
+      "status_barter": "",
+      "project": "Арлан",
+      "queue": "IV очередь",
+      "block": "8",
+      "floor": 1,
+      "apartment": "5",
+      "apt_type": null,
+      "area": 32,
+      "price_per_meter": null,
+      "amount_property": null,
+      "terms": "",
+      "amount_contract": null,
+      "amount_paid_money": null,
+      "amount_done": null,
+      "remaining_contract": 0,
+      "remaining_to_pay": 0,
+      "company": "Story Technology",
+      "note": "газ Монарх"
+    },
+    {
+      "date": "",
+      "row_num": "27",
+      "contractor": "Аскар ИП",
+      "legal_entity": "",
+      "kind": "Услуги",
+      "responsible": "Нурсултан - Гульнур",
+      "status_property": "",
+      "status_barter": "",
+      "project": "Атмосфера",
+      "queue": "III очередь",
+      "block": "18",
+      "floor": 4,
+      "apartment": "20",
+      "apt_type": null,
+      "area": 48,
+      "price_per_meter": 457000,
+      "amount_property": 22045680,
+      "terms": "",
+      "amount_contract": null,
+      "amount_paid_money": null,
+      "amount_done": null,
+      "remaining_contract": 0,
+      "remaining_to_pay": -22045680,
+      "company": "Аскар ИП",
+      "note": "услуги техники Құлыш Асқар Алтайұлы"
+    },
+    {
+      "date": "",
+      "row_num": "23",
+      "contractor": "Джумабаева Ольга Валерьевна",
+      "legal_entity": "",
+      "kind": "Услуги",
+      "responsible": "Руслан",
+      "status_property": "",
+      "status_barter": "Исполнен",
+      "project": "Атмосфера",
+      "queue": "II очередь",
+      "block": "11",
+      "floor": 2,
+      "apartment": "7",
+      "apt_type": null,
+      "area": 42,
+      "price_per_meter": 377300,
+      "amount_property": 15933379,
+      "terms": "100%",
+      "amount_contract": 15933379,
+      "amount_paid_money": 0,
+      "amount_done": null,
+      "remaining_contract": 15933379,
+      "remaining_to_pay": 0,
+      "company": "Geo Expert ИП",
+      "note": "геодезические услуги, 350к / месяц"
+    },
+    {
+      "date": "",
+      "row_num": "24",
+      "contractor": "Джумабаева Ольга Валерьевна",
+      "legal_entity": "",
+      "kind": "Услуги",
+      "responsible": "Руслан",
+      "status_property": "",
+      "status_barter": "",
+      "project": "Атмосфера",
+      "queue": "III очередь",
+      "block": "15",
+      "floor": 1,
+      "apartment": "3в",
+      "apt_type": null,
+      "area": 45,
+      "price_per_meter": 447000,
+      "amount_property": 20280390,
+      "terms": "100%",
+      "amount_contract": null,
+      "amount_paid_money": null,
+      "amount_done": null,
+      "remaining_contract": 0,
+      "remaining_to_pay": -20280390,
+      "company": "Geo Expert ИП",
+      "note": "геодезические услуги, 350к / месяц"
+    },
+    {
+      "date": "",
+      "row_num": "43",
+      "contractor": "Жадырасын",
+      "legal_entity": "",
+      "kind": "Услуги",
+      "responsible": "Гульнур",
+      "status_property": "",
+      "status_barter": "Исполнен",
+      "project": "Атмосфера",
+      "queue": "I очередь",
+      "block": "",
+      "floor": 20,
+      "apartment": "нижний",
+      "apt_type": null,
+      "area": 1,
+      "price_per_meter": null,
+      "amount_property": 2000000,
+      "terms": "100%",
+      "amount_contract": null,
+      "amount_paid_money": null,
+      "amount_done": null,
+      "remaining_contract": 0,
+      "remaining_to_pay": -2000000,
+      "company": "Арланстройинвест-75 ТОО",
+      "note": "ГАЗ"
+    },
+    {
+      "date": "",
+      "row_num": "",
+      "contractor": "AKM Floor",
+      "legal_entity": "",
+      "kind": "Услуги",
+      "responsible": "Шынар",
+      "status_property": "в работе",
+      "status_barter": "",
+      "project": "Монарх",
+      "queue": null,
+      "block": "",
+      "floor": null,
+      "apartment": "",
+      "apt_type": null,
+      "area": null,
+      "price_per_meter": null,
+      "amount_property": null,
+      "terms": "100%",
+      "amount_contract": 65000000,
+      "amount_paid_money": null,
+      "amount_done": 64236662,
+      "remaining_contract": 763338,
+      "remaining_to_pay": 65000000,
+      "company": "AKM Floor Абзал",
+      "note": "гидроизоляция кровли, паркинг, стяжка 1 этаж"
+    },
+    {
+      "date": "",
+      "row_num": "3",
+      "contractor": "Айрон Пласт",
+      "legal_entity": "ТОО «IRON PLAST»",
+      "kind": "Материалы",
+      "responsible": "Аида",
+      "status_property": "ОФОРМЛЕН",
+      "status_barter": "Исполнен",
+      "project": "Атмосфера",
+      "queue": "II очередь",
+      "block": "11",
+      "floor": 2,
+      "apartment": "5",
+      "apt_type": null,
+      "area": 69,
+      "price_per_meter": 403587,
+      "amount_property": 27928251,
+      "terms": "100%",
+      "amount_contract": 27928251,
+      "amount_paid_money": 0,
+      "amount_done": 27928251,
+      "remaining_contract": 0,
+      "remaining_to_pay": 0,
+      "company": "IRON PLAST",
+      "note": "сантехника / доплата 928к, замена квартиры от ФЛ - Маметаева Маржан"
+    },
+    {
+      "date": "",
+      "row_num": "2",
+      "contractor": "Айрон Пласт",
+      "legal_entity": "ТОО «IRON PLAST»",
+      "kind": "Материалы",
+      "responsible": "Аида",
+      "status_property": "Отработан",
+      "status_barter": "Исполнен",
+      "project": "Атмосфера",
+      "queue": "II очередь",
+      "block": "11",
+      "floor": 4,
+      "apartment": "16",
+      "apt_type": null,
+      "area": 45,
+      "price_per_meter": 479850,
+      "amount_property": 21737205,
+      "terms": "100%",
+      "amount_contract": 21737205,
+      "amount_paid_money": 0,
+      "amount_done": 21737205,
+      "remaining_contract": 0,
+      "remaining_to_pay": 0,
+      "company": "IRON PLAST",
+      "note": "сантехника"
+    },
+    {
+      "date": "",
+      "row_num": "48",
+      "contractor": "Владимир",
+      "legal_entity": "«IZO-MARKET KM»",
+      "kind": "Материалы",
+      "responsible": "Аида",
+      "status_property": "ОФОРМЛЕН",
+      "status_barter": "Исполнен",
+      "project": "Монарх",
+      "queue": "I очередь",
+      "block": "1",
+      "floor": 1,
+      "apartment": "4",
+      "apt_type": null,
+      "area": null,
+      "price_per_meter": null,
+      "amount_property": 140000000,
+      "terms": "100%",
+      "amount_contract": 140000000,
+      "amount_paid_money": 0,
+      "amount_done": 140000000,
+      "remaining_contract": 0,
+      "remaining_to_pay": 0,
+      "company": "Изомаркет ТОО",
+      "note": "поставка материалов на тепло и гидроизоляцию, ДКП оформлен"
+    },
+    {
+      "date": "",
+      "row_num": "50",
+      "contractor": "Мустафа",
+      "legal_entity": "ТОО Майнур ЭлитСтрой",
+      "kind": "Материалы",
+      "responsible": "Нурсултан - Гульнур",
+      "status_property": "ОФОРМЛЕН",
+      "status_barter": "Исполнен",
+      "project": "Атмосфера",
+      "queue": "I очередь",
+      "block": "4",
+      "floor": 1,
+      "apartment": "3",
+      "apt_type": null,
+      "area": 84,
+      "price_per_meter": 425500,
+      "amount_property": 37574618,
+      "terms": "",
+      "amount_contract": null,
+      "amount_paid_money": null,
+      "amount_done": null,
+      "remaining_contract": 0,
+      "remaining_to_pay": -37574618,
+      "company": "МайнурЭлитстрой ТОО",
+      "note": "поставка бетона и инертных материалов, ДКП оформлен"
+    },
+    {
+      "date": "",
+      "row_num": "54",
+      "contractor": "Олег",
+      "legal_entity": "ТОО \"МАФ\", ИП \"МАФ\"",
+      "kind": "Материалы",
+      "responsible": "Аида",
+      "status_property": "ОФОРМЛЕН",
+      "status_barter": "Исполнен",
+      "project": "Атмосфера",
+      "queue": "II очередь",
+      "block": "7",
+      "floor": 1,
+      "apartment": "КП-1",
+      "apt_type": null,
+      "area": 52,
+      "price_per_meter": 369798,
+      "amount_property": 19451400,
+      "terms": "100%",
+      "amount_contract": 19451400,
+      "amount_paid_money": 0,
+      "amount_done": 19451400,
+      "remaining_contract": 0,
+      "remaining_to_pay": 0,
+      "company": "МАФ ТОО",
+      "note": "МАФ, коммерция"
+    },
+    {
+      "date": "",
+      "row_num": "55",
+      "contractor": "Олег",
+      "legal_entity": "ТОО \"МАФ\", ИП \"МАФ\"",
+      "kind": "Материалы",
+      "responsible": "Аида",
+      "status_property": "ОФОРМЛЕН",
+      "status_barter": "Исполнен",
+      "project": "Атмосфера",
+      "queue": "II очередь",
+      "block": "7",
+      "floor": 1,
+      "apartment": "КП-2",
+      "apt_type": null,
+      "area": 62,
+      "price_per_meter": 365578,
+      "amount_property": 22695113,
+      "terms": "100%",
+      "amount_contract": 22695113,
+      "amount_paid_money": 0,
+      "amount_done": 20358600,
+      "remaining_contract": 2336513,
+      "remaining_to_pay": 0,
+      "company": "МАФ ТОО",
+      "note": "МАФ, коммерция 21 111 733"
+    },
+    {
+      "date": "",
+      "row_num": "81",
+      "contractor": "Senim Doors",
+      "legal_entity": "",
+      "kind": "Материалы",
+      "responsible": "Аида",
+      "status_property": "ОФОРМЛЕН",
+      "status_barter": "Исполнен",
+      "project": "Атмосфера",
+      "queue": "III очередь",
+      "block": "13",
+      "floor": 2,
+      "apartment": "5",
+      "apt_type": null,
+      "area": 68,
+      "price_per_meter": 420000,
+      "amount_property": 28887600,
+      "terms": "100%",
+      "amount_contract": 32760000,
+      "amount_paid_money": 4036275,
+      "amount_done": 32760000,
+      "remaining_contract": 0,
+      "remaining_to_pay": -163875,
+      "company": "Senim Doors",
+      "note": "ДВЕРИ - изготовление, монтаж Атмосфера 3 очередь, Аура 1 очередь"
+    },
+    {
+      "date": "",
+      "row_num": "59",
+      "contractor": "Улар Инвест",
+      "legal_entity": "Улар Инвест Имран",
+      "kind": "Материалы",
+      "responsible": "Аида",
+      "status_property": "передали ключи",
+      "status_barter": "Исполнен",
+      "project": "Атмосфера",
+      "queue": "II очередь",
+      "block": "9",
+      "floor": 2,
+      "apartment": "7",
+      "apt_type": null,
+      "area": 73,
+      "price_per_meter": 450625,
+      "amount_property": 33062356,
+      "terms": "50 / 50",
+      "amount_contract": 66124712,
+      "amount_paid_money": null,
+      "amount_done": null,
+      "remaining_contract": 66124712,
+      "remaining_to_pay": 33062356,
+      "company": "Улар-инвест ТОО",
+      "note": "поставка бетона, ДКП оформлен"
+    },
+    {
+      "date": "",
+      "row_num": "60",
+      "contractor": "Улар Инвест",
+      "legal_entity": "Улар Инвест Имран",
+      "kind": "Материалы",
+      "responsible": "Аида",
+      "status_property": "передали ключи",
+      "status_barter": "Исполнен",
+      "project": "Атмосфера",
+      "queue": "II очередь",
+      "block": "11",
+      "floor": 2,
+      "apartment": "4",
+      "apt_type": null,
+      "area": 78,
+      "price_per_meter": 446000,
+      "amount_property": 34890580,
+      "terms": "50 / 50",
+      "amount_contract": 69781160,
+      "amount_paid_money": null,
+      "amount_done": null,
+      "remaining_contract": 69781160,
+      "remaining_to_pay": 34890580,
+      "company": "Улар-инвест ТОО",
+      "note": "поставка бетона, ДКП оформлен"
+    },
+    {
+      "date": "",
+      "row_num": "58",
+      "contractor": "Улар Инвест",
+      "legal_entity": "Улар Инвест Имран",
+      "kind": "Материалы",
+      "responsible": "Аида",
+      "status_property": "через Еврострой",
+      "status_barter": "Исполнен",
+      "project": "Атмосфера",
+      "queue": "II очередь",
+      "block": "7",
+      "floor": 1,
+      "apartment": "3",
+      "apt_type": null,
+      "area": 65,
+      "price_per_meter": 425500,
+      "amount_property": 28048960,
+      "terms": "50 / 50",
+      "amount_contract": 56097920,
+      "amount_paid_money": null,
+      "amount_done": null,
+      "remaining_contract": 56097920,
+      "remaining_to_pay": 28048960,
+      "company": "Улар-инвест ТОО",
+      "note": "поставка бетона, ДКП оформлен"
+    },
+    {
+      "date": "",
+      "row_num": "69",
+      "contractor": "Азамат",
+      "legal_entity": "",
+      "kind": "Материалы",
+      "responsible": "Аида",
+      "status_property": "Отработан",
+      "status_barter": "Исполнен",
+      "project": "Атмосфера",
+      "queue": "III очередь",
+      "block": "15",
+      "floor": 1,
+      "apartment": "КП-1",
+      "apt_type": null,
+      "area": 45,
+      "price_per_meter": 505250,
+      "amount_property": 22872668,
+      "terms": "58 / 42",
+      "amount_contract": 55114226,
+      "amount_paid_money": 29485847,
+      "amount_done": 27557113,
+      "remaining_contract": 27557113,
+      "remaining_to_pay": 2755711,
+      "company": "Азамат ИП",
+      "note": "окна Атмосфера 3 очередь"
+    },
+    {
+      "date": "",
+      "row_num": "73",
+      "contractor": "Аксу бетон",
+      "legal_entity": "",
+      "kind": "Материалы",
+      "responsible": "Гульнур",
+      "status_property": "",
+      "status_barter": "",
+      "project": "Атмосфера",
+      "queue": "I очередь",
+      "block": "6",
+      "floor": 4,
+      "apartment": "(21) 54",
+      "apt_type": null,
+      "area": 44,
+      "price_per_meter": 507000,
+      "amount_property": 22358700,
+      "terms": "50 / 50",
+      "amount_contract": null,
+      "amount_paid_money": null,
+      "amount_done": null,
+      "remaining_contract": 0,
+      "remaining_to_pay": -22358700,
+      "company": "Аксу бетон / Ногайсаринов Айбек Бахтыбекович",
+      "note": "поставка бетона"
+    },
+    {
+      "date": "",
+      "row_num": "87",
+      "contractor": "Улар Инвест",
+      "legal_entity": "Улар Инвест Имран",
+      "kind": "Материалы",
+      "responsible": "Гульнур",
+      "status_property": "в работе",
+      "status_barter": "В процессе",
+      "project": "Атмосфера",
+      "queue": "III очередь",
+      "block": "18",
+      "floor": 4,
+      "apartment": "23",
+      "apt_type": null,
+      "area": 69,
+      "price_per_meter": 428400,
+      "amount_property": 29816640,
+      "terms": "100%",
+      "amount_contract": null,
+      "amount_paid_money": null,
+      "amount_done": null,
+      "remaining_contract": 0,
+      "remaining_to_pay": null,
+      "company": "Улар-инвест ТОО",
+      "note": "поставка бетона, Атмосфера 4 очередь"
+    },
+    {
+      "date": "",
+      "row_num": "88",
+      "contractor": "Улар Инвест",
+      "legal_entity": "Улар Инвест Имран",
+      "kind": "Материалы",
+      "responsible": "Гульнур",
+      "status_property": "в работе",
+      "status_barter": "В процессе",
+      "project": "Атмосфера",
+      "queue": "III очередь",
+      "block": "16",
+      "floor": 4,
+      "apartment": "12",
+      "apt_type": null,
+      "area": 83,
+      "price_per_meter": 415140,
+      "amount_property": 34747218,
+      "terms": "100%",
+      "amount_contract": null,
+      "amount_paid_money": null,
+      "amount_done": null,
+      "remaining_contract": 0,
+      "remaining_to_pay": -34747218,
+      "company": "Улар-инвест ТОО",
+      "note": "поставка бетона, Атмосфера 4 очередь"
+    },
+    {
+      "date": "",
+      "row_num": "39",
+      "contractor": "Нурболсын",
+      "legal_entity": "Dostar Lift",
+      "kind": "Материалы",
+      "responsible": "Аида",
+      "status_property": "ОФОРМЛЕН",
+      "status_barter": "Исполнен",
+      "project": "Атмосфера",
+      "queue": "II очередь",
+      "block": "12",
+      "floor": 4,
+      "apartment": "23",
+      "apt_type": null,
+      "area": 67,
+      "price_per_meter": null,
+      "amount_property": 16000002,
+      "terms": "100%",
+      "amount_contract": null,
+      "amount_paid_money": null,
+      "amount_done": null,
+      "remaining_contract": 0,
+      "remaining_to_pay": -16000002,
+      "company": "Dostar лифт ТОО",
+      "note": "ЛИФТ - изготовление, монтаж, ранее АТ_2.9.1.1"
+    },
+    {
+      "date": "",
+      "row_num": "75",
+      "contractor": "Нурболсын",
+      "legal_entity": "Dostar Lift",
+      "kind": "Материалы",
+      "responsible": "Аида",
+      "status_property": "Отработан",
+      "status_barter": "Исполнен",
+      "project": "Атмосфера",
+      "queue": "III очередь",
+      "block": "15",
+      "floor": 1,
+      "apartment": "1",
+      "apt_type": null,
+      "area": 66,
+      "price_per_meter": null,
+      "amount_property": 16000002,
+      "terms": "100%",
+      "amount_contract": 16000002,
+      "amount_paid_money": null,
+      "amount_done": 16000002,
+      "remaining_contract": 0,
+      "remaining_to_pay": 0,
+      "company": "Dostar лифт ТОО",
+      "note": "ЛИФТ - изготовление, монтаж Атмосфера"
+    },
+    {
+      "date": "",
+      "row_num": "76",
+      "contractor": "Нурболсын",
+      "legal_entity": "Dostar Lift",
+      "kind": "Материалы",
+      "responsible": "Аида",
+      "status_property": "Отработан",
+      "status_barter": "Исполнен",
+      "project": "Атмосфера",
+      "queue": "III очередь",
+      "block": "15",
+      "floor": 3,
+      "apartment": "17",
+      "apt_type": null,
+      "area": 69,
+      "price_per_meter": null,
+      "amount_property": 16000002,
+      "terms": "100%",
+      "amount_contract": 16000002,
+      "amount_paid_money": null,
+      "amount_done": 16000002,
+      "remaining_contract": 0,
+      "remaining_to_pay": 0,
+      "company": "Dostar лифт ТОО",
+      "note": "ЛИФТ - изготовление, монтаж Атмосфера"
+    },
+    {
+      "date": "",
+      "row_num": "84",
+      "contractor": "ПКФ-Сталь",
+      "legal_entity": "",
+      "kind": "Материалы",
+      "responsible": "Аида",
+      "status_property": "ОФОРМЛЕН",
+      "status_barter": "Исполнен",
+      "project": "Атмосфера",
+      "queue": "III очередь",
+      "block": "14",
+      "floor": 3,
+      "apartment": "12",
+      "apt_type": null,
+      "area": 45,
+      "price_per_meter": 447000,
+      "amount_property": 20182050,
+      "terms": "100%",
+      "amount_contract": 29182050,
+      "amount_paid_money": 9000000,
+      "amount_done": 29153593,
+      "remaining_contract": 28457,
+      "remaining_to_pay": 0,
+      "company": "ПКФ-Сталь",
+      "note": "скидку дала Гульнур,  ПДКП на физ лицо Ахашев"
+    },
+    {
+      "date": "",
+      "row_num": "",
+      "contractor": "Стальная марка",
+      "legal_entity": "",
+      "kind": "Материалы",
+      "responsible": "Аида",
+      "status_property": "ОФОРМЛЕН",
+      "status_barter": "Исполнен",
+      "project": "Атмосфера",
+      "queue": "III очередь",
+      "block": "17",
+      "floor": 2,
+      "apartment": "7",
+      "apt_type": null,
+      "area": 45,
+      "price_per_meter": 440000,
+      "amount_property": 19962800,
+      "terms": "30 / 70",
+      "amount_contract": 66542666,
+      "amount_paid_money": 46579867,
+      "amount_done": 66542667,
+      "remaining_contract": 0,
+      "remaining_to_pay": 0,
+      "company": "Стальная марка",
+      "note": "Стальная марка"
+    },
+    {
+      "date": "",
+      "row_num": "",
+      "contractor": "Стальная марка",
+      "legal_entity": "",
+      "kind": "Материалы",
+      "responsible": "Аида",
+      "status_property": "снять с брони",
+      "status_barter": "В процессе",
+      "project": "Атмосфера",
+      "queue": "III очередь",
+      "block": "17",
+      "floor": 3,
+      "apartment": "12",
+      "apt_type": null,
+      "area": 45,
+      "price_per_meter": 440000,
+      "amount_property": 19962800,
+      "terms": "30 / 70",
+      "amount_contract": 66542666,
+      "amount_paid_money": 46579867,
+      "amount_done": 66542667,
+      "remaining_contract": 0,
+      "remaining_to_pay": 0,
+      "company": "Стальная марка",
+      "note": "Стальная марка"
+    },
+    {
+      "date": "",
+      "row_num": "70",
+      "contractor": "Талгат,  Севардин Tech Fasade",
+      "legal_entity": "ИП Кумарбек",
+      "kind": "Материалы",
+      "responsible": "Аида",
+      "status_property": "Отработан",
+      "status_barter": "Исполнен",
+      "project": "Атмосфера",
+      "queue": "III очередь",
+      "block": "18",
+      "floor": 1,
+      "apartment": "КП-1",
+      "apt_type": null,
+      "area": 45,
+      "price_per_meter": 505250,
+      "amount_property": 22872668,
+      "terms": "60 / 40",
+      "amount_contract": 57181669,
+      "amount_paid_money": 34309001,
+      "amount_done": 60158580,
+      "remaining_contract": -2976911,
+      "remaining_to_pay": 0,
+      "company": "Tech Fasade",
+      "note": "ФЦП, подсистема"
+    },
+    {
+      "date": "",
+      "row_num": "5",
+      "contractor": "Senim Doors",
+      "legal_entity": "",
+      "kind": "Материалы",
+      "responsible": "Аида",
+      "status_property": "ОФОРМЛЕН",
+      "status_barter": "Исполнен",
+      "project": "Атмосфера",
+      "queue": "II очередь",
+      "block": "12",
+      "floor": 2,
+      "apartment": "11",
+      "apt_type": null,
+      "area": 67,
+      "price_per_meter": 427500,
+      "amount_property": 28723725,
+      "terms": "100%",
+      "amount_contract": 32082125,
+      "amount_paid_money": 3358400,
+      "amount_done": 32082125,
+      "remaining_contract": 0,
+      "remaining_to_pay": 0,
+      "company": "Senim Doors",
+      "note": "ДВЕРИ - изготовление, монтаж"
+    },
+    {
+      "date": "",
+      "row_num": "62",
+      "contractor": "Цой Ирина Юрьевна",
+      "legal_entity": "",
+      "kind": "Другое",
+      "responsible": "Данияр",
+      "status_property": "ОФОРМЛЕН",
+      "status_barter": "Исполнен",
+      "project": "Арлан",
+      "queue": "II очередь",
+      "block": "3",
+      "floor": 1,
+      "apartment": "КП",
+      "apt_type": null,
+      "area": 66,
+      "price_per_meter": 174780,
+      "amount_property": 11640375,
+      "terms": "",
+      "amount_contract": null,
+      "amount_paid_money": null,
+      "amount_done": null,
+      "remaining_contract": 0,
+      "remaining_to_pay": -11640375,
+      "company": "Цой Ирина Юрьевна",
+      "note": "от Данияра"
+    },
+    {
+      "date": "",
+      "row_num": "15",
+      "contractor": "Дощинская Эвелина Олеговна",
+      "legal_entity": "",
+      "kind": "Другое",
+      "responsible": "Руслан",
+      "status_property": "",
+      "status_barter": "",
+      "project": "Арлан",
+      "queue": "III очередь",
+      "block": "5",
+      "floor": 1,
+      "apartment": "КП-1",
+      "apt_type": null,
+      "area": 89,
+      "price_per_meter": 292934,
+      "amount_property": 26082840,
+      "terms": "",
+      "amount_contract": null,
+      "amount_paid_money": null,
+      "amount_done": null,
+      "remaining_contract": 0,
+      "remaining_to_pay": -26082840,
+      "company": "Дощинская Эвелина Олеговна",
+      "note": "Данияр А. / д. Вася"
+    },
+    {
+      "date": "",
+      "row_num": "16",
+      "contractor": "Дощинская Эвелина Олеговна",
+      "legal_entity": "",
+      "kind": "Другое",
+      "responsible": "Руслан",
+      "status_property": "",
+      "status_barter": "",
+      "project": "Арлан",
+      "queue": "III очередь",
+      "block": "5",
+      "floor": 1,
+      "apartment": "КП-2",
+      "apt_type": null,
+      "area": 69,
+      "price_per_meter": 334266,
+      "amount_property": 23064350,
+      "terms": "",
+      "amount_contract": null,
+      "amount_paid_money": null,
+      "amount_done": null,
+      "remaining_contract": 0,
+      "remaining_to_pay": -23064350,
+      "company": "Дощинская Эвелина Олеговна",
+      "note": "Данияр А. / д. Вася"
+    },
+    {
+      "date": "",
+      "row_num": "17",
+      "contractor": "Дощинская Эвелина Олеговна",
+      "legal_entity": "",
+      "kind": "Другое",
+      "responsible": "Руслан",
+      "status_property": "",
+      "status_barter": "",
+      "project": "Арлан",
+      "queue": "III очередь",
+      "block": "6",
+      "floor": 1,
+      "apartment": "КП-1",
+      "apt_type": null,
+      "area": 69,
+      "price_per_meter": 317232,
+      "amount_property": 21920700,
+      "terms": "",
+      "amount_contract": null,
+      "amount_paid_money": null,
+      "amount_done": null,
+      "remaining_contract": 0,
+      "remaining_to_pay": -21920700,
+      "company": "Дощинская Эвелина Олеговна",
+      "note": "Данияр А. / д. Вася"
+    },
+    {
+      "date": "",
+      "row_num": "18",
+      "contractor": "Дощинская Эвелина Олеговна",
+      "legal_entity": "",
+      "kind": "Другое",
+      "responsible": "Руслан",
+      "status_property": "",
+      "status_barter": "",
+      "project": "Арлан",
+      "queue": "IV очередь",
+      "block": "7",
+      "floor": 6,
+      "apartment": "31",
+      "apt_type": null,
+      "area": 68,
+      "price_per_meter": 406000,
+      "amount_property": 27875960,
+      "terms": "",
+      "amount_contract": null,
+      "amount_paid_money": null,
+      "amount_done": null,
+      "remaining_contract": 0,
+      "remaining_to_pay": -27875960,
+      "company": "Дощинская Эвелина Олеговна",
+      "note": "Данияр А. / д. Вася"
+    },
+    {
+      "date": "",
+      "row_num": "20",
+      "contractor": "Дощинская Эвелина Олеговна",
+      "legal_entity": "",
+      "kind": "Другое",
+      "responsible": "Руслан",
+      "status_property": "",
+      "status_barter": "",
+      "project": "Арлан",
+      "queue": "IV очередь",
+      "block": "7",
+      "floor": 1,
+      "apartment": "КП-1",
+      "apt_type": null,
+      "area": 69,
+      "price_per_meter": 317232,
+      "amount_property": 21920700,
+      "terms": "",
+      "amount_contract": null,
+      "amount_paid_money": null,
+      "amount_done": null,
+      "remaining_contract": 0,
+      "remaining_to_pay": -21920700,
+      "company": "Дощинская Эвелина Олеговна",
+      "note": "Данияр А. / д. Вася"
+    },
+    {
+      "date": "",
+      "row_num": "21",
+      "contractor": "Дощинская Эвелина Олеговна",
+      "legal_entity": "",
+      "kind": "Другое",
+      "responsible": "Руслан",
+      "status_property": "",
+      "status_barter": "",
+      "project": "Арлан",
+      "queue": "IV очередь",
+      "block": "8",
+      "floor": 1,
+      "apartment": "КП-2",
+      "apt_type": null,
+      "area": 69,
+      "price_per_meter": 334266,
+      "amount_property": 23064350,
+      "terms": "",
+      "amount_contract": null,
+      "amount_paid_money": null,
+      "amount_done": null,
+      "remaining_contract": 0,
+      "remaining_to_pay": -23064350,
+      "company": "Дощинская Эвелина Олеговна",
+      "note": "Данияр А. / д. Вася"
+    },
+    {
+      "date": "",
+      "row_num": "22",
+      "contractor": "Дощинская Эвелина Олеговна",
+      "legal_entity": "",
+      "kind": "Другое",
+      "responsible": "Руслан",
+      "status_property": "",
+      "status_barter": "",
+      "project": "Арлан",
+      "queue": "IV очередь",
+      "block": "8",
+      "floor": 1,
+      "apartment": "КП-1",
+      "apt_type": null,
+      "area": 89,
+      "price_per_meter": 291754,
+      "amount_property": 26082840,
+      "terms": "",
+      "amount_contract": null,
+      "amount_paid_money": null,
+      "amount_done": null,
+      "remaining_contract": 0,
+      "remaining_to_pay": -26082840,
+      "company": "Дощинская Эвелина Олеговна",
+      "note": "Данияр А. / д. Вася"
+    },
+    {
+      "date": "",
+      "row_num": "61",
+      "contractor": "Дощинская Эвелина Олеговна",
+      "legal_entity": "",
+      "kind": "Другое",
+      "responsible": "Руслан",
+      "status_property": "",
+      "status_barter": "",
+      "project": "Атмосфера",
+      "queue": "II очередь",
+      "block": "8",
+      "floor": 1,
+      "apartment": "КП-3",
+      "apt_type": null,
+      "area": 69,
+      "price_per_meter": 346637,
+      "amount_property": 24042713,
+      "terms": "",
+      "amount_contract": null,
+      "amount_paid_money": null,
+      "amount_done": null,
+      "remaining_contract": 0,
+      "remaining_to_pay": -24042713,
+      "company": "Дощинская Эвелина Олеговна",
+      "note": "Данияр А. / д. Вася"
+    },
+    {
+      "date": "",
+      "row_num": "",
+      "contractor": "Стальная марка",
+      "legal_entity": "",
+      "kind": "Материалы",
+      "responsible": "Аида",
+      "status_property": "ОФОРМЛЕН",
+      "status_barter": "В процессе",
+      "project": "Атмосфера",
+      "queue": "III очередь",
+      "block": "17",
+      "floor": 4,
+      "apartment": "14",
+      "apt_type": null,
+      "area": 81,
+      "price_per_meter": 423760,
+      "amount_property": 34625430,
+      "terms": "30 / 70",
+      "amount_contract": 115418098,
+      "amount_paid_money": 46579867,
+      "amount_done": 115418099,
+      "remaining_contract": 0,
+      "remaining_to_pay": 34212802,
+      "company": "Стальная марка",
+      "note": "Стальная марка"
+    },
+    {
+      "date": "03/12/2024",
+      "row_num": "105",
+      "contractor": "Майнур Элитсрой",
+      "legal_entity": "Элитстрой",
+      "kind": "",
+      "responsible": "Гульнур",
+      "status_property": "",
+      "status_barter": "",
+      "project": "Атмосфера",
+      "queue": "II очередь",
+      "block": "11",
+      "floor": 1,
+      "apartment": "3",
+      "apt_type": null,
+      "area": 90,
+      "price_per_meter": null,
+      "amount_property": 15254459,
+      "terms": "факт стоимость  37789500. ДКП составили на сумму 15 254 459 тг",
+      "amount_contract": null,
+      "amount_paid_money": null,
+      "amount_done": null,
+      "remaining_contract": null,
+      "remaining_to_pay": null,
+      "company": "",
+      "note": "ДКП от 04.12.2024"
+    },
+    {
+      "date": "11.12.2024",
+      "row_num": "107",
+      "contractor": "Арлан строй инвест (Жадырасын)",
+      "legal_entity": "Арман строй инвест",
+      "kind": "",
+      "responsible": "Гульнур",
+      "status_property": "СНЯТ",
+      "status_barter": "СНЯТ",
+      "project": "Атмосфера",
+      "queue": "IV очередь",
+      "block": "19",
+      "floor": 5,
+      "apartment": "17",
+      "apt_type": null,
+      "area": 93,
+      "price_per_meter": 545000,
+      "amount_property": 50783100,
+      "terms": "",
+      "amount_contract": null,
+      "amount_paid_money": null,
+      "amount_done": null,
+      "remaining_contract": null,
+      "remaining_to_pay": null,
+      "company": "",
+      "note": ""
+    },
+    {
+      "date": "11.12.2024",
+      "row_num": "108",
+      "contractor": "Арлан строй инвест (Жадырасын)",
+      "legal_entity": "Арман строй инвест",
+      "kind": "",
+      "responsible": "Гульнур",
+      "status_property": "",
+      "status_barter": "???????",
+      "project": "Атмосфера",
+      "queue": "IV очередь",
+      "block": "21",
+      "floor": 5,
+      "apartment": "29",
+      "apt_type": null,
+      "area": 94,
+      "price_per_meter": 545000,
+      "amount_property": 51666000,
+      "terms": "",
+      "amount_contract": null,
+      "amount_paid_money": null,
+      "amount_done": null,
+      "remaining_contract": null,
+      "remaining_to_pay": null,
+      "company": "",
+      "note": ""
+    },
+    {
+      "date": "16.01.2025",
+      "row_num": "115",
+      "contractor": "Воронцов / Аскольд / Главпроф",
+      "legal_entity": "Андрей / Александр",
+      "kind": "Материалы",
+      "responsible": "Аида",
+      "status_property": "ОФОРМЛЕН",
+      "status_barter": "Исполнен",
+      "project": "Атмосфера",
+      "queue": "III очередь",
+      "block": "14",
+      "floor": null,
+      "apartment": "17",
+      "apt_type": null,
+      "area": 9,
+      "price_per_meter": 189474,
+      "amount_property": 1800000,
+      "terms": "50 / 50",
+      "amount_contract": 1800000,
+      "amount_paid_money": 0,
+      "amount_done": 1800000,
+      "remaining_contract": 0,
+      "remaining_to_pay": null,
+      "company": "",
+      "note": ""
+    },
+    {
+      "date": "22/01/2025",
+      "row_num": "116",
+      "contractor": "ИП Ертолек",
+      "legal_entity": "Ертолек",
+      "kind": "Услуги",
+      "responsible": "Гульнур",
+      "status_property": "отработан",
+      "status_barter": "Исполнен",
+      "project": "Атмосфера",
+      "queue": "III очередь",
+      "block": "17",
+      "floor": 1,
+      "apartment": "1",
+      "apt_type": null,
+      "area": 48,
+      "price_per_meter": 478170,
+      "amount_property": null,
+      "terms": "",
+      "amount_contract": null,
+      "amount_paid_money": null,
+      "amount_done": null,
+      "remaining_contract": null,
+      "remaining_to_pay": null,
+      "company": "",
+      "note": ""
+    },
+    {
+      "date": "23.01.2025",
+      "row_num": "117",
+      "contractor": "Улар Инвест",
+      "legal_entity": "Улар Инвест",
+      "kind": "",
+      "responsible": "Аида",
+      "status_property": "в работе",
+      "status_barter": "В процессе",
+      "project": "Атмосфера",
+      "queue": "III очередь",
+      "block": "18",
+      "floor": 4,
+      "apartment": "19",
+      "apt_type": null,
+      "area": 77,
+      "price_per_meter": 450000,
+      "amount_property": 35010000,
+      "terms": "50%",
+      "amount_contract": 70020000,
+      "amount_paid_money": null,
+      "amount_done": null,
+      "remaining_contract": null,
+      "remaining_to_pay": null,
+      "company": "",
+      "note": "продажа с ЕСГ на Улар, ДКП есть от 31.01.2025"
+    },
+    {
+      "date": "12.08.2025",
+      "row_num": "",
+      "contractor": "Ертолек",
+      "legal_entity": "Ертолек",
+      "kind": "Услуги",
+      "responsible": "Гульнур/Данияр",
+      "status_property": "в работе",
+      "status_barter": "????????",
+      "project": "Атмосфера",
+      "queue": "IV очередь",
+      "block": "22",
+      "floor": 3,
+      "apartment": "9",
+      "apt_type": null,
+      "area": 93,
+      "price_per_meter": 445000,
+      "amount_property": 41465100,
+      "terms": "АИДА за эту кв. вернули 37,5 млн.тг.",
+      "amount_contract": null,
+      "amount_paid_money": null,
+      "amount_done": null,
+      "remaining_contract": null,
+      "remaining_to_pay": null,
+      "company": "",
+      "note": ""
+    },
+    {
+      "date": "12.08.2025",
+      "row_num": "",
+      "contractor": "Ертолек",
+      "legal_entity": "Ертолек",
+      "kind": "Услуги",
+      "responsible": "Гульнур/Данияр",
+      "status_property": "в работе",
+      "status_barter": "????????",
+      "project": "Атмосфера",
+      "queue": "IV очередь",
+      "block": "19",
+      "floor": 3,
+      "apartment": "9",
+      "apt_type": null,
+      "area": 93,
+      "price_per_meter": 445000,
+      "amount_property": 41465100,
+      "terms": "АИДА за эту кв. вернули 37,5 млн.тг.",
+      "amount_contract": null,
+      "amount_paid_money": null,
+      "amount_done": null,
+      "remaining_contract": null,
+      "remaining_to_pay": null,
+      "company": "",
+      "note": ""
+    },
+    {
+      "date": "01.08.2025",
+      "row_num": "",
+      "contractor": "Кумакбаев Б.",
+      "legal_entity": "",
+      "kind": "Другое",
+      "responsible": "Данияр",
+      "status_property": "",
+      "status_barter": "",
+      "project": "Атмосфера",
+      "queue": "VII очередь",
+      "block": "38",
+      "floor": 5,
+      "apartment": "22",
+      "apt_type": null,
+      "area": 78,
+      "price_per_meter": 150000,
+      "amount_property": 11794500,
+      "terms": "100%",
+      "amount_contract": null,
+      "amount_paid_money": null,
+      "amount_done": null,
+      "remaining_contract": 0,
+      "remaining_to_pay": -11794500,
+      "company": "Кумакбаев Б.",
+      "note": ""
+    },
+    {
+      "date": "25.11.25",
+      "row_num": "",
+      "contractor": "Сейлхан",
+      "legal_entity": "Сейлхан",
+      "kind": "",
+      "responsible": "Гульнур",
+      "status_property": "",
+      "status_barter": "снято с бартера по поручению Данияра от 16.04.2026",
+      "project": "Атмосфера",
+      "queue": "IV очередь",
+      "block": "24",
+      "floor": 5,
+      "apartment": "29",
+      "apt_type": null,
+      "area": 94,
+      "price_per_meter": 510000,
+      "amount_property": 48348000,
+      "terms": "100%",
+      "amount_contract": null,
+      "amount_paid_money": null,
+      "amount_done": null,
+      "remaining_contract": null,
+      "remaining_to_pay": null,
+      "company": "",
+      "note": ""
+    },
+    {
+      "date": "",
+      "row_num": "",
+      "contractor": "ИП АСКАР КУЛЫШ",
+      "legal_entity": "ИП АСКАР",
+      "kind": "",
+      "responsible": "Гульнур",
+      "status_property": "",
+      "status_barter": "",
+      "project": "Атмосфера",
+      "queue": "IV очередь",
+      "block": "",
+      "floor": null,
+      "apartment": "204",
+      "apt_type": "parking",
+      "area": null,
+      "price_per_meter": 2500000,
+      "amount_property": 0,
+      "terms": "",
+      "amount_contract": null,
+      "amount_paid_money": null,
+      "amount_done": null,
+      "remaining_contract": null,
+      "remaining_to_pay": null,
+      "company": "",
+      "note": "переуступка на КАПИШЕВ БИРЖАН МУРАТОВИЧ"
+    },
+    {
+      "date": "11.02.2026",
+      "row_num": "",
+      "contractor": "ИП Азамат",
+      "legal_entity": "Азамат",
+      "kind": "",
+      "responsible": "Аида",
+      "status_property": "в работе",
+      "status_barter": "Исполнен",
+      "project": "Атмосфера",
+      "queue": "IV очередь",
+      "block": "",
+      "floor": null,
+      "apartment": "183",
+      "apt_type": "parking",
+      "area": null,
+      "price_per_meter": null,
+      "amount_property": 2700000,
+      "terms": "100%",
+      "amount_contract": 2700000,
+      "amount_paid_money": null,
+      "amount_done": null,
+      "remaining_contract": null,
+      "remaining_to_pay": null,
+      "company": "ИП Алиев",
+      "note": ""
+    },
+    {
+      "date": "11.02.2026",
+      "row_num": "",
+      "contractor": "ИП Азамат",
+      "legal_entity": "Азамат",
+      "kind": "",
+      "responsible": "Аида",
+      "status_property": "в работе",
+      "status_barter": "Исполнен",
+      "project": "Атмосфера",
+      "queue": "IV очередь",
+      "block": "",
+      "floor": null,
+      "apartment": "183",
+      "apt_type": "parking",
+      "area": null,
+      "price_per_meter": null,
+      "amount_property": 2700000,
+      "terms": "100%",
+      "amount_contract": 2700000,
+      "amount_paid_money": null,
+      "amount_done": null,
+      "remaining_contract": null,
+      "remaining_to_pay": null,
+      "company": "ИП Алиев",
+      "note": ""
+    }
+  ],
+  "gsheet_external_count": 58
 }
