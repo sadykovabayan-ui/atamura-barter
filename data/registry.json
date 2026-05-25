@@ -1,5 +1,5 @@
 {
-  "last_processed_ts": 1779694969,
+  "last_processed_ts": 1779700854,
   "items": {
     "8898712": {
       "meta": {
@@ -172278,13 +172278,26 @@
           "contactName": "Касымханов Мухтар",
           "contactPhone": "77470674856",
           "contactId": 437246
+        },
+        {
+          "date": 1779700854,
+          "date_local": "25.05.2026 14:20",
+          "from_status_key": "BOOKED",
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 528324,
+          "dealName": "Касымханов Мухтар (агентск) КР2/1к КР_2.3.1.4-АСЕ",
+          "responsibleName": "Малика",
+          "contactName": "Касымханов Мухтар",
+          "contactPhone": "77470674856",
+          "contactId": 437246
         }
       ],
       "current_status_label": "Бронь",
-      "last_deal_name": "Касымханов Мухтар (агентская) ",
-      "last_responsible": "Самал",
-      "last_date": 1779694428,
-      "last_date_local": "25.05.2026 12:33",
+      "last_deal_name": "Касымханов Мухтар (агентск) КР2/1к КР_2.3.1.4-АСЕ",
+      "last_responsible": "Малика",
+      "last_date": 1779700854,
+      "last_date_local": "25.05.2026 14:20",
       "orphan_candidate": true
     },
     "15271090": {
@@ -190569,7 +190582,7 @@
         "status": "BOOKED",
         "customStatusId": 112773
       },
-      "current_status": "BOOKED",
+      "current_status": "AVAILABLE",
       "history": [
         {
           "date": 1779589247,
@@ -190583,13 +190596,39 @@
           "contactName": "Гульзара",
           "contactPhone": "77474446106",
           "contactId": 413184
+        },
+        {
+          "date": 1779699234,
+          "date_local": "25.05.2026 13:53",
+          "from_status_key": "BOOKED",
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 521954,
+          "dealName": "+7 747 577 9570 - Входящий звонок",
+          "responsibleName": "Яна",
+          "contactName": "Данияр",
+          "contactPhone": "+77475779570",
+          "contactId": 432654
+        },
+        {
+          "date": 1779699234,
+          "date_local": "25.05.2026 13:53",
+          "from_status_key": "BOOKED",
+          "to_status_key": "AVAILABLE",
+          "to_status_label": "Свободно",
+          "dealId": 495548,
+          "dealName": "Крыша, пропущенный звонок, ЖК Атмосфера",
+          "responsibleName": "Яна",
+          "contactName": "Гульзара",
+          "contactPhone": "77474446106",
+          "contactId": 413184
         }
       ],
-      "current_status_label": "Бронь",
+      "current_status_label": "Свободно",
       "last_deal_name": "Крыша, пропущенный звонок, ЖК Атмосфера",
       "last_responsible": "Яна",
-      "last_date": 1779589247,
-      "last_date_local": "24.05.2026 07:20",
+      "last_date": 1779699234,
+      "last_date_local": "25.05.2026 13:53",
       "orphan_candidate": true
     },
     "15270960": {
@@ -195865,13 +195904,26 @@
           "contactName": "Мусилимова Толганай Толегеновна",
           "contactPhone": "77714029642",
           "contactId": 422098
+        },
+        {
+          "date": 1779700835,
+          "date_local": "25.05.2026 14:20",
+          "from_status_key": "BOOKED",
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 507780,
+          "dealName": "Мусилимова Толганай Толегеновна (агентск) КР4/1к КР_4.7.2.11-АСЕ чистовой",
+          "responsibleName": "Малика",
+          "contactName": "Мусилимова Толганай Толегеновна",
+          "contactPhone": "77714029642",
+          "contactId": 422098
         }
       ],
       "current_status_label": "Бронь",
-      "last_deal_name": "Мусилимова Толганай Толегеновна (агентская) ",
-      "last_responsible": "Самал",
-      "last_date": 1779689827,
-      "last_date_local": "25.05.2026 11:17",
+      "last_deal_name": "Мусилимова Толганай Толегеновна (агентск) КР4/1к КР_4.7.2.11-АСЕ чистовой",
+      "last_responsible": "Малика",
+      "last_date": 1779700835,
+      "last_date_local": "25.05.2026 14:20",
       "orphan_candidate": true
     },
     "15271143": {
@@ -203710,7 +203762,7 @@
         "status": "BOOKED",
         "customStatusId": 112773
       },
-      "current_status": "BOOKED",
+      "current_status": "BOOKED_bitrix_60d09caca4c4e",
       "history": [
         {
           "date": 1779674518,
@@ -208911,13 +208963,39 @@
           "contactName": "Зульфия",
           "contactPhone": "+77026043940",
           "contactId": 35764
+        },
+        {
+          "date": 1779699030,
+          "date_local": "25.05.2026 13:50",
+          "from_status_key": "BOOKED",
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 528224,
+          "dealName": "Кладовка. ЖАНКАЛОВА ЗУЛЬФИЯ МЕЙРХАНОВНА ",
+          "responsibleName": "Касимжан",
+          "contactName": "Зульфия",
+          "contactPhone": "+77026043940",
+          "contactId": 35764
+        },
+        {
+          "date": 1779699410,
+          "date_local": "25.05.2026 13:56",
+          "from_status_key": "BOOKED",
+          "to_status_key": "BOOKED_bitrix_60d09caca4c4e",
+          "to_status_label": "Подписание ПДКП",
+          "dealId": 528224,
+          "dealName": "Кладовка. ЖАНКАЛОВА ЗУЛЬФИЯ МЕЙРХАНОВНА ",
+          "responsibleName": "Касимжан",
+          "contactName": "Зульфия",
+          "contactPhone": "+77026043940",
+          "contactId": 35764
         }
       ],
-      "current_status_label": "Бронь",
+      "current_status_label": "Подписание ПДКП",
       "last_deal_name": "Кладовка. ЖАНКАЛОВА ЗУЛЬФИЯ МЕЙРХАНОВНА ",
       "last_responsible": "Касимжан",
-      "last_date": 1779674580,
-      "last_date_local": "25.05.2026 07:03",
+      "last_date": 1779699410,
+      "last_date_local": "25.05.2026 13:56",
       "orphan_candidate": true
     },
     "16469483": {
@@ -208933,7 +209011,7 @@
         "status": "BOOKED",
         "customStatusId": 112773
       },
-      "current_status": "BOOKED",
+      "current_status": "BOOKED_bitrix_60d09caca4c4e",
       "history": [
         {
           "date": 1779671811,
@@ -216734,13 +216812,39 @@
           "contactName": "Зульфия",
           "contactPhone": "+77026043940",
           "contactId": 35764
+        },
+        {
+          "date": 1779699034,
+          "date_local": "25.05.2026 13:50",
+          "from_status_key": "BOOKED",
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 528190,
+          "dealName": "Парковка. ЖАНКАЛОВА ЗУЛЬФИЯ МЕЙРХАНОВНА",
+          "responsibleName": "Касимжан",
+          "contactName": "Зульфия",
+          "contactPhone": "+77026043940",
+          "contactId": 35764
+        },
+        {
+          "date": 1779699223,
+          "date_local": "25.05.2026 13:53",
+          "from_status_key": "BOOKED",
+          "to_status_key": "BOOKED_bitrix_60d09caca4c4e",
+          "to_status_label": "Подписание ПДКП",
+          "dealId": 528190,
+          "dealName": "Парковка. ЖАНКАЛОВА ЗУЛЬФИЯ МЕЙРХАНОВНА",
+          "responsibleName": "Касимжан",
+          "contactName": "Зульфия",
+          "contactPhone": "+77026043940",
+          "contactId": 35764
         }
       ],
-      "current_status_label": "Бронь",
+      "current_status_label": "Подписание ПДКП",
       "last_deal_name": "Парковка. ЖАНКАЛОВА ЗУЛЬФИЯ МЕЙРХАНОВНА",
       "last_responsible": "Касимжан",
-      "last_date": 1779672563,
-      "last_date_local": "25.05.2026 06:29",
+      "last_date": 1779699223,
+      "last_date_local": "25.05.2026 13:53",
       "orphan_candidate": true
     },
     "16584951": {
@@ -219367,9 +219471,9 @@
       "orphan_candidate": true
     }
   },
-  "last_run": 1779713689,
+  "last_run": 1779733327,
   "bitrix_last_sync": "2024-11-19T09:08:48+03:00",
-  "gsheet_last_sync": 1779713742,
+  "gsheet_last_sync": 1779733374,
   "gsheet_external_only": [
     {
       "date": "01.04.2026",
