@@ -1,5 +1,5 @@
 {
-  "last_processed_ts": 1779780166,
+  "last_processed_ts": 1779864517,
   "items": {
     "8898712": {
       "meta": {
@@ -32138,7 +32138,7 @@
         "status": "AVAILABLE",
         "customStatusId": 112772
       },
-      "current_status": "BOOKED",
+      "current_status": "AVAILABLE",
       "history": [
         {
           "date": 1779341119,
@@ -45399,13 +45399,26 @@
           "contactName": "Ислам",
           "contactPhone": "+77000303335",
           "contactId": 420802
+        },
+        {
+          "date": 1779864517,
+          "date_local": "27.05.2026 11:48",
+          "from_status_key": "BOOKED",
+          "to_status_key": "AVAILABLE",
+          "to_status_label": "Свободно",
+          "dealId": 505972,
+          "dealName": "Ислам - Пешеход",
+          "responsibleName": "Самал",
+          "contactName": "Ислам",
+          "contactPhone": "+77000303335",
+          "contactId": 420802
         }
       ],
-      "current_status_label": "Бронь",
+      "current_status_label": "Свободно",
       "last_deal_name": "Ислам - Пешеход",
       "last_responsible": "Самал",
-      "last_date": 1779674312,
-      "last_date_local": "25.05.2026 06:58",
+      "last_date": 1779864517,
+      "last_date_local": "27.05.2026 11:48",
       "orphan_candidate": true
     },
     "15525699": {
@@ -203766,13 +203779,26 @@
           "contactName": "",
           "contactPhone": "+77786528303",
           "contactId": 320674
+        },
+        {
+          "date": 1779840974,
+          "date_local": "27.05.2026 05:16",
+          "from_status_key": "BOOKED",
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 526816,
+          "dealName": "ЖОЛШЫБЕК ЕРБОЛ СЕРІКБАЙҰЛЫ КР_4.8.3.26-НСТ",
+          "responsibleName": "Мейрамгуль",
+          "contactName": "",
+          "contactPhone": "+77786528303",
+          "contactId": 320674
         }
       ],
       "current_status_label": "Бронь",
-      "last_deal_name": "+7 778 652 8303 - Входящий звонок",
-      "last_responsible": "Асхат",
-      "last_date": 1779694969,
-      "last_date_local": "25.05.2026 12:42",
+      "last_deal_name": "ЖОЛШЫБЕК ЕРБОЛ СЕРІКБАЙҰЛЫ КР_4.8.3.26-НСТ",
+      "last_responsible": "Мейрамгуль",
+      "last_date": 1779840974,
+      "last_date_local": "27.05.2026 05:16",
       "orphan_candidate": true
     },
     "16469285": {
@@ -219593,11 +219619,60 @@
       "last_date": 1779780166,
       "last_date_local": "26.05.2026 12:22",
       "orphan_candidate": true
+    },
+    "15270961": {
+      "meta": {
+        "project": "KERUEN",
+        "house": "II очередь",
+        "section": "Подъезд 3",
+        "number": "3",
+        "floor": 1,
+        "rooms": 2,
+        "area": 45.73,
+        "price": 22407700,
+        "status": "BOOKED",
+        "customStatusId": 112773
+      },
+      "current_status": "BOOKED",
+      "history": [
+        {
+          "date": 1779845477,
+          "date_local": "27.05.2026 06:31",
+          "from_status_key": null,
+          "to_status_key": "AVAILABLE",
+          "to_status_label": "Свободно",
+          "dealId": 503659,
+          "dealName": "Крыша, новая заявка, ЖК Keruen",
+          "responsibleName": "Олжас",
+          "contactName": "Карлыгаш",
+          "contactPhone": "77001948082",
+          "contactId": 419025
+        },
+        {
+          "date": 1779852609,
+          "date_local": "27.05.2026 08:30",
+          "from_status_key": "AVAILABLE",
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 526836,
+          "dealName": "Гульвира - Пешеход",
+          "responsibleName": "Самал",
+          "contactName": "ватсап Гульвира",
+          "contactPhone": "+77776914515",
+          "contactId": 409892
+        }
+      ],
+      "current_status_label": "Бронь",
+      "last_deal_name": "Гульвира - Пешеход",
+      "last_responsible": "Самал",
+      "last_date": 1779852609,
+      "last_date_local": "27.05.2026 08:30",
+      "orphan_candidate": true
     }
   },
-  "last_run": 1779839491,
+  "last_run": 1779885550,
   "bitrix_last_sync": "2024-11-19T09:08:48+03:00",
-  "gsheet_last_sync": 1779839538,
+  "gsheet_last_sync": 1779885607,
   "gsheet_external_only": [
     {
       "date": "01.04.2026",
