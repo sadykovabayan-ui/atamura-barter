@@ -1,5 +1,5 @@
 {
-  "last_processed_ts": 1779946535,
+  "last_processed_ts": 1779956123,
   "items": {
     "8898712": {
       "meta": {
@@ -219872,13 +219872,26 @@
           "contactName": "Нуралы",
           "contactPhone": "+77766031999",
           "contactId": 435722
+        },
+        {
+          "date": 1779949986,
+          "date_local": "28.05.2026 11:33",
+          "from_status_key": "BOOKED",
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 526034,
+          "dealName": "ЖҮНІСБЕК НУРАЛЫ ҚУАТҰЛЫ",
+          "responsibleName": "Салима",
+          "contactName": "Нуралы",
+          "contactPhone": "+77766031999",
+          "contactId": 435722
         }
       ],
       "current_status_label": "Бронь",
-      "last_deal_name": "+7 776 603 1999 - Входящий звонок",
+      "last_deal_name": "ЖҮНІСБЕК НУРАЛЫ ҚУАТҰЛЫ",
       "last_responsible": "Салима",
-      "last_date": 1779945113,
-      "last_date_local": "28.05.2026 10:11",
+      "last_date": 1779949986,
+      "last_date_local": "28.05.2026 11:33",
       "orphan_candidate": true
     },
     "17049658": {
@@ -219952,11 +219965,204 @@
       "last_date": 1779935202,
       "last_date_local": "28.05.2026 07:26",
       "orphan_candidate": true
+    },
+    "15271168": {
+      "meta": {
+        "project": "KERUEN",
+        "house": "IV очередь",
+        "section": "Подъезд 8",
+        "number": "51",
+        "floor": 6,
+        "rooms": 1,
+        "area": 29.89,
+        "price": 15243900,
+        "status": "BOOKED",
+        "customStatusId": 132940
+      },
+      "current_status": "BOOKED_bitrix_643fe8daed856",
+      "history": [
+        {
+          "date": 1779956123,
+          "date_local": "28.05.2026 13:15",
+          "from_status_key": null,
+          "to_status_key": "BOOKED_bitrix_643fe8daed856",
+          "to_status_label": "Продано 3Б",
+          "dealId": null,
+          "dealName": null,
+          "responsibleName": null,
+          "contactName": null,
+          "contactPhone": null,
+          "contactId": null
+        }
+      ],
+      "current_status_label": "Продано 3Б",
+      "last_deal_name": null,
+      "last_responsible": null,
+      "last_date": 1779956123,
+      "last_date_local": "28.05.2026 13:15",
+      "orphan_candidate": true
+    },
+    "16899576": {
+      "meta": {
+        "project": "KERUEN",
+        "house": "IV очередь - кладовые и паркинг",
+        "section": "8",
+        "number": "77",
+        "floor": 1,
+        "rooms": 0,
+        "area": 10,
+        "price": 1300000,
+        "status": "BOOKED",
+        "customStatusId": 112773
+      },
+      "current_status": "BOOKED",
+      "history": [
+        {
+          "date": 1779950362,
+          "date_local": "28.05.2026 11:39",
+          "from_status_key": null,
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 529830,
+          "dealName": "Нуралы - Пешеход",
+          "responsibleName": "Салима",
+          "contactName": "Нуралы",
+          "contactPhone": "+77766031999",
+          "contactId": 435722
+        }
+      ],
+      "current_status_label": "Бронь",
+      "last_deal_name": "Нуралы - Пешеход",
+      "last_responsible": "Салима",
+      "last_date": 1779950362,
+      "last_date_local": "28.05.2026 11:39",
+      "orphan_candidate": true
+    },
+    "16899645": {
+      "meta": {
+        "project": "KERUEN",
+        "house": "IV очередь - кладовые и паркинг",
+        "section": "8",
+        "number": "30",
+        "floor": -1,
+        "rooms": 0,
+        "area": 5.7,
+        "price": 513000,
+        "status": "BOOKED",
+        "customStatusId": 112773
+      },
+      "current_status": "BOOKED",
+      "history": [
+        {
+          "date": 1779950178,
+          "date_local": "28.05.2026 11:36",
+          "from_status_key": null,
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 529828,
+          "dealName": "ЖҮНІСБЕК НУРАЛЫ ҚУАТҰЛЫ",
+          "responsibleName": "Салима",
+          "contactName": "Нуралы",
+          "contactPhone": "+77766031999",
+          "contactId": 438256
+        }
+      ],
+      "current_status_label": "Бронь",
+      "last_deal_name": "ЖҮНІСБЕК НУРАЛЫ ҚУАТҰЛЫ",
+      "last_responsible": "Салима",
+      "last_date": 1779950178,
+      "last_date_local": "28.05.2026 11:36",
+      "orphan_candidate": true
+    },
+    "16945123": {
+      "meta": {
+        "project": "Атмосфера",
+        "house": "IV очередь - кладовые и паркинг (new)",
+        "section": "23",
+        "number": "109",
+        "floor": -1,
+        "rooms": 0,
+        "area": 3.8,
+        "price": 684000,
+        "status": "BOOKED",
+        "customStatusId": 112773
+      },
+      "current_status": "BOOKED",
+      "history": [
+        {
+          "date": 1779951896,
+          "date_local": "28.05.2026 12:04",
+          "from_status_key": null,
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 529848,
+          "dealName": "Кладовка. Хасенова Лаура Жумашовна.",
+          "responsibleName": "Касимжан",
+          "contactName": "Laura Khassenova",
+          "contactPhone": "+77012233114",
+          "contactId": 343070
+        },
+        {
+          "date": 1779952571,
+          "date_local": "28.05.2026 12:16",
+          "from_status_key": "BOOKED",
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 529848,
+          "dealName": "Кладовка. Хасенова Лаура Жумашовна.",
+          "responsibleName": "Касимжан",
+          "contactName": "Laura Khassenova",
+          "contactPhone": "+77012233114",
+          "contactId": 343070
+        }
+      ],
+      "current_status_label": "Бронь",
+      "last_deal_name": "Кладовка. Хасенова Лаура Жумашовна.",
+      "last_responsible": "Касимжан",
+      "last_date": 1779952571,
+      "last_date_local": "28.05.2026 12:16",
+      "orphan_candidate": true
+    },
+    "17049611": {
+      "meta": {
+        "project": "Атмосфера",
+        "house": "V очередь -  кладовые и паркинг",
+        "section": "27",
+        "number": "246",
+        "floor": 1,
+        "rooms": 0,
+        "area": 10,
+        "price": 2000000,
+        "status": "BOOKED",
+        "customStatusId": 112773
+      },
+      "current_status": "BOOKED",
+      "history": [
+        {
+          "date": 1779951395,
+          "date_local": "28.05.2026 11:56",
+          "from_status_key": null,
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 529836,
+          "dealName": "Парковка. Хасенова Лаура Жумашовна",
+          "responsibleName": "Касимжан",
+          "contactName": "Laura Khassenova",
+          "contactPhone": "+77012233114",
+          "contactId": 343070
+        }
+      ],
+      "current_status_label": "Бронь",
+      "last_deal_name": "Парковка. Хасенова Лаура Жумашовна",
+      "last_responsible": "Касимжан",
+      "last_date": 1779951395,
+      "last_date_local": "28.05.2026 11:56",
+      "orphan_candidate": true
     }
   },
-  "last_run": 1779966372,
+  "last_run": 1779998211,
   "bitrix_last_sync": "2024-11-19T09:08:48+03:00",
-  "gsheet_last_sync": 1779966418,
+  "gsheet_last_sync": 1779998257,
   "gsheet_external_only": [
     {
       "date": "01.04.2026",
