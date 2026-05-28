@@ -2351,7 +2351,7 @@
   {
     "date": "",
     "row_num": "12",
-    "contractor": "Воронцов / Аскольд / Главпроф",
+    "contractor": "Воронцов / Аскольд / Главпроф/Кириенко/ ALLKurylys/",
     "legal_entity": "",
     "kind": "Материалы",
     "responsible": "Аида",
@@ -2378,7 +2378,7 @@
   {
     "date": "",
     "row_num": "11",
-    "contractor": "Воронцов / Аскольд / Главпроф",
+    "contractor": "Воронцов / Аскольд / Главпроф/Кириенко/ ALLKurylys/",
     "legal_entity": "",
     "kind": "Материалы",
     "responsible": "Аида",
@@ -3593,7 +3593,7 @@
   {
     "date": "15/01/2025",
     "row_num": "114",
-    "contractor": "Воронцов / Аскольд / Главпроф",
+    "contractor": "Воронцов / Аскольд / Главпроф/Кириенко/ ALLKurylys/",
     "legal_entity": "Андрей / Александр",
     "kind": "Материалы",
     "responsible": "Аида",
@@ -3620,7 +3620,7 @@
   {
     "date": "16.01.2025",
     "row_num": "115",
-    "contractor": "Воронцов / Аскольд / Главпроф",
+    "contractor": "Воронцов / Аскольд / Главпроф/Кириенко/ ALLKurylys/",
     "legal_entity": "Андрей / Александр",
     "kind": "Материалы",
     "responsible": "Аида",
@@ -3917,7 +3917,7 @@
   {
     "date": "07.03.2025",
     "row_num": "122",
-    "contractor": "Воронцов / Аскольд / Главпроф",
+    "contractor": "Воронцов / Аскольд / Главпроф/Кириенко/ ALLKurylys/",
     "legal_entity": "Андрей / Александр",
     "kind": "материалы",
     "responsible": "Аида",
@@ -5456,7 +5456,7 @@
   {
     "date": "30.12.2025",
     "row_num": "",
-    "contractor": "ИП ВОронцов",
+    "contractor": "Воронцов / Аскольд / Главпроф/Кириенко/ ALLKurylys/",
     "legal_entity": "АНдрей",
     "kind": "Материалы",
     "responsible": "АИда",
@@ -6401,7 +6401,7 @@
   {
     "date": "20.04.2026",
     "row_num": "",
-    "contractor": "ТОО OKTOPROF Андрей Воронцов",
+    "contractor": "Воронцов / Аскольд / Главпроф/Кириенко/ ALLKurylys/",
     "legal_entity": "ТОО OKTOPROF Андрей Воронцов",
     "kind": "товар",
     "responsible": "Аида",

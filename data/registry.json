@@ -1,5 +1,5 @@
 {
-  "last_processed_ts": 1779864517,
+  "last_processed_ts": 1779946535,
   "items": {
     "8898712": {
       "meta": {
@@ -1563,7 +1563,7 @@
       "gsheet": {
         "date": "15/01/2025",
         "row_num": "114",
-        "contractor": "Воронцов / Аскольд / Главпроф",
+        "contractor": "Воронцов / Аскольд / Главпроф/Кириенко/ ALLKurylys/",
         "legal_entity": "Андрей / Александр",
         "kind": "Материалы",
         "responsible": "Аида",
@@ -1999,7 +1999,7 @@
       "gsheet": {
         "date": "07.03.2025",
         "row_num": "122",
-        "contractor": "Воронцов / Аскольд / Главпроф",
+        "contractor": "Воронцов / Аскольд / Главпроф/Кириенко/ ALLKurylys/",
         "legal_entity": "Андрей / Александр",
         "kind": "материалы",
         "responsible": "Аида",
@@ -4865,7 +4865,7 @@
       "gsheet": {
         "date": "20.04.2026",
         "row_num": "",
-        "contractor": "ТОО OKTOPROF Андрей Воронцов",
+        "contractor": "Воронцов / Аскольд / Главпроф/Кириенко/ ALLKurylys/",
         "legal_entity": "ТОО OKTOPROF Андрей Воронцов",
         "kind": "товар",
         "responsible": "Аида",
@@ -18870,7 +18870,7 @@
       "gsheet": {
         "date": "30.12.2025",
         "row_num": "",
-        "contractor": "ИП ВОронцов",
+        "contractor": "Воронцов / Аскольд / Главпроф/Кириенко/ ALLKurylys/",
         "legal_entity": "АНдрей",
         "kind": "Материалы",
         "responsible": "АИда",
@@ -162823,13 +162823,26 @@
           "contactName": "Наби",
           "contactPhone": "7785844409",
           "contactId": 431850
+        },
+        {
+          "date": 1779924438,
+          "date_local": "28.05.2026 04:27",
+          "from_status_key": "BOOKED",
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 520682,
+          "dealName": "Без имени - Пешеход",
+          "responsibleName": "Малика",
+          "contactName": "Наби",
+          "contactPhone": "7785844409",
+          "contactId": 431850
         }
       ],
       "current_status_label": "Бронь",
       "last_deal_name": "Без имени - Пешеход",
       "last_responsible": "Малика",
-      "last_date": 1779502498,
-      "last_date_local": "23.05.2026 07:14",
+      "last_date": 1779924438,
+      "last_date_local": "28.05.2026 04:27",
       "orphan_candidate": true
     },
     "8898915": {
@@ -163686,7 +163699,7 @@
       "gsheet": {
         "date": "",
         "row_num": "11",
-        "contractor": "Воронцов / Аскольд / Главпроф",
+        "contractor": "Воронцов / Аскольд / Главпроф/Кириенко/ ALLKurylys/",
         "legal_entity": "",
         "kind": "Материалы",
         "responsible": "Аида",
@@ -164481,13 +164494,26 @@
           "contactName": "Онгаров Евгений",
           "contactPhone": "77021998855",
           "contactId": 404666
+        },
+        {
+          "date": 1779924443,
+          "date_local": "28.05.2026 04:27",
+          "from_status_key": "BOOKED",
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 484036,
+          "dealName": "Онгаров Евгений (агентская) КР3/1к КР_3.5.4.32-АСЕ",
+          "responsibleName": "Малика",
+          "contactName": "Онгаров Евгений",
+          "contactPhone": "77021998855",
+          "contactId": 404666
         }
       ],
       "current_status_label": "Бронь",
       "last_deal_name": "Онгаров Евгений (агентская) КР3/1к КР_3.5.4.32-АСЕ",
       "last_responsible": "Малика",
-      "last_date": 1779435774,
-      "last_date_local": "22.05.2026 12:42",
+      "last_date": 1779924443,
+      "last_date_local": "28.05.2026 04:27",
       "orphan_candidate": true
     },
     "15270962": {
@@ -172317,13 +172343,26 @@
           "contactName": "Касымханов Мухтар",
           "contactPhone": "77470674856",
           "contactId": 437246
+        },
+        {
+          "date": 1779926267,
+          "date_local": "28.05.2026 04:57",
+          "from_status_key": "BOOKED",
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 528324,
+          "dealName": "Касымханов Мухтар (агентск) КР2/1к КР_2.3.1.4-АСЕ",
+          "responsibleName": "Малика",
+          "contactName": "Касымханов Мухтар",
+          "contactPhone": "77470674856",
+          "contactId": 437246
         }
       ],
       "current_status_label": "Бронь",
       "last_deal_name": "Касымханов Мухтар (агентск) КР2/1к КР_2.3.1.4-АСЕ",
       "last_responsible": "Малика",
-      "last_date": 1779700854,
-      "last_date_local": "25.05.2026 14:20",
+      "last_date": 1779926267,
+      "last_date_local": "28.05.2026 04:57",
       "orphan_candidate": true
     },
     "15271090": {
@@ -172339,7 +172378,7 @@
         "status": "BOOKED",
         "customStatusId": 112773
       },
-      "current_status": "BOOKED",
+      "current_status": "BOOKED_bitrix_60d09caca4c4e",
       "history": [
         {
           "date": 1779514057,
@@ -177540,13 +177579,26 @@
           "contactName": "Айжан Мухаева",
           "contactPhone": "+77757256631",
           "contactId": 427728
+        },
+        {
+          "date": 1779924842,
+          "date_local": "28.05.2026 04:34",
+          "from_status_key": "BOOKED",
+          "to_status_key": "BOOKED_bitrix_60d09caca4c4e",
+          "to_status_label": "Подписание ПДКП",
+          "dealId": 515342,
+          "dealName": "КР_4.7.3.26-КЕК",
+          "responsibleName": "Малика",
+          "contactName": "Айжан Мухаева",
+          "contactPhone": "+77757256631",
+          "contactId": 427728
         }
       ],
-      "current_status_label": "Бронь",
+      "current_status_label": "Подписание ПДКП",
       "last_deal_name": "КР_4.7.3.26-КЕК",
       "last_responsible": "Малика",
-      "last_date": 1779689930,
-      "last_date_local": "25.05.2026 11:18",
+      "last_date": 1779924842,
+      "last_date_local": "28.05.2026 04:34",
       "orphan_candidate": true
     },
     "17082187": {
@@ -190661,13 +190713,26 @@
           "contactName": "Гульзара",
           "contactPhone": "77474446106",
           "contactId": 413184
+        },
+        {
+          "date": 1779935300,
+          "date_local": "28.05.2026 07:28",
+          "from_status_key": "AVAILABLE",
+          "to_status_key": "AVAILABLE",
+          "to_status_label": "Свободно",
+          "dealId": 521954,
+          "dealName": "КР_1.1.5.38-КЯВ Жакипов Асхат Анапияевич",
+          "responsibleName": "Яна",
+          "contactName": "Данияр",
+          "contactPhone": "+77475779570",
+          "contactId": 432654
         }
       ],
       "current_status_label": "Свободно",
-      "last_deal_name": "Крыша, пропущенный звонок, ЖК Атмосфера",
+      "last_deal_name": "КР_1.1.5.38-КЯВ Жакипов Асхат Анапияевич",
       "last_responsible": "Яна",
-      "last_date": 1779699234,
-      "last_date_local": "25.05.2026 13:53",
+      "last_date": 1779935300,
+      "last_date_local": "28.05.2026 07:28",
       "orphan_candidate": true
     },
     "15270960": {
@@ -193342,7 +193407,7 @@
         "status": "BOOKED",
         "customStatusId": 112773
       },
-      "current_status": "BOOKED",
+      "current_status": "BOOKED_bitrix_60d09caca4c4e",
       "history": [
         {
           "date": 1779689827,
@@ -195956,13 +196021,26 @@
           "contactName": "Мусилимова Толганай Толегеновна",
           "contactPhone": "77714029642",
           "contactId": 422098
+        },
+        {
+          "date": 1779925858,
+          "date_local": "28.05.2026 04:50",
+          "from_status_key": "BOOKED",
+          "to_status_key": "BOOKED_bitrix_60d09caca4c4e",
+          "to_status_label": "Подписание ПДКП",
+          "dealId": 507780,
+          "dealName": "Мусилимова Толганай Толегеновна (агентск) КР4/1к КР_4.7.2.11-АСЕ чистовой",
+          "responsibleName": "Малика",
+          "contactName": "Мусилимова Толганай Толегеновна",
+          "contactPhone": "77714029642",
+          "contactId": 422098
         }
       ],
-      "current_status_label": "Бронь",
+      "current_status_label": "Подписание ПДКП",
       "last_deal_name": "Мусилимова Толганай Толегеновна (агентск) КР4/1к КР_4.7.2.11-АСЕ чистовой",
       "last_responsible": "Малика",
-      "last_date": 1779700835,
-      "last_date_local": "25.05.2026 14:20",
+      "last_date": 1779925858,
+      "last_date_local": "28.05.2026 04:50",
       "orphan_candidate": true
     },
     "15271143": {
@@ -219513,13 +219591,39 @@
           "contactName": "Мейрамгуль Булакбаева",
           "contactPhone": "87475676611",
           "contactId": 399814
+        },
+        {
+          "date": 1779945255,
+          "date_local": "28.05.2026 10:14",
+          "from_status_key": "BOOKED",
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 477882,
+          "dealName": "Мейрамгуль Булакбаева АКТ",
+          "responsibleName": "Касимжан",
+          "contactName": "Мейрамгуль Булакбаева",
+          "contactPhone": "87475676611",
+          "contactId": 399814
+        },
+        {
+          "date": 1779946535,
+          "date_local": "28.05.2026 10:35",
+          "from_status_key": "BOOKED",
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 477882,
+          "dealName": "Мейрамгуль Булакбаева АКТ",
+          "responsibleName": "Касимжан",
+          "contactName": "Мейрамгуль Булакбаева",
+          "contactPhone": "87475676611",
+          "contactId": 399814
         }
       ],
       "current_status_label": "Бронь",
-      "last_deal_name": "Лид с сайта  |  Aqsai resort",
-      "last_responsible": "Жазира",
-      "last_date": 1779692812,
-      "last_date_local": "25.05.2026 12:06",
+      "last_deal_name": "Мейрамгуль Булакбаева АКТ",
+      "last_responsible": "Касимжан",
+      "last_date": 1779946535,
+      "last_date_local": "28.05.2026 10:35",
       "orphan_candidate": true
     },
     "15271080": {
@@ -219668,11 +219772,191 @@
       "last_date": 1779852609,
       "last_date_local": "27.05.2026 08:30",
       "orphan_candidate": true
+    },
+    "15099183": {
+      "meta": {
+        "project": "KERUEN",
+        "house": "I очередь",
+        "section": "Подъезд 2",
+        "number": "37",
+        "floor": 5,
+        "rooms": 2,
+        "area": 53.55,
+        "price": 24633000,
+        "status": "AVAILABLE",
+        "customStatusId": 112772
+      },
+      "current_status": "AVAILABLE",
+      "history": [
+        {
+          "date": 1779925820,
+          "date_local": "28.05.2026 04:50",
+          "from_status_key": null,
+          "to_status_key": "AVAILABLE",
+          "to_status_label": "Свободно",
+          "dealId": 500128,
+          "dealName": "ЖАҚСЫЛЫҚ ЖАНСАЯ ЖАНТӨРЕҚЫЗЫ КР_1.2.5.37-АЗД",
+          "responsibleName": "Малика",
+          "contactName": "Жансая Жантөреқызы",
+          "contactPhone": "+77475262825",
+          "contactId": 413024
+        }
+      ],
+      "current_status_label": "Свободно",
+      "last_deal_name": "ЖАҚСЫЛЫҚ ЖАНСАЯ ЖАНТӨРЕҚЫЗЫ КР_1.2.5.37-АЗД",
+      "last_responsible": "Малика",
+      "last_date": 1779925820,
+      "last_date_local": "28.05.2026 04:50",
+      "orphan_candidate": true
+    },
+    "15270964": {
+      "meta": {
+        "project": "KERUEN",
+        "house": "II очередь",
+        "section": "Подъезд 3",
+        "number": "6",
+        "floor": 1,
+        "rooms": 1,
+        "area": 29.89,
+        "price": 10610950,
+        "status": "SOLD",
+        "customStatusId": 112774
+      },
+      "current_status": "SOLD",
+      "history": [
+        {
+          "date": 1779933791,
+          "date_local": "28.05.2026 07:03",
+          "from_status_key": null,
+          "to_status_key": "SOLD",
+          "to_status_label": "Продано",
+          "dealId": 261250,
+          "dealName": "ЖК Керуен ",
+          "responsibleName": "Асхат",
+          "contactName": "Ару",
+          "contactPhone": "+77477771416",
+          "contactId": 234130
+        }
+      ],
+      "current_status_label": "Продано",
+      "last_deal_name": "ЖК Керуен ",
+      "last_responsible": "Асхат",
+      "last_date": 1779933791,
+      "last_date_local": "28.05.2026 07:03",
+      "orphan_candidate": true
+    },
+    "15271153": {
+      "meta": {
+        "project": "KERUEN",
+        "house": "IV очередь",
+        "section": "Подъезд 8",
+        "number": "36",
+        "floor": 5,
+        "rooms": 2,
+        "area": 51.81,
+        "price": 25905000,
+        "status": "BOOKED",
+        "customStatusId": 112773
+      },
+      "current_status": "BOOKED",
+      "history": [
+        {
+          "date": 1779945113,
+          "date_local": "28.05.2026 10:11",
+          "from_status_key": null,
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 526034,
+          "dealName": "+7 776 603 1999 - Входящий звонок",
+          "responsibleName": "Салима",
+          "contactName": "Нуралы",
+          "contactPhone": "+77766031999",
+          "contactId": 435722
+        }
+      ],
+      "current_status_label": "Бронь",
+      "last_deal_name": "+7 776 603 1999 - Входящий звонок",
+      "last_responsible": "Салима",
+      "last_date": 1779945113,
+      "last_date_local": "28.05.2026 10:11",
+      "orphan_candidate": true
+    },
+    "17049658": {
+      "meta": {
+        "project": "Атмосфера",
+        "house": "V очередь -  кладовые и паркинг",
+        "section": "30",
+        "number": "293",
+        "floor": 1,
+        "rooms": 0,
+        "area": 10,
+        "price": 2500000,
+        "status": "BOOKED",
+        "customStatusId": 112773
+      },
+      "current_status": "BOOKED",
+      "history": [
+        {
+          "date": 1779940292,
+          "date_local": "28.05.2026 08:51",
+          "from_status_key": null,
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 512596,
+          "dealName": "Лид с сайта | Keruen 03.05",
+          "responsibleName": "Сабир",
+          "contactName": "Айша",
+          "contactPhone": "87071906929",
+          "contactId": 425688
+        }
+      ],
+      "current_status_label": "Бронь",
+      "last_deal_name": "Лид с сайта | Keruen 03.05",
+      "last_responsible": "Сабир",
+      "last_date": 1779940292,
+      "last_date_local": "28.05.2026 08:51",
+      "orphan_candidate": true
+    },
+    "17082188": {
+      "meta": {
+        "project": "KERUEN",
+        "house": "V очередь",
+        "section": "Подъезд 9",
+        "number": "42",
+        "floor": 5,
+        "rooms": 1,
+        "area": 29.89,
+        "price": 16738400,
+        "status": "BOOKED",
+        "customStatusId": 112773
+      },
+      "current_status": "BOOKED",
+      "history": [
+        {
+          "date": 1779935202,
+          "date_local": "28.05.2026 07:26",
+          "from_status_key": null,
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 511334,
+          "dealName": "Лиды FB | Aqsai Resort New",
+          "responsibleName": "Яна",
+          "contactName": "Эльдар",
+          "contactPhone": "+77077717116",
+          "contactId": 424760
+        }
+      ],
+      "current_status_label": "Бронь",
+      "last_deal_name": "Лиды FB | Aqsai Resort New",
+      "last_responsible": "Яна",
+      "last_date": 1779935202,
+      "last_date_local": "28.05.2026 07:26",
+      "orphan_candidate": true
     }
   },
-  "last_run": 1779914250,
+  "last_run": 1779966372,
   "bitrix_last_sync": "2024-11-19T09:08:48+03:00",
-  "gsheet_last_sync": 1779914295,
+  "gsheet_last_sync": 1779966418,
   "gsheet_external_only": [
     {
       "date": "01.04.2026",
@@ -221000,7 +221284,7 @@
     {
       "date": "16.01.2025",
       "row_num": "115",
-      "contractor": "Воронцов / Аскольд / Главпроф",
+      "contractor": "Воронцов / Аскольд / Главпроф/Кириенко/ ALLKurylys/",
       "legal_entity": "Андрей / Александр",
       "kind": "Материалы",
       "responsible": "Аида",
