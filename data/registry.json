@@ -1,5 +1,5 @@
 {
-  "last_processed_ts": 1779956123,
+  "last_processed_ts": 1780039185,
   "items": {
     "8898712": {
       "meta": {
@@ -16207,7 +16207,34 @@
       ],
       "initialized_from_property": true,
       "last_date_local": "21.05.2026 06:35",
-      "orphan_candidate": true
+      "gsheet": {
+        "date": "21.05.2026",
+        "row_num": "",
+        "contractor": "ИП Аскар",
+        "legal_entity": "ИП Аскар",
+        "kind": "Услуги",
+        "responsible": "ГД Олжас",
+        "status_property": "в работе",
+        "status_barter": "в процессе",
+        "project": "KERUEN",
+        "queue": "IV очередь",
+        "block": "7",
+        "floor": 5,
+        "apartment": "36",
+        "apt_type": null,
+        "area": 51,
+        "price_per_meter": 500000,
+        "amount_property": 25905000,
+        "terms": "",
+        "amount_contract": null,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "",
+        "note": "",
+        "match_quality": "no_block"
+      }
     },
     "15271109": {
       "meta": {
@@ -21227,7 +21254,34 @@
       "last_date": 0,
       "history": [],
       "initialized_from_property": true,
-      "orphan_candidate": true
+      "gsheet": {
+        "date": "21.05.2026",
+        "row_num": "",
+        "contractor": "ИП Азамат",
+        "legal_entity": "ИП Азамат",
+        "kind": "опалубка",
+        "responsible": "ГД Олжас",
+        "status_property": "в работе",
+        "status_barter": "в процессе",
+        "project": "KERUEN",
+        "queue": "V очередь",
+        "block": "9",
+        "floor": 1,
+        "apartment": "2",
+        "apt_type": null,
+        "area": 45,
+        "price_per_meter": 550000,
+        "amount_property": 25107500,
+        "terms": "",
+        "amount_contract": null,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "",
+        "note": "",
+        "match_quality": "no_block"
+      }
     },
     "17082149": {
       "meta": {
@@ -21247,7 +21301,34 @@
       "last_date": 0,
       "history": [],
       "initialized_from_property": true,
-      "orphan_candidate": true
+      "gsheet": {
+        "date": "21.05.2026",
+        "row_num": "",
+        "contractor": "ИП Азамат",
+        "legal_entity": "ИП Азамат",
+        "kind": "опалубка",
+        "responsible": "ГД Олжас",
+        "status_property": "в работе",
+        "status_barter": "в процессе",
+        "project": "KERUEN",
+        "queue": "V очередь",
+        "block": "9",
+        "floor": 1,
+        "apartment": "3",
+        "apt_type": null,
+        "area": 45,
+        "price_per_meter": 550000,
+        "amount_property": 25151500,
+        "terms": "",
+        "amount_contract": null,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "",
+        "note": "",
+        "match_quality": "no_block"
+      }
     },
     "17082150": {
       "meta": {
@@ -21267,7 +21348,34 @@
       "last_date": 0,
       "history": [],
       "initialized_from_property": true,
-      "orphan_candidate": true
+      "gsheet": {
+        "date": "21.05.2026",
+        "row_num": "",
+        "contractor": "ИП Азамат",
+        "legal_entity": "ИП Азамат",
+        "kind": "опалубка",
+        "responsible": "ГД Олжас",
+        "status_property": "в работе",
+        "status_barter": "в процессе",
+        "project": "KERUEN",
+        "queue": "V очередь",
+        "block": "9",
+        "floor": 1,
+        "apartment": "4",
+        "apt_type": null,
+        "area": 45,
+        "price_per_meter": 550000,
+        "amount_property": 24981000,
+        "terms": "",
+        "amount_contract": null,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "",
+        "note": "",
+        "match_quality": "no_block"
+      }
     },
     "17082151": {
       "meta": {
@@ -21287,7 +21395,34 @@
       "last_date": 0,
       "history": [],
       "initialized_from_property": true,
-      "orphan_candidate": true
+      "gsheet": {
+        "date": "21.05.2026",
+        "row_num": "",
+        "contractor": "ИП Азамат",
+        "legal_entity": "ИП Азамат",
+        "kind": "монолит",
+        "responsible": "ГД Олжас",
+        "status_property": "в работе",
+        "status_barter": "в процессе",
+        "project": "KERUEN",
+        "queue": "V очередь",
+        "block": "9",
+        "floor": 1,
+        "apartment": "5",
+        "apt_type": null,
+        "area": 37,
+        "price_per_meter": 560000,
+        "amount_property": 21196000,
+        "terms": "",
+        "amount_contract": null,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "",
+        "note": "",
+        "match_quality": "no_block"
+      }
     },
     "17082152": {
       "meta": {
@@ -21307,7 +21442,34 @@
       "last_date": 0,
       "history": [],
       "initialized_from_property": true,
-      "orphan_candidate": true
+      "gsheet": {
+        "date": "21.05.2026",
+        "row_num": "",
+        "contractor": "ИП Азамат",
+        "legal_entity": "ИП Азамат",
+        "kind": "монолит",
+        "responsible": "ГД Олжас",
+        "status_property": "в работе",
+        "status_barter": "в процессе",
+        "project": "KERUEN",
+        "queue": "V очередь",
+        "block": "9",
+        "floor": 1,
+        "apartment": "6",
+        "apt_type": null,
+        "area": 29,
+        "price_per_meter": 560000,
+        "amount_property": 16738400,
+        "terms": "",
+        "amount_contract": null,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "",
+        "note": "",
+        "match_quality": "no_block"
+      }
     },
     "17082197": {
       "meta": {
@@ -219786,7 +219948,7 @@
         "status": "AVAILABLE",
         "customStatusId": 112772
       },
-      "current_status": "AVAILABLE",
+      "current_status": "BOOKED",
       "history": [
         {
           "date": 1779925820,
@@ -219800,13 +219962,26 @@
           "contactName": "Жансая Жантөреқызы",
           "contactPhone": "+77475262825",
           "contactId": 413024
+        },
+        {
+          "date": 1780022422,
+          "date_local": "29.05.2026 07:40",
+          "from_status_key": "AVAILABLE",
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 508776,
+          "dealName": "Лиды FB | Aqsai Resort New",
+          "responsibleName": "Олжас",
+          "contactName": "Толғанай",
+          "contactPhone": "+77072033707",
+          "contactId": 422830
         }
       ],
-      "current_status_label": "Свободно",
-      "last_deal_name": "ЖАҚСЫЛЫҚ ЖАНСАЯ ЖАНТӨРЕҚЫЗЫ КР_1.2.5.37-АЗД",
-      "last_responsible": "Малика",
-      "last_date": 1779925820,
-      "last_date_local": "28.05.2026 04:50",
+      "current_status_label": "Бронь",
+      "last_deal_name": "Лиды FB | Aqsai Resort New",
+      "last_responsible": "Олжас",
+      "last_date": 1780022422,
+      "last_date_local": "29.05.2026 07:40",
       "orphan_candidate": true
     },
     "15270964": {
@@ -220000,7 +220175,34 @@
       "last_responsible": null,
       "last_date": 1779956123,
       "last_date_local": "28.05.2026 13:15",
-      "orphan_candidate": true
+      "gsheet": {
+        "date": "28.05.2026",
+        "row_num": "",
+        "contractor": "ИП Слемов",
+        "legal_entity": "ИП Слемов",
+        "kind": "",
+        "responsible": "ГД Олжас",
+        "status_property": "в работе",
+        "status_barter": "в процессе",
+        "project": "KERUEN",
+        "queue": "IV очередь",
+        "block": "8",
+        "floor": 6,
+        "apartment": "51",
+        "apt_type": null,
+        "area": 29,
+        "price_per_meter": 480000,
+        "amount_property": 14347200,
+        "terms": "",
+        "amount_contract": null,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "",
+        "note": "",
+        "match_quality": "no_block"
+      }
     },
     "16899576": {
       "meta": {
@@ -220158,11 +220360,390 @@
       "last_date": 1779951395,
       "last_date_local": "28.05.2026 11:56",
       "orphan_candidate": true
+    },
+    "15270970": {
+      "meta": {
+        "project": "KERUEN",
+        "house": "II очередь",
+        "section": "Подъезд 3",
+        "number": "13",
+        "floor": 2,
+        "rooms": 2,
+        "area": 45.42,
+        "price": 22255800,
+        "status": "BOOKED",
+        "customStatusId": 116005
+      },
+      "current_status": "BOOKED_bitrix_60d09caca4c4e",
+      "history": [
+        {
+          "date": 1780033815,
+          "date_local": "29.05.2026 10:50",
+          "from_status_key": null,
+          "to_status_key": "BOOKED_bitrix_60d09caca4c4e",
+          "to_status_label": "Подписание ПДКП",
+          "dealId": 503332,
+          "dealName": "АСАНОВА ТОЛУНАЙ (агентск) КР2/1к КР_2.3.2.13-АСЕ",
+          "responsibleName": "Мейрамгуль",
+          "contactName": "Асанова Толунай Сухрабовна",
+          "contactPhone": "77086328242",
+          "contactId": 418756
+        }
+      ],
+      "current_status_label": "Подписание ПДКП",
+      "last_deal_name": "АСАНОВА ТОЛУНАЙ (агентск) КР2/1к КР_2.3.2.13-АСЕ",
+      "last_responsible": "Мейрамгуль",
+      "last_date": 1780033815,
+      "last_date_local": "29.05.2026 10:50",
+      "orphan_candidate": true
+    },
+    "16458176": {
+      "meta": {
+        "project": "AQSAI RESORT",
+        "house": "I очередь",
+        "section": "8",
+        "number": "67",
+        "floor": 1,
+        "rooms": 5,
+        "area": 168,
+        "price": 76608000,
+        "status": "BOOKED",
+        "customStatusId": 112773
+      },
+      "current_status": "BOOKED",
+      "history": [
+        {
+          "date": 1780023579,
+          "date_local": "29.05.2026 07:59",
+          "from_status_key": null,
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 523324,
+          "dealName": "Лиды FB | Aqsai Resort New",
+          "responsibleName": "Жазира",
+          "contactName": "Gulnaz",
+          "contactPhone": "+77017743314",
+          "contactId": 433582
+        },
+        {
+          "date": 1780024587,
+          "date_local": "29.05.2026 08:16",
+          "from_status_key": "BOOKED",
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 523324,
+          "dealName": "Лиды FB | Aqsai Resort New",
+          "responsibleName": "Жазира",
+          "contactName": "Gulnaz",
+          "contactPhone": "+77017743314",
+          "contactId": 433582
+        },
+        {
+          "date": 1780024845,
+          "date_local": "29.05.2026 08:20",
+          "from_status_key": "BOOKED",
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 523324,
+          "dealName": "Лиды FB | Aqsai Resort New",
+          "responsibleName": "Касимжан",
+          "contactName": "Gulnaz",
+          "contactPhone": "+77017743314",
+          "contactId": 433582
+        },
+        {
+          "date": 1780038944,
+          "date_local": "29.05.2026 12:15",
+          "from_status_key": "BOOKED",
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 523324,
+          "dealName": "Лиды FB | Aqsai Resort New",
+          "responsibleName": "Касимжан",
+          "contactName": "Gulnaz",
+          "contactPhone": "+77017743314",
+          "contactId": 433582
+        }
+      ],
+      "current_status_label": "Бронь",
+      "last_deal_name": "Лиды FB | Aqsai Resort New",
+      "last_responsible": "Касимжан",
+      "last_date": 1780038944,
+      "last_date_local": "29.05.2026 12:15",
+      "orphan_candidate": true
+    },
+    "16465191": {
+      "meta": {
+        "project": "AQSAI RESORT",
+        "house": "III очередь",
+        "section": "7",
+        "number": "186",
+        "floor": 1,
+        "rooms": 5,
+        "area": 168,
+        "price": 67200000,
+        "status": "BOOKED",
+        "customStatusId": 112773
+      },
+      "current_status": "BOOKED",
+      "history": [
+        {
+          "date": 1780035775,
+          "date_local": "29.05.2026 11:22",
+          "from_status_key": null,
+          "to_status_key": "AVAILABLE",
+          "to_status_label": "Свободно",
+          "dealId": null,
+          "dealName": null,
+          "responsibleName": null,
+          "contactName": null,
+          "contactPhone": null,
+          "contactId": null
+        },
+        {
+          "date": 1780036012,
+          "date_local": "29.05.2026 11:26",
+          "from_status_key": "AVAILABLE",
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 521724,
+          "dealName": "Лиды FB | Aqsai Resort New",
+          "responsibleName": "Аль-Нур",
+          "contactName": "Куралай",
+          "contactPhone": "+77762603028",
+          "contactId": 432500
+        }
+      ],
+      "current_status_label": "Бронь",
+      "last_deal_name": "Лиды FB | Aqsai Resort New",
+      "last_responsible": "Аль-Нур",
+      "last_date": 1780036012,
+      "last_date_local": "29.05.2026 11:26",
+      "orphan_candidate": true
+    },
+    "16469482": {
+      "meta": {
+        "project": "Атмосфера",
+        "house": "VI очередь -  кладовые и паркинг",
+        "section": "31",
+        "number": "344",
+        "floor": 0,
+        "rooms": 1,
+        "area": 13.75,
+        "price": 2000000,
+        "status": "BOOKED",
+        "customStatusId": 112773
+      },
+      "current_status": "BOOKED",
+      "history": [
+        {
+          "date": 1780020590,
+          "date_local": "29.05.2026 07:09",
+          "from_status_key": null,
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 530260,
+          "dealName": "Парковка. Вахидинов Ядигар",
+          "responsibleName": "Касимжан",
+          "contactName": "Вахидинов Ядигар Ялкунович",
+          "contactPhone": "+77016114301",
+          "contactId": 330510
+        },
+        {
+          "date": 1780021071,
+          "date_local": "29.05.2026 07:17",
+          "from_status_key": "BOOKED",
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 530260,
+          "dealName": "Парковка. Вахидинов Ядигар",
+          "responsibleName": "Касимжан",
+          "contactName": "Вахидинов Ядигар Ялкунович",
+          "contactPhone": "+77016114301",
+          "contactId": 330510
+        }
+      ],
+      "current_status_label": "Бронь",
+      "last_deal_name": "Парковка. Вахидинов Ядигар",
+      "last_responsible": "Касимжан",
+      "last_date": 1780021071,
+      "last_date_local": "29.05.2026 07:17",
+      "orphan_candidate": true
+    },
+    "16945023": {
+      "meta": {
+        "project": "Атмосфера",
+        "house": "IV очередь - кладовые и паркинг (new)",
+        "section": "19",
+        "number": "85",
+        "floor": -1,
+        "rooms": 0,
+        "area": 10.6,
+        "price": 1908000,
+        "status": "BOOKED",
+        "customStatusId": 112773
+      },
+      "current_status": "BOOKED",
+      "history": [
+        {
+          "date": 1780026729,
+          "date_local": "29.05.2026 08:52",
+          "from_status_key": null,
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 517352,
+          "dealName": "Крыша, новая заявка, ЖК Aura",
+          "responsibleName": "Сабир",
+          "contactName": "Без имени",
+          "contactPhone": "77789851978",
+          "contactId": 429256
+        }
+      ],
+      "current_status_label": "Бронь",
+      "last_deal_name": "Крыша, новая заявка, ЖК Aura",
+      "last_responsible": "Сабир",
+      "last_date": 1780026729,
+      "last_date_local": "29.05.2026 08:52",
+      "orphan_candidate": true
+    },
+    "17049635": {
+      "meta": {
+        "project": "Атмосфера",
+        "house": "V очередь -  кладовые и паркинг",
+        "section": "29",
+        "number": "270",
+        "floor": 1,
+        "rooms": 0,
+        "area": 10,
+        "price": 2500000,
+        "status": "BOOKED",
+        "customStatusId": 112773
+      },
+      "current_status": "BOOKED",
+      "history": [
+        {
+          "date": 1780039185,
+          "date_local": "29.05.2026 12:19",
+          "from_status_key": null,
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 530442,
+          "dealName": "Кулинич - Пешеход",
+          "responsibleName": "Нургуль",
+          "contactName": "Анастасия Игоревна Кулинич",
+          "contactPhone": "+77755854558",
+          "contactId": 162298
+        }
+      ],
+      "current_status_label": "Бронь",
+      "last_deal_name": "Кулинич - Пешеход",
+      "last_responsible": "Нургуль",
+      "last_date": 1780039185,
+      "last_date_local": "29.05.2026 12:19",
+      "orphan_candidate": true
+    },
+    "17082205": {
+      "meta": {
+        "project": "KERUEN",
+        "house": "V очередь",
+        "section": "Подъезд 10",
+        "number": "6",
+        "floor": 1,
+        "rooms": 1,
+        "area": 29.89,
+        "price": 16738400,
+        "status": "BOOKED",
+        "customStatusId": 112773
+      },
+      "current_status": "BOOKED",
+      "history": [
+        {
+          "date": 1780036341,
+          "date_local": "29.05.2026 11:32",
+          "from_status_key": null,
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 523058,
+          "dealName": "Крыша, новая заявка, ЖК Aura",
+          "responsibleName": "Нургуль",
+          "contactName": "Айнур",
+          "contactPhone": "77086326705",
+          "contactId": 433508
+        }
+      ],
+      "current_status_label": "Бронь",
+      "last_deal_name": "Крыша, новая заявка, ЖК Aura",
+      "last_responsible": "Нургуль",
+      "last_date": 1780036341,
+      "last_date_local": "29.05.2026 11:32",
+      "orphan_candidate": true
+    },
+    "17082234": {
+      "meta": {
+        "project": "KERUEN",
+        "house": "V очередь",
+        "section": "Подъезд 10",
+        "number": "35",
+        "floor": 4,
+        "rooms": 2,
+        "area": 51.33,
+        "price": 28231500,
+        "status": "BOOKED",
+        "customStatusId": 112773
+      },
+      "current_status": "BOOKED",
+      "history": [
+        {
+          "date": 1780035947,
+          "date_local": "29.05.2026 11:25",
+          "from_status_key": null,
+          "to_status_key": "AVAILABLE",
+          "to_status_label": "Свободно",
+          "dealId": null,
+          "dealName": null,
+          "responsibleName": null,
+          "contactName": null,
+          "contactPhone": null,
+          "contactId": null
+        },
+        {
+          "date": 1780036106,
+          "date_local": "29.05.2026 11:28",
+          "from_status_key": "AVAILABLE",
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 527613,
+          "dealName": "Лиды FB | Керуен Толе би 26.05",
+          "responsibleName": "Аль-Нур",
+          "contactName": "Галия",
+          "contactPhone": "+77013205272",
+          "contactId": 348548
+        },
+        {
+          "date": 1780036940,
+          "date_local": "29.05.2026 11:42",
+          "from_status_key": "BOOKED",
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 527613,
+          "dealName": "Лиды FB | Керуен Толе би 26.05",
+          "responsibleName": "Касимжан",
+          "contactName": "Галия",
+          "contactPhone": "+77013205272",
+          "contactId": 348548
+        }
+      ],
+      "current_status_label": "Бронь",
+      "last_deal_name": "Лиды FB | Керуен Толе би 26.05",
+      "last_responsible": "Касимжан",
+      "last_date": 1780036940,
+      "last_date_local": "29.05.2026 11:42",
+      "orphan_candidate": true
     }
   },
-  "last_run": 1780013900,
+  "last_run": 1780057838,
   "bitrix_last_sync": "2024-11-19T09:08:48+03:00",
-  "gsheet_last_sync": 1780013946,
+  "gsheet_last_sync": 1780057895,
   "gsheet_external_only": [
     {
       "date": "01.04.2026",
