@@ -1,5 +1,5 @@
 {
-  "last_processed_ts": 1780105447,
+  "last_processed_ts": 1780123885,
   "items": {
     "8898712": {
       "meta": {
@@ -220876,11 +220876,110 @@
       "last_date": 1780104779,
       "last_date_local": "30.05.2026 06:32",
       "orphan_candidate": true
+    },
+    "14077271": {
+      "meta": {
+        "project": "Атмосфера",
+        "house": "IV очередь",
+        "section": "21",
+        "number": "29",
+        "floor": 5,
+        "rooms": 3,
+        "area": 94.8,
+        "price": 51666000,
+        "status": "AVAILABLE",
+        "customStatusId": 112772
+      },
+      "current_status": "AVAILABLE",
+      "history": [
+        {
+          "date": 1780123885,
+          "date_local": "30.05.2026 11:51",
+          "from_status_key": null,
+          "to_status_key": "AVAILABLE",
+          "to_status_label": "Свободно",
+          "dealId": 524992,
+          "dealName": "+7 771 455 5056 - Входящий звонок",
+          "responsibleName": "Нургуль",
+          "contactName": "Ира",
+          "contactPhone": "77714555056",
+          "contactId": 268964
+        }
+      ],
+      "current_status_label": "Свободно",
+      "last_deal_name": "+7 771 455 5056 - Входящий звонок",
+      "last_responsible": "Нургуль",
+      "last_date": 1780123885,
+      "last_date_local": "30.05.2026 11:51",
+      "gsheet": {
+        "date": "25.11.25",
+        "row_num": "",
+        "contractor": "Сейлхан",
+        "legal_entity": "Сейлхан",
+        "kind": "",
+        "responsible": "Гульнур",
+        "status_property": "",
+        "status_barter": "снято с бартера по поручению Данияра от 16.04.2026",
+        "project": "Атмосфера",
+        "queue": "IV очередь",
+        "block": "24",
+        "floor": 5,
+        "apartment": "29",
+        "apt_type": null,
+        "area": 94,
+        "price_per_meter": 510000,
+        "amount_property": 48348000,
+        "terms": "100%",
+        "amount_contract": null,
+        "amount_paid_money": null,
+        "amount_done": null,
+        "remaining_contract": null,
+        "remaining_to_pay": null,
+        "company": "",
+        "note": "",
+        "match_quality": "no_block"
+      }
+    },
+    "16584979": {
+      "meta": {
+        "project": "AQSAI RESORT",
+        "house": "IV очередь",
+        "section": "8",
+        "number": "267",
+        "floor": 1,
+        "rooms": 3,
+        "area": 110,
+        "price": 44000000,
+        "status": "BOOKED",
+        "customStatusId": 112773
+      },
+      "current_status": "BOOKED",
+      "history": [
+        {
+          "date": 1780112594,
+          "date_local": "30.05.2026 08:43",
+          "from_status_key": null,
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 507646,
+          "dealName": "Лиды FB | Aqsai Resort New",
+          "responsibleName": "Яна",
+          "contactName": "Асия",
+          "contactPhone": "+77015239490",
+          "contactId": 422002
+        }
+      ],
+      "current_status_label": "Бронь",
+      "last_deal_name": "Лиды FB | Aqsai Resort New",
+      "last_responsible": "Яна",
+      "last_date": 1780112594,
+      "last_date_local": "30.05.2026 08:43",
+      "orphan_candidate": true
     }
   },
-  "last_run": 1780127433,
+  "last_run": 1780142404,
   "bitrix_last_sync": "2024-11-19T09:08:48+03:00",
-  "gsheet_last_sync": 1780127488,
+  "gsheet_last_sync": 1780142448,
   "gsheet_external_only": [
     {
       "date": "01.04.2026",
@@ -222179,33 +222278,6 @@
       "note": ""
     },
     {
-      "date": "11.12.2024",
-      "row_num": "108",
-      "contractor": "Арлан строй инвест (Жадырасын)",
-      "legal_entity": "Арман строй инвест",
-      "kind": "",
-      "responsible": "Гульнур",
-      "status_property": "",
-      "status_barter": "???????",
-      "project": "Атмосфера",
-      "queue": "IV очередь",
-      "block": "21",
-      "floor": 5,
-      "apartment": "29",
-      "apt_type": null,
-      "area": 94,
-      "price_per_meter": 545000,
-      "amount_property": 51666000,
-      "terms": "",
-      "amount_contract": null,
-      "amount_paid_money": null,
-      "amount_done": null,
-      "remaining_contract": null,
-      "remaining_to_pay": null,
-      "company": "",
-      "note": ""
-    },
-    {
       "date": "16.01.2025",
       "row_num": "115",
       "contractor": "Воронцов / Аскольд / Главпроф/Кириенко/ ALLKurylys/",
@@ -222368,33 +222440,6 @@
       "note": ""
     },
     {
-      "date": "25.11.25",
-      "row_num": "",
-      "contractor": "Сейлхан",
-      "legal_entity": "Сейлхан",
-      "kind": "",
-      "responsible": "Гульнур",
-      "status_property": "",
-      "status_barter": "снято с бартера по поручению Данияра от 16.04.2026",
-      "project": "Атмосфера",
-      "queue": "IV очередь",
-      "block": "24",
-      "floor": 5,
-      "apartment": "29",
-      "apt_type": null,
-      "area": 94,
-      "price_per_meter": 510000,
-      "amount_property": 48348000,
-      "terms": "100%",
-      "amount_contract": null,
-      "amount_paid_money": null,
-      "amount_done": null,
-      "remaining_contract": null,
-      "remaining_to_pay": null,
-      "company": "",
-      "note": ""
-    },
-    {
       "date": "",
       "row_num": "",
       "contractor": "ИП АСКАР КУЛЫШ",
@@ -222476,5 +222521,5 @@
       "note": ""
     }
   ],
-  "gsheet_external_count": 59
+  "gsheet_external_count": 57
 }
