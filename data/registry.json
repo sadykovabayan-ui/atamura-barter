@@ -1,5 +1,5 @@
 {
-  "last_processed_ts": 1780039185,
+  "last_processed_ts": 1780105447,
   "items": {
     "8898712": {
       "meta": {
@@ -190946,7 +190946,7 @@
         "status": "BOOKED",
         "customStatusId": 112773
       },
-      "current_status": "BOOKED",
+      "current_status": "AVAILABLE",
       "history": [
         {
           "date": 1779690207,
@@ -193547,13 +193547,26 @@
           "contactName": "Венера",
           "contactPhone": "77479601688",
           "contactId": 424850
+        },
+        {
+          "date": 1780103525,
+          "date_local": "30.05.2026 06:12",
+          "from_status_key": "BOOKED",
+          "to_status_key": "AVAILABLE",
+          "to_status_label": "Свободно",
+          "dealId": 511460,
+          "dealName": "Крыша, новая заявка, ЖК Keruen",
+          "responsibleName": "Нургуль",
+          "contactName": "Венера",
+          "contactPhone": "77479601688",
+          "contactId": 424850
         }
       ],
-      "current_status_label": "Бронь",
+      "current_status_label": "Свободно",
       "last_deal_name": "Крыша, новая заявка, ЖК Keruen",
       "last_responsible": "Нургуль",
-      "last_date": 1779690207,
-      "last_date_local": "25.05.2026 11:23",
+      "last_date": 1780103525,
+      "last_date_local": "30.05.2026 06:12",
       "orphan_candidate": true
     },
     "15271074": {
@@ -220082,7 +220095,7 @@
         "status": "BOOKED",
         "customStatusId": 112773
       },
-      "current_status": "BOOKED",
+      "current_status": "SOLD",
       "history": [
         {
           "date": 1779940292,
@@ -220096,13 +220109,39 @@
           "contactName": "Айша",
           "contactPhone": "87071906929",
           "contactId": 425688
+        },
+        {
+          "date": 1780104099,
+          "date_local": "30.05.2026 06:21",
+          "from_status_key": "BOOKED",
+          "to_status_key": "AVAILABLE",
+          "to_status_label": "Свободно",
+          "dealId": 512596,
+          "dealName": "Лид с сайта | Keruen 03.05",
+          "responsibleName": "Сабир",
+          "contactName": "Айша",
+          "contactPhone": "87071906929",
+          "contactId": 425688
+        },
+        {
+          "date": 1780104398,
+          "date_local": "30.05.2026 06:26",
+          "from_status_key": "AVAILABLE",
+          "to_status_key": "SOLD",
+          "to_status_label": "Продано",
+          "dealId": 530748,
+          "dealName": "Еркебулан - Пешеход",
+          "responsibleName": "Сабир",
+          "contactName": "Еркебулан",
+          "contactPhone": "77778041001",
+          "contactId": 438796
         }
       ],
-      "current_status_label": "Бронь",
-      "last_deal_name": "Лид с сайта | Keruen 03.05",
+      "current_status_label": "Продано",
+      "last_deal_name": "Еркебулан - Пешеход",
       "last_responsible": "Сабир",
-      "last_date": 1779940292,
-      "last_date_local": "28.05.2026 08:51",
+      "last_date": 1780104398,
+      "last_date_local": "30.05.2026 06:26",
       "orphan_candidate": true
     },
     "17082188": {
@@ -220597,13 +220636,39 @@
           "contactName": "Без имени",
           "contactPhone": "77789851978",
           "contactId": 429256
+        },
+        {
+          "date": 1780104914,
+          "date_local": "30.05.2026 06:35",
+          "from_status_key": "BOOKED",
+          "to_status_key": "AVAILABLE",
+          "to_status_label": "Свободно",
+          "dealId": 517352,
+          "dealName": "Крыша, новая заявка, ЖК Aura",
+          "responsibleName": "Сабир",
+          "contactName": "Без имени",
+          "contactPhone": "77789851978",
+          "contactId": 429256
+        },
+        {
+          "date": 1780105117,
+          "date_local": "30.05.2026 06:38",
+          "from_status_key": "AVAILABLE",
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 530758,
+          "dealName": "Мусабек - Кладовое 85",
+          "responsibleName": "Сабир",
+          "contactName": "Мусабек",
+          "contactPhone": "7 777 733 1715",
+          "contactId": 438802
         }
       ],
       "current_status_label": "Бронь",
-      "last_deal_name": "Крыша, новая заявка, ЖК Aura",
+      "last_deal_name": "Мусабек - Кладовое 85",
       "last_responsible": "Сабир",
-      "last_date": 1780026729,
-      "last_date_local": "29.05.2026 08:52",
+      "last_date": 1780105117,
+      "last_date_local": "30.05.2026 06:38",
       "orphan_candidate": true
     },
     "17049635": {
@@ -220739,11 +220804,83 @@
       "last_date": 1780036940,
       "last_date_local": "29.05.2026 11:42",
       "orphan_candidate": true
+    },
+    "11026792": {
+      "meta": {
+        "project": "Арлан",
+        "house": "IV очередь - кладовые и паркинг",
+        "section": "8",
+        "number": "10 (ТП 6)",
+        "floor": -1,
+        "rooms": 1,
+        "area": 3.8,
+        "price": 684000,
+        "status": "SOLD",
+        "customStatusId": 112774
+      },
+      "current_status": "SOLD",
+      "history": [
+        {
+          "date": 1780105447,
+          "date_local": "30.05.2026 06:44",
+          "from_status_key": null,
+          "to_status_key": "SOLD",
+          "to_status_label": "Продано",
+          "dealId": 530768,
+          "dealName": "Аядиль - Пешеход",
+          "responsibleName": "Сабир",
+          "contactName": "Аядиль",
+          "contactPhone": "+77767016111",
+          "contactId": 272572
+        }
+      ],
+      "current_status_label": "Продано",
+      "last_deal_name": "Аядиль - Пешеход",
+      "last_responsible": "Сабир",
+      "last_date": 1780105447,
+      "last_date_local": "30.05.2026 06:44",
+      "orphan_candidate": true
+    },
+    "15640465": {
+      "meta": {
+        "project": "Атмосфера",
+        "house": "V очередь -  кладовые и паркинг",
+        "section": "30",
+        "number": "21",
+        "floor": -1,
+        "rooms": 1,
+        "area": 5.6,
+        "price": 672000,
+        "status": "SOLD",
+        "customStatusId": 112774
+      },
+      "current_status": "SOLD",
+      "history": [
+        {
+          "date": 1780104779,
+          "date_local": "30.05.2026 06:32",
+          "from_status_key": null,
+          "to_status_key": "SOLD",
+          "to_status_label": "Продано",
+          "dealId": 530756,
+          "dealName": "Еркебулан - Кладовка",
+          "responsibleName": "Сабир",
+          "contactName": "Еркебулан",
+          "contactPhone": "77778041001",
+          "contactId": 438800
+        }
+      ],
+      "current_status_label": "Продано",
+      "last_deal_name": "Еркебулан - Кладовка",
+      "last_responsible": "Сабир",
+      "last_date": 1780104779,
+      "last_date_local": "30.05.2026 06:32",
+      "orphan_candidate": true
     }
   },
-  "last_run": 1780088636,
+  "last_run": 1780127433,
   "bitrix_last_sync": "2024-11-19T09:08:48+03:00",
-  "gsheet_last_sync": 1780088683,
+  "gsheet_last_sync": 1780127488,
   "gsheet_external_only": [
     {
       "date": "01.04.2026",
