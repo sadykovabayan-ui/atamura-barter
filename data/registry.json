@@ -1,5 +1,5 @@
 {
-  "last_processed_ts": 1780214738,
+  "last_processed_ts": 1780307831,
   "items": {
     "8898712": {
       "meta": {
@@ -20231,14 +20231,55 @@
         "area": 168,
         "price": 67536000
       },
-      "current_status": "BOOKED_bitrix_643fe8daed856",
-      "current_status_label": "Продано ЗБ (инициализация)",
-      "last_deal_name": null,
-      "last_responsible": null,
-      "last_date": 0,
-      "history": [],
+      "current_status": "BOOKED",
+      "current_status_label": "Бронь",
+      "last_deal_name": "Сделка #512166",
+      "last_responsible": "Касимжан",
+      "last_date": 1780299211,
+      "history": [
+        {
+          "date": 1780297385,
+          "date_local": "01.06.2026 12:03",
+          "from_status_key": "BOOKED_bitrix_643fe8daed856",
+          "to_status_key": "AVAILABLE",
+          "to_status_label": "Свободно",
+          "dealId": null,
+          "dealName": null,
+          "responsibleName": null,
+          "contactName": null,
+          "contactPhone": null,
+          "contactId": null
+        },
+        {
+          "date": 1780297670,
+          "date_local": "01.06.2026 12:07",
+          "from_status_key": "AVAILABLE",
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 512166,
+          "dealName": "Сделка #512166",
+          "responsibleName": "Аль-Нур",
+          "contactName": "Сабыр",
+          "contactPhone": "87775710157",
+          "contactId": 425338
+        },
+        {
+          "date": 1780299211,
+          "date_local": "01.06.2026 12:33",
+          "from_status_key": "BOOKED",
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 512166,
+          "dealName": "Сделка #512166",
+          "responsibleName": "Касимжан",
+          "contactName": "Сабыр",
+          "contactPhone": "87775710157",
+          "contactId": 425338
+        }
+      ],
       "initialized_from_property": true,
-      "orphan_candidate": true
+      "orphan_candidate": true,
+      "last_date_local": "01.06.2026 12:33"
     },
     "16465177": {
       "meta": {
@@ -196231,7 +196272,7 @@
         "status": "BOOKED",
         "customStatusId": 112773
       },
-      "current_status": "BOOKED",
+      "current_status": "BOOKED_bitrix_60d09caca4c4e",
       "history": [
         {
           "date": 1779694864,
@@ -204045,13 +204086,52 @@
           "contactName": "",
           "contactPhone": "+77786528303",
           "contactId": 320674
+        },
+        {
+          "date": 1780298804,
+          "date_local": "01.06.2026 12:26",
+          "from_status_key": "BOOKED",
+          "to_status_key": "BOOKED_bitrix_60d09caca4c4e",
+          "to_status_label": "Подписание ПДКП",
+          "dealId": 526816,
+          "dealName": "ЖОЛШЫБЕК ЕРБОЛ СЕРІКБАЙҰЛЫ КР_4.8.3.26-НСТ",
+          "responsibleName": "Ботакоз",
+          "contactName": "",
+          "contactPhone": "+77786528303",
+          "contactId": 320674
+        },
+        {
+          "date": 1780298836,
+          "date_local": "01.06.2026 12:27",
+          "from_status_key": "BOOKED_bitrix_60d09caca4c4e",
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 526816,
+          "dealName": "ЖОЛШЫБЕК ЕРБОЛ СЕРІКБАЙҰЛЫ КР_4.8.3.26-НСТ",
+          "responsibleName": "Мейрамгуль",
+          "contactName": "",
+          "contactPhone": "+77786528303",
+          "contactId": 320674
+        },
+        {
+          "date": 1780298850,
+          "date_local": "01.06.2026 12:27",
+          "from_status_key": "BOOKED",
+          "to_status_key": "BOOKED_bitrix_60d09caca4c4e",
+          "to_status_label": "Подписание ПДКП",
+          "dealId": 526816,
+          "dealName": "ЖОЛШЫБЕК ЕРБОЛ СЕРІКБАЙҰЛЫ КР_4.8.3.26-НСТ",
+          "responsibleName": "Мейрамгуль",
+          "contactName": "",
+          "contactPhone": "+77786528303",
+          "contactId": 320674
         }
       ],
-      "current_status_label": "Бронь",
+      "current_status_label": "Подписание ПДКП",
       "last_deal_name": "ЖОЛШЫБЕК ЕРБОЛ СЕРІКБАЙҰЛЫ КР_4.8.3.26-НСТ",
       "last_responsible": "Мейрамгуль",
-      "last_date": 1779840974,
-      "last_date_local": "27.05.2026 05:16",
+      "last_date": 1780298850,
+      "last_date_local": "01.06.2026 12:27",
       "orphan_candidate": true
     },
     "16469285": {
@@ -220355,13 +220435,26 @@
           "contactName": "Laura Khassenova",
           "contactPhone": "+77012233114",
           "contactId": 343070
+        },
+        {
+          "date": 1780295875,
+          "date_local": "01.06.2026 11:37",
+          "from_status_key": "BOOKED",
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 529848,
+          "dealName": "Кладовка. Хасенова Лаура Жумашовна.",
+          "responsibleName": "Касимжан",
+          "contactName": "Laura Khassenova",
+          "contactPhone": "+77012233114",
+          "contactId": 343070
         }
       ],
       "current_status_label": "Бронь",
       "last_deal_name": "Кладовка. Хасенова Лаура Жумашовна.",
       "last_responsible": "Касимжан",
-      "last_date": 1779952571,
-      "last_date_local": "28.05.2026 12:16",
+      "last_date": 1780295875,
+      "last_date_local": "01.06.2026 11:37",
       "orphan_candidate": true
     },
     "17049611": {
@@ -220391,13 +220484,26 @@
           "contactName": "Laura Khassenova",
           "contactPhone": "+77012233114",
           "contactId": 343070
+        },
+        {
+          "date": 1780280777,
+          "date_local": "01.06.2026 07:26",
+          "from_status_key": "BOOKED",
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 529836,
+          "dealName": "Парковка. Хасенова Лаура Жумашовна",
+          "responsibleName": "Касимжан",
+          "contactName": "Laura Khassenova",
+          "contactPhone": "+77012233114",
+          "contactId": 343070
         }
       ],
       "current_status_label": "Бронь",
       "last_deal_name": "Парковка. Хасенова Лаура Жумашовна",
       "last_responsible": "Касимжан",
-      "last_date": 1779951395,
-      "last_date_local": "28.05.2026 11:56",
+      "last_date": 1780280777,
+      "last_date_local": "01.06.2026 07:26",
       "orphan_candidate": true
     },
     "15270970": {
@@ -220551,13 +220657,39 @@
           "contactName": "Куралай",
           "contactPhone": "+77762603028",
           "contactId": 432500
+        },
+        {
+          "date": 1780276556,
+          "date_local": "01.06.2026 06:15",
+          "from_status_key": "BOOKED",
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 521724,
+          "dealName": "Лиды FB | Aqsai Resort New",
+          "responsibleName": "Касимжан",
+          "contactName": "Куралай Абильдинова",
+          "contactPhone": "+77762603028",
+          "contactId": 432500
+        },
+        {
+          "date": 1780292581,
+          "date_local": "01.06.2026 10:43",
+          "from_status_key": "BOOKED",
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 521724,
+          "dealName": "Лиды FB | Aqsai Resort New",
+          "responsibleName": "Касимжан",
+          "contactName": "Куралай Абильдинова",
+          "contactPhone": "+77762603028",
+          "contactId": 432500
         }
       ],
       "current_status_label": "Бронь",
       "last_deal_name": "Лиды FB | Aqsai Resort New",
-      "last_responsible": "Аль-Нур",
-      "last_date": 1780036012,
-      "last_date_local": "29.05.2026 11:26",
+      "last_responsible": "Касимжан",
+      "last_date": 1780292581,
+      "last_date_local": "01.06.2026 10:43",
       "orphan_candidate": true
     },
     "16469482": {
@@ -220622,7 +220754,7 @@
         "status": "BOOKED",
         "customStatusId": 112773
       },
-      "current_status": "BOOKED",
+      "current_status": "SOLD",
       "history": [
         {
           "date": 1780026729,
@@ -220662,13 +220794,26 @@
           "contactName": "Мусабек",
           "contactPhone": "7 777 733 1715",
           "contactId": 438802
+        },
+        {
+          "date": 1780289992,
+          "date_local": "01.06.2026 09:59",
+          "from_status_key": "BOOKED",
+          "to_status_key": "SOLD",
+          "to_status_label": "Продано",
+          "dealId": 530758,
+          "dealName": "Мусабек - Кладовое 85",
+          "responsibleName": "Сабир",
+          "contactName": "Мусабек",
+          "contactPhone": "7 777 733 1715",
+          "contactId": 438802
         }
       ],
-      "current_status_label": "Бронь",
+      "current_status_label": "Продано",
       "last_deal_name": "Мусабек - Кладовое 85",
       "last_responsible": "Сабир",
-      "last_date": 1780105117,
-      "last_date_local": "30.05.2026 06:38",
+      "last_date": 1780289992,
+      "last_date_local": "01.06.2026 09:59",
       "orphan_candidate": true
     },
     "17049635": {
@@ -220747,13 +220892,26 @@
           "contactName": "Айнур Амангельдыевна Галиева",
           "contactPhone": "77086326705",
           "contactId": 433508
+        },
+        {
+          "date": 1780296160,
+          "date_local": "01.06.2026 11:42",
+          "from_status_key": "BOOKED",
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 523058,
+          "dealName": "Галиева Айнур Амангельдыевна",
+          "responsibleName": "Ботакоз",
+          "contactName": "Айнур Амангельдыевна Галиева",
+          "contactPhone": "77086326705",
+          "contactId": 433508
         }
       ],
       "current_status_label": "Бронь",
       "last_deal_name": "Галиева Айнур Амангельдыевна",
-      "last_responsible": "Мейрамгуль",
-      "last_date": 1780214738,
-      "last_date_local": "31.05.2026 13:05",
+      "last_responsible": "Ботакоз",
+      "last_date": 1780296160,
+      "last_date_local": "01.06.2026 11:42",
       "orphan_candidate": true
     },
     "17082234": {
@@ -220809,13 +220967,26 @@
           "contactName": "Галия",
           "contactPhone": "+77013205272",
           "contactId": 348548
+        },
+        {
+          "date": 1780292582,
+          "date_local": "01.06.2026 10:43",
+          "from_status_key": "BOOKED",
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 527613,
+          "dealName": "Лиды FB | Керуен Толе би 26.05",
+          "responsibleName": "Касимжан",
+          "contactName": "Галия",
+          "contactPhone": "+77013205272",
+          "contactId": 348548
         }
       ],
       "current_status_label": "Бронь",
       "last_deal_name": "Лиды FB | Керуен Толе би 26.05",
       "last_responsible": "Касимжан",
-      "last_date": 1780036940,
-      "last_date_local": "29.05.2026 11:42",
+      "last_date": 1780292582,
+      "last_date_local": "01.06.2026 10:43",
       "orphan_candidate": true
     },
     "11026792": {
@@ -220988,11 +221159,384 @@
       "last_date": 1780112594,
       "last_date_local": "30.05.2026 08:43",
       "orphan_candidate": true
+    },
+    "14266606": {
+      "meta": {
+        "project": "KERUEN",
+        "house": "I очередь",
+        "section": "Подъезд 1",
+        "number": "53",
+        "floor": 6,
+        "rooms": 2,
+        "area": 51.33,
+        "price": 25665000,
+        "status": "BOOKED",
+        "customStatusId": 112773
+      },
+      "current_status": "BOOKED",
+      "history": [
+        {
+          "date": 1780292592,
+          "date_local": "01.06.2026 10:43",
+          "from_status_key": null,
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 505012,
+          "dealName": "Атабаева Периштимукамбар Ботировна - КР_1.1.6.53-ЖА",
+          "responsibleName": "Касимжан",
+          "contactName": "Периштимукамбар Ботировна Атабаева",
+          "contactPhone": "+77074265652",
+          "contactId": 420076
+        }
+      ],
+      "current_status_label": "Бронь",
+      "last_deal_name": "Атабаева Периштимукамбар Ботировна - КР_1.1.6.53-ЖА",
+      "last_responsible": "Касимжан",
+      "last_date": 1780292592,
+      "last_date_local": "01.06.2026 10:43",
+      "orphan_candidate": true
+    },
+    "15271123": {
+      "meta": {
+        "project": "KERUEN",
+        "house": "IV очередь",
+        "section": "Подъезд 8",
+        "number": "6",
+        "floor": 1,
+        "rooms": 1,
+        "area": 29.89,
+        "price": 15243900,
+        "status": "BOOKED",
+        "customStatusId": 112773
+      },
+      "current_status": "BOOKED",
+      "history": [
+        {
+          "date": 1780292585,
+          "date_local": "01.06.2026 10:43",
+          "from_status_key": null,
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 513106,
+          "dealName": "Черченко Надежда Николаевна - КР_4.8.1.6-ОЖ",
+          "responsibleName": "Касимжан",
+          "contactName": "Nadezhda",
+          "contactPhone": "+77782588502",
+          "contactId": 426060
+        }
+      ],
+      "current_status_label": "Бронь",
+      "last_deal_name": "Черченко Надежда Николаевна - КР_4.8.1.6-ОЖ",
+      "last_responsible": "Касимжан",
+      "last_date": 1780292585,
+      "last_date_local": "01.06.2026 10:43",
+      "orphan_candidate": true
+    },
+    "15271129": {
+      "meta": {
+        "project": "KERUEN",
+        "house": "IV очередь",
+        "section": "Подъезд 8",
+        "number": "12",
+        "floor": 2,
+        "rooms": 2,
+        "area": 45.73,
+        "price": 22865000,
+        "status": "BOOKED",
+        "customStatusId": 112773
+      },
+      "current_status": "BOOKED",
+      "history": [
+        {
+          "date": 1780292585,
+          "date_local": "01.06.2026 10:43",
+          "from_status_key": null,
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 520994,
+          "dealName": "Полетаева Наталья Владимровна (агентская) - КР_4.8.2.12-ЖА",
+          "responsibleName": "Касимжан",
+          "contactName": "Полетаева Наталья Владимровна",
+          "contactPhone": "77773643325",
+          "contactId": 432084
+        }
+      ],
+      "current_status_label": "Бронь",
+      "last_deal_name": "Полетаева Наталья Владимровна (агентская) - КР_4.8.2.12-ЖА",
+      "last_responsible": "Касимжан",
+      "last_date": 1780292585,
+      "last_date_local": "01.06.2026 10:43",
+      "orphan_candidate": true
+    },
+    "15271144": {
+      "meta": {
+        "project": "KERUEN",
+        "house": "IV очередь",
+        "section": "Подъезд 8",
+        "number": "27",
+        "floor": 4,
+        "rooms": 2,
+        "area": 51.81,
+        "price": 25905000,
+        "status": "BOOKED",
+        "customStatusId": 112773
+      },
+      "current_status": "BOOKED",
+      "history": [
+        {
+          "date": 1780307577,
+          "date_local": "01.06.2026 14:52",
+          "from_status_key": null,
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 531776,
+          "dealName": "Заявка Instagram direct | Atamura Group 01.06 15:30",
+          "responsibleName": "Салима",
+          "contactName": "Мереке",
+          "contactPhone": "+77067292349",
+          "contactId": 439554
+        },
+        {
+          "date": 1780307831,
+          "date_local": "01.06.2026 14:57",
+          "from_status_key": "BOOKED",
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 531776,
+          "dealName": "Заявка Instagram direct | Atamura Group 01.06 15:30",
+          "responsibleName": "Салима",
+          "contactName": "Мереке",
+          "contactPhone": "+77067292349",
+          "contactId": 439554
+        }
+      ],
+      "current_status_label": "Бронь",
+      "last_deal_name": "Заявка Instagram direct | Atamura Group 01.06 15:30",
+      "last_responsible": "Салима",
+      "last_date": 1780307831,
+      "last_date_local": "01.06.2026 14:57",
+      "orphan_candidate": true
+    },
+    "16187324": {
+      "meta": {
+        "project": "Атмосфера",
+        "house": "VI очередь",
+        "section": "36",
+        "number": "2",
+        "floor": 1,
+        "rooms": 2,
+        "area": 66.44,
+        "price": 34216600,
+        "status": "SOLD",
+        "customStatusId": 112774
+      },
+      "current_status": "SOLD",
+      "history": [
+        {
+          "date": 1780297288,
+          "date_local": "01.06.2026 12:01",
+          "from_status_key": null,
+          "to_status_key": "SOLD",
+          "to_status_label": "Продано",
+          "dealId": 497604,
+          "dealName": "АЛДОНГАРОВ БАУРЖАН СЕИТЖАНОВИЧ - АТ_6.36.1.2-НСТ",
+          "responsibleName": "Мейрамгуль",
+          "contactName": "Гульзия",
+          "contactPhone": "+77021387009",
+          "contactId": 414648
+        }
+      ],
+      "current_status_label": "Продано",
+      "last_deal_name": "АЛДОНГАРОВ БАУРЖАН СЕИТЖАНОВИЧ - АТ_6.36.1.2-НСТ",
+      "last_responsible": "Мейрамгуль",
+      "last_date": 1780297288,
+      "last_date_local": "01.06.2026 12:01",
+      "orphan_candidate": true
+    },
+    "16458130": {
+      "meta": {
+        "project": "AQSAI RESORT",
+        "house": "I очередь",
+        "section": "3",
+        "number": "21",
+        "floor": 1,
+        "rooms": 4,
+        "area": 153,
+        "price": 64260000,
+        "status": "BOOKED",
+        "customStatusId": 112773
+      },
+      "current_status": "BOOKED",
+      "history": [
+        {
+          "date": 1780292627,
+          "date_local": "01.06.2026 10:43",
+          "from_status_key": null,
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 490184,
+          "dealName": "Тоқтан Ернұр Талғатұлы (агентская) ",
+          "responsibleName": "Касимжан",
+          "contactName": "Тоқтан Ернұр Талғатұлы",
+          "contactPhone": "77778812828",
+          "contactId": 409280
+        }
+      ],
+      "current_status_label": "Бронь",
+      "last_deal_name": "Тоқтан Ернұр Талғатұлы (агентская) ",
+      "last_responsible": "Касимжан",
+      "last_date": 1780292627,
+      "last_date_local": "01.06.2026 10:43",
+      "orphan_candidate": true
+    },
+    "16465199": {
+      "meta": {
+        "project": "AQSAI RESORT",
+        "house": "III очередь",
+        "section": "8",
+        "number": "194",
+        "floor": 1,
+        "rooms": 5,
+        "area": 168,
+        "price": 67200000,
+        "status": "BOOKED",
+        "customStatusId": 132940
+      },
+      "current_status": "BOOKED_bitrix_643fe8daed856",
+      "history": [
+        {
+          "date": 1780290469,
+          "date_local": "01.06.2026 10:07",
+          "from_status_key": null,
+          "to_status_key": "BOOKED_bitrix_643fe8daed856",
+          "to_status_label": "Продано 3Б",
+          "dealId": null,
+          "dealName": null,
+          "responsibleName": null,
+          "contactName": null,
+          "contactPhone": null,
+          "contactId": null
+        }
+      ],
+      "current_status_label": "Продано 3Б",
+      "last_deal_name": null,
+      "last_responsible": null,
+      "last_date": 1780290469,
+      "last_date_local": "01.06.2026 10:07",
+      "orphan_candidate": true
+    },
+    "16584950": {
+      "meta": {
+        "project": "AQSAI RESORT",
+        "house": "IV очередь",
+        "section": "5",
+        "number": "238",
+        "floor": 1,
+        "rooms": 3,
+        "area": 110,
+        "price": 44000000,
+        "status": "BOOKED",
+        "customStatusId": 112773
+      },
+      "current_status": "BOOKED",
+      "history": [
+        {
+          "date": 1780292589,
+          "date_local": "01.06.2026 10:43",
+          "from_status_key": null,
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 486470,
+          "dealName": "Исакова Мадина - АКТ_4.5.1.238-КЯВ",
+          "responsibleName": "Касимжан",
+          "contactName": "Madina",
+          "contactPhone": "+77088991686",
+          "contactId": 406492
+        }
+      ],
+      "current_status_label": "Бронь",
+      "last_deal_name": "Исакова Мадина - АКТ_4.5.1.238-КЯВ",
+      "last_responsible": "Касимжан",
+      "last_date": 1780292589,
+      "last_date_local": "01.06.2026 10:43",
+      "orphan_candidate": true
+    },
+    "16899571": {
+      "meta": {
+        "project": "KERUEN",
+        "house": "IV очередь - кладовые и паркинг",
+        "section": "8",
+        "number": "72",
+        "floor": 1,
+        "rooms": 0,
+        "area": 10,
+        "price": 1300000,
+        "status": "BOOKED",
+        "customStatusId": 112773
+      },
+      "current_status": "BOOKED",
+      "history": [
+        {
+          "date": 1780292594,
+          "date_local": "01.06.2026 10:43",
+          "from_status_key": null,
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 499488,
+          "dealName": "Замира - Пешеход",
+          "responsibleName": "Касимжан",
+          "contactName": "Замира",
+          "contactPhone": "+77024329414",
+          "contactId": 416022
+        }
+      ],
+      "current_status_label": "Бронь",
+      "last_deal_name": "Замира - Пешеход",
+      "last_responsible": "Касимжан",
+      "last_date": 1780292594,
+      "last_date_local": "01.06.2026 10:43",
+      "orphan_candidate": true
+    },
+    "17082241": {
+      "meta": {
+        "project": "KERUEN",
+        "house": "V очередь",
+        "section": "Подъезд 10",
+        "number": "42",
+        "floor": 5,
+        "rooms": 1,
+        "area": 29.89,
+        "price": 16738400,
+        "status": "BOOKED",
+        "customStatusId": 112773
+      },
+      "current_status": "BOOKED",
+      "history": [
+        {
+          "date": 1780292586,
+          "date_local": "01.06.2026 10:43",
+          "from_status_key": null,
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 519874,
+          "dealName": "- Пешеход Керимкулова   Алия  Медербекқызы КР_5.10.5.42-ЖАЗ",
+          "responsibleName": "Касимжан",
+          "contactName": "Алия",
+          "contactPhone": "+77083399039",
+          "contactId": 431574
+        }
+      ],
+      "current_status_label": "Бронь",
+      "last_deal_name": "- Пешеход Керимкулова   Алия  Медербекқызы КР_5.10.5.42-ЖАЗ",
+      "last_responsible": "Касимжан",
+      "last_date": 1780292586,
+      "last_date_local": "01.06.2026 10:43",
+      "orphan_candidate": true
     }
   },
-  "last_run": 1780271104,
+  "last_run": 1780342249,
   "bitrix_last_sync": "2024-11-19T09:08:48+03:00",
-  "gsheet_last_sync": 1780271149,
+  "gsheet_last_sync": 1780342302,
   "gsheet_external_only": [
     {
       "date": "01.04.2026",
