@@ -1,5 +1,5 @@
 {
-  "last_processed_ts": 1780307831,
+  "last_processed_ts": 1780381004,
   "items": {
     "8898712": {
       "meta": {
@@ -220041,7 +220041,7 @@
         "status": "AVAILABLE",
         "customStatusId": 112772
       },
-      "current_status": "BOOKED",
+      "current_status": "BOOKED_bitrix_60d09caca4c4e",
       "history": [
         {
           "date": 1779925820,
@@ -220068,13 +220068,39 @@
           "contactName": "Толғанай",
           "contactPhone": "+77072033707",
           "contactId": 422830
+        },
+        {
+          "date": 1780375430,
+          "date_local": "02.06.2026 09:43",
+          "from_status_key": "BOOKED",
+          "to_status_key": "AVAILABLE",
+          "to_status_label": "Свободно",
+          "dealId": 508776,
+          "dealName": "Лиды FB | Aqsai Resort New",
+          "responsibleName": "Олжас",
+          "contactName": "Толғанай",
+          "contactPhone": "+77072033707",
+          "contactId": 422830
+        },
+        {
+          "date": 1780375484,
+          "date_local": "02.06.2026 09:44",
+          "from_status_key": "AVAILABLE",
+          "to_status_key": "BOOKED_bitrix_60d09caca4c4e",
+          "to_status_label": "Подписание ПДКП",
+          "dealId": 350060,
+          "dealName": "Нарымбаев Болат Ансаганович КР_1.1.6.46_МОМ",
+          "responsibleName": "Касимжан",
+          "contactName": "БОЛАТ",
+          "contactPhone": "+77474411734",
+          "contactId": 297296
         }
       ],
-      "current_status_label": "Бронь",
-      "last_deal_name": "Лиды FB | Aqsai Resort New",
-      "last_responsible": "Олжас",
-      "last_date": 1780022422,
-      "last_date_local": "29.05.2026 07:40",
+      "current_status_label": "Подписание ПДКП",
+      "last_deal_name": "Нарымбаев Болат Ансаганович КР_1.1.6.46_МОМ",
+      "last_responsible": "Касимжан",
+      "last_date": 1780375484,
+      "last_date_local": "02.06.2026 09:44",
       "orphan_candidate": true
     },
     "15270964": {
@@ -221173,7 +221199,7 @@
         "status": "BOOKED",
         "customStatusId": 112773
       },
-      "current_status": "BOOKED",
+      "current_status": "AVAILABLE",
       "history": [
         {
           "date": 1780292592,
@@ -221187,13 +221213,26 @@
           "contactName": "Периштимукамбар Ботировна Атабаева",
           "contactPhone": "+77074265652",
           "contactId": 420076
+        },
+        {
+          "date": 1780378810,
+          "date_local": "02.06.2026 10:40",
+          "from_status_key": "BOOKED",
+          "to_status_key": "AVAILABLE",
+          "to_status_label": "Свободно",
+          "dealId": 505012,
+          "dealName": "Атабаева Периштимукамбар Ботировна - КР_1.1.6.53-ЖА",
+          "responsibleName": "Касимжан",
+          "contactName": "Периштимукамбар Ботировна Атабаева",
+          "contactPhone": "+77074265652",
+          "contactId": 420076
         }
       ],
-      "current_status_label": "Бронь",
+      "current_status_label": "Свободно",
       "last_deal_name": "Атабаева Периштимукамбар Ботировна - КР_1.1.6.53-ЖА",
       "last_responsible": "Касимжан",
-      "last_date": 1780292592,
-      "last_date_local": "01.06.2026 10:43",
+      "last_date": 1780378810,
+      "last_date_local": "02.06.2026 10:40",
       "orphan_candidate": true
     },
     "15271123": {
@@ -221532,11 +221571,119 @@
       "last_date": 1780292586,
       "last_date_local": "01.06.2026 10:43",
       "orphan_candidate": true
+    },
+    "13676832": {
+      "meta": {
+        "project": "Атмосфера",
+        "house": "IV очередь",
+        "section": "21",
+        "number": "18",
+        "floor": 3,
+        "rooms": 2,
+        "area": 69.08,
+        "price": 25559600,
+        "status": "SOLD",
+        "customStatusId": 112774
+      },
+      "current_status": "SOLD",
+      "history": [
+        {
+          "date": 1780381004,
+          "date_local": "02.06.2026 11:16",
+          "from_status_key": null,
+          "to_status_key": "SOLD",
+          "to_status_label": "Продано",
+          "dealId": null,
+          "dealName": null,
+          "responsibleName": null,
+          "contactName": null,
+          "contactPhone": null,
+          "contactId": null
+        }
+      ],
+      "current_status_label": "Продано",
+      "last_deal_name": null,
+      "last_responsible": null,
+      "last_date": 1780381004,
+      "last_date_local": "02.06.2026 11:16",
+      "orphan_candidate": true
+    },
+    "15271099": {
+      "meta": {
+        "project": "KERUEN",
+        "house": "IV очередь",
+        "section": "Подъезд 7",
+        "number": "35",
+        "floor": 4,
+        "rooms": 2,
+        "area": 51.33,
+        "price": 25665000,
+        "status": "BOOKED",
+        "customStatusId": 112773
+      },
+      "current_status": "BOOKED",
+      "history": [
+        {
+          "date": 1780378936,
+          "date_local": "02.06.2026 10:42",
+          "from_status_key": null,
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 505012,
+          "dealName": "Атабаева Периштимукамбар Ботировна - КР_1.1.6.53-ЖА",
+          "responsibleName": "Касимжан",
+          "contactName": "Периштимукамбар Ботировна Атабаева",
+          "contactPhone": "+77074265652",
+          "contactId": 420076
+        }
+      ],
+      "current_status_label": "Бронь",
+      "last_deal_name": "Атабаева Периштимукамбар Ботировна - КР_1.1.6.53-ЖА",
+      "last_responsible": "Касимжан",
+      "last_date": 1780378936,
+      "last_date_local": "02.06.2026 10:42",
+      "orphan_candidate": true
+    },
+    "16584980": {
+      "meta": {
+        "project": "AQSAI RESORT",
+        "house": "IV очередь",
+        "section": "8",
+        "number": "268",
+        "floor": 1,
+        "rooms": 3,
+        "area": 110,
+        "price": 44000000,
+        "status": "AVAILABLE",
+        "customStatusId": 112772
+      },
+      "current_status": "AVAILABLE",
+      "history": [
+        {
+          "date": 1780377532,
+          "date_local": "02.06.2026 10:18",
+          "from_status_key": null,
+          "to_status_key": "AVAILABLE",
+          "to_status_label": "Свободно",
+          "dealId": 490618,
+          "dealName": "Лиды FB | Aqsai Resort New",
+          "responsibleName": "Асет",
+          "contactName": "Темир",
+          "contactPhone": "87000274700",
+          "contactId": 409636
+        }
+      ],
+      "current_status_label": "Свободно",
+      "last_deal_name": "Лиды FB | Aqsai Resort New",
+      "last_responsible": "Асет",
+      "last_date": 1780377532,
+      "last_date_local": "02.06.2026 10:18",
+      "orphan_candidate": true
     }
   },
-  "last_run": 1780342249,
+  "last_run": 1780401239,
   "bitrix_last_sync": "2024-11-19T09:08:48+03:00",
-  "gsheet_last_sync": 1780342302,
+  "gsheet_last_sync": 1780401282,
   "gsheet_external_only": [
     {
       "date": "01.04.2026",
