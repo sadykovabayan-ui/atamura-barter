@@ -1,5 +1,5 @@
 {
-  "last_processed_ts": 1780472965,
+  "last_processed_ts": 1780551749,
   "items": {
     "8898712": {
       "meta": {
@@ -18828,11 +18828,11 @@
       "history": [],
       "initialized_from_property": true,
       "gsheet": {
-        "date": "09.12.2025",
+        "date": "04.12",
         "row_num": "",
-        "contractor": "ТОО Okna Daraturym",
-        "legal_entity": "ТОО Okna Daraturym",
-        "kind": "товар",
+        "contractor": "ТОО «Daraтurym group»",
+        "legal_entity": "Кайрат +7 747 103 2908",
+        "kind": "Окна",
         "responsible": "Аида",
         "status_property": "в работе",
         "status_barter": "в процессе",
@@ -18845,8 +18845,8 @@
         "area": 64,
         "price_per_meter": 540000,
         "amount_property": 34932600,
-        "terms": "Условия 60-40%",
-        "amount_contract": null,
+        "terms": "60/40",
+        "amount_contract": 58221000,
         "amount_paid_money": null,
         "amount_done": null,
         "remaining_contract": null,
@@ -223234,13 +223234,26 @@
           "contactName": "Gulnaz",
           "contactPhone": "+77017743314",
           "contactId": 433582
+        },
+        {
+          "date": 1780549706,
+          "date_local": "04.06.2026 10:08",
+          "from_status_key": "BOOKED",
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 523324,
+          "dealName": "Леспек Берикжан Леспекович",
+          "responsibleName": "Касимжан",
+          "contactName": "Gulnaz",
+          "contactPhone": "+77017743314",
+          "contactId": 433582
         }
       ],
       "current_status_label": "Бронь",
-      "last_deal_name": "Лиды FB | Aqsai Resort New",
+      "last_deal_name": "Леспек Берикжан Леспекович",
       "last_responsible": "Касимжан",
-      "last_date": 1780038944,
-      "last_date_local": "29.05.2026 12:15",
+      "last_date": 1780549706,
+      "last_date_local": "04.06.2026 10:08",
       "orphan_candidate": true
     },
     "16465191": {
@@ -228963,7 +228976,7 @@
         "status": "BOOKED",
         "customStatusId": 112773
       },
-      "current_status": "BOOKED",
+      "current_status": "AVAILABLE",
       "history": [
         {
           "date": 1780112594,
@@ -244577,13 +244590,26 @@
           "contactName": "Қарлығаш",
           "contactPhone": "77015401040",
           "contactId": 438834
+        },
+        {
+          "date": 1780533290,
+          "date_local": "04.06.2026 05:34",
+          "from_status_key": "BOOKED",
+          "to_status_key": "AVAILABLE",
+          "to_status_label": "Свободно",
+          "dealId": null,
+          "dealName": null,
+          "responsibleName": null,
+          "contactName": null,
+          "contactPhone": null,
+          "contactId": null
         }
       ],
-      "current_status_label": "Бронь",
-      "last_deal_name": "Чанканова Карлыгаш Бакировна.",
-      "last_responsible": "Касимжан",
-      "last_date": 1780449564,
-      "last_date_local": "03.06.2026 06:19",
+      "current_status_label": "Свободно",
+      "last_deal_name": null,
+      "last_responsible": null,
+      "last_date": 1780533290,
+      "last_date_local": "04.06.2026 05:34",
       "orphan_candidate": true
     },
     "14266606": {
@@ -245057,7 +245083,7 @@
         "status": "AVAILABLE",
         "customStatusId": 112772
       },
-      "current_status": "AVAILABLE",
+      "current_status": "BOOKED",
       "history": [
         {
           "date": 1780377532,
@@ -245071,13 +245097,26 @@
           "contactName": "Темир",
           "contactPhone": "87000274700",
           "contactId": 409636
+        },
+        {
+          "date": 1780533560,
+          "date_local": "04.06.2026 05:39",
+          "from_status_key": "AVAILABLE",
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 530812,
+          "dealName": "Чанканова Карлыгаш Бакировна. АК_4.8.1.267-МО",
+          "responsibleName": "Касимжан",
+          "contactName": "Қарлығаш",
+          "contactPhone": "77015401040",
+          "contactId": 438834
         }
       ],
-      "current_status_label": "Свободно",
-      "last_deal_name": "Лиды FB | Aqsai Resort New",
-      "last_responsible": "Асет",
-      "last_date": 1780377532,
-      "last_date_local": "02.06.2026 10:18",
+      "current_status_label": "Бронь",
+      "last_deal_name": "Чанканова Карлыгаш Бакировна. АК_4.8.1.267-МО",
+      "last_responsible": "Касимжан",
+      "last_date": 1780533560,
+      "last_date_local": "04.06.2026 05:39",
       "orphan_candidate": true
     },
     "15271108": {
@@ -271286,11 +271325,263 @@
       "last_date": 1780462671,
       "last_date_local": "03.06.2026 09:57",
       "orphan_candidate": true
+    },
+    "11975383": {
+      "meta": {
+        "project": "Атмосфера",
+        "house": "III очередь - кладовые и паркинг",
+        "section": "14",
+        "number": "14",
+        "floor": -1,
+        "rooms": 1,
+        "area": 6.38,
+        "price": 1148400,
+        "status": "BOOKED",
+        "customStatusId": 112773
+      },
+      "current_status": "BOOKED",
+      "history": [
+        {
+          "date": 1780550065,
+          "date_local": "04.06.2026 10:14",
+          "from_status_key": null,
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 533168,
+          "dealName": "Балтабай - Пешеход",
+          "responsibleName": "Нургуль",
+          "contactName": "Ернар Жайсанбекулы Балтабай",
+          "contactPhone": "+77759069882",
+          "contactId": 224694
+        }
+      ],
+      "current_status_label": "Бронь",
+      "last_deal_name": "Балтабай - Пешеход",
+      "last_responsible": "Нургуль",
+      "last_date": 1780550065,
+      "last_date_local": "04.06.2026 10:14",
+      "orphan_candidate": true
+    },
+    "16187214": {
+      "meta": {
+        "project": "Атмосфера",
+        "house": "VI очередь",
+        "section": "32",
+        "number": "2",
+        "floor": 1,
+        "rooms": 3,
+        "area": 78.63,
+        "price": 40494450,
+        "status": "SOLD",
+        "customStatusId": 112774
+      },
+      "current_status": "SOLD",
+      "history": [
+        {
+          "date": 1780546089,
+          "date_local": "04.06.2026 09:08",
+          "from_status_key": null,
+          "to_status_key": "SOLD",
+          "to_status_label": "Продано",
+          "dealId": 451180,
+          "dealName": "БАТЫРБАЕВА АРУЖАН МУРАТОВНА АТ_6.32.1.2-НСТ",
+          "responsibleName": "Мейрамгуль",
+          "contactName": "Aruka",
+          "contactPhone": "+77475096645",
+          "contactId": 378970
+        }
+      ],
+      "current_status_label": "Продано",
+      "last_deal_name": "БАТЫРБАЕВА АРУЖАН МУРАТОВНА АТ_6.32.1.2-НСТ",
+      "last_responsible": "Мейрамгуль",
+      "last_date": 1780546089,
+      "last_date_local": "04.06.2026 09:08",
+      "orphan_candidate": true
+    },
+    "16187298": {
+      "meta": {
+        "project": "Атмосфера",
+        "house": "VI очередь",
+        "section": "35",
+        "number": "1",
+        "floor": 1,
+        "rooms": 2,
+        "area": 74.69,
+        "price": 38465350,
+        "status": "BOOKED",
+        "customStatusId": 112773
+      },
+      "current_status": "BOOKED",
+      "history": [
+        {
+          "date": 1780549433,
+          "date_local": "04.06.2026 10:03",
+          "from_status_key": null,
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 532702,
+          "dealName": "Крыша, новая заявка, ЖК Атмосфера",
+          "responsibleName": "Нургуль",
+          "contactName": "Толкын",
+          "contactPhone": "+77770135515",
+          "contactId": 440184
+        }
+      ],
+      "current_status_label": "Бронь",
+      "last_deal_name": "Крыша, новая заявка, ЖК Атмосфера",
+      "last_responsible": "Нургуль",
+      "last_date": 1780549433,
+      "last_date_local": "04.06.2026 10:03",
+      "orphan_candidate": true
+    },
+    "16945090": {
+      "meta": {
+        "project": "Атмосфера",
+        "house": "IV очередь - кладовые и паркинг (new)",
+        "section": "22",
+        "number": "76",
+        "floor": -1,
+        "rooms": 0,
+        "area": 6.9,
+        "price": 1242000,
+        "status": "BOOKED",
+        "customStatusId": 112773
+      },
+      "current_status": "BOOKED",
+      "history": [
+        {
+          "date": 1780551749,
+          "date_local": "04.06.2026 10:42",
+          "from_status_key": null,
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 533640,
+          "dealName": "УТЕГЕНОВ АЗАМАТ МАШКЕНОВИЧ кладовка",
+          "responsibleName": "Мейрамгуль",
+          "contactName": "Азамат",
+          "contactPhone": "77773912951",
+          "contactId": 271652
+        }
+      ],
+      "current_status_label": "Бронь",
+      "last_deal_name": "УТЕГЕНОВ АЗАМАТ МАШКЕНОВИЧ кладовка",
+      "last_responsible": "Мейрамгуль",
+      "last_date": 1780551749,
+      "last_date_local": "04.06.2026 10:42",
+      "orphan_candidate": true
+    },
+    "16945095": {
+      "meta": {
+        "project": "Атмосфера",
+        "house": "IV очередь - кладовые и паркинг (new)",
+        "section": "22",
+        "number": "81",
+        "floor": -1,
+        "rooms": 0,
+        "area": 10.1,
+        "price": 1818000,
+        "status": "BOOKED",
+        "customStatusId": 112773
+      },
+      "current_status": "BOOKED",
+      "history": [
+        {
+          "date": 1780542618,
+          "date_local": "04.06.2026 08:10",
+          "from_status_key": null,
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 533574,
+          "dealName": "Жанболат - Пешеход",
+          "responsibleName": "Асхат",
+          "contactName": "Жанболат",
+          "contactPhone": "+77025112105",
+          "contactId": 372056
+        }
+      ],
+      "current_status_label": "Бронь",
+      "last_deal_name": "Жанболат - Пешеход",
+      "last_responsible": "Асхат",
+      "last_date": 1780542618,
+      "last_date_local": "04.06.2026 08:10",
+      "orphan_candidate": true
+    },
+    "17049641": {
+      "meta": {
+        "project": "Атмосфера",
+        "house": "V очередь -  кладовые и паркинг",
+        "section": "26",
+        "number": "276",
+        "floor": 1,
+        "rooms": 0,
+        "area": 10,
+        "price": 2500000,
+        "status": "BOOKED",
+        "customStatusId": 112773
+      },
+      "current_status": "BOOKED",
+      "history": [
+        {
+          "date": 1780542361,
+          "date_local": "04.06.2026 08:06",
+          "from_status_key": null,
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 533570,
+          "dealName": "Жанболат - Пешеход",
+          "responsibleName": "Асхат",
+          "contactName": "Жанболат",
+          "contactPhone": "+77025112105",
+          "contactId": 440750
+        }
+      ],
+      "current_status_label": "Бронь",
+      "last_deal_name": "Жанболат - Пешеход",
+      "last_responsible": "Асхат",
+      "last_date": 1780542361,
+      "last_date_local": "04.06.2026 08:06",
+      "orphan_candidate": true
+    },
+    "17082179": {
+      "meta": {
+        "project": "KERUEN",
+        "house": "V очередь",
+        "section": "Подъезд 9",
+        "number": "33",
+        "floor": 4,
+        "rooms": 1,
+        "area": 29.89,
+        "price": 16738400,
+        "status": "AVAILABLE",
+        "customStatusId": 112772
+      },
+      "current_status": "AVAILABLE",
+      "history": [
+        {
+          "date": 1780546581,
+          "date_local": "04.06.2026 09:16",
+          "from_status_key": null,
+          "to_status_key": "AVAILABLE",
+          "to_status_label": "Свободно",
+          "dealId": null,
+          "dealName": null,
+          "responsibleName": null,
+          "contactName": null,
+          "contactPhone": null,
+          "contactId": null
+        }
+      ],
+      "current_status_label": "Свободно",
+      "last_deal_name": null,
+      "last_responsible": null,
+      "last_date": 1780546581,
+      "last_date_local": "04.06.2026 09:16",
+      "orphan_candidate": true
     }
   },
-  "last_run": 1780528699,
+  "last_run": 1780572453,
   "bitrix_last_sync": "2024-11-19T09:08:48+03:00",
-  "gsheet_last_sync": 1780528731,
+  "gsheet_last_sync": 1780572497,
   "gsheet_external_only": [
     {
       "date": "01.04.2026",
