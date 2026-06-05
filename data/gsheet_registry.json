@@ -6721,5 +6721,32 @@
     "remaining_to_pay": null,
     "company": "",
     "note": ""
+  },
+  {
+    "date": "05.06.2026",
+    "row_num": "",
+    "contractor": "Тауекел газ/Адилет",
+    "legal_entity": "Тауекел газ/Адилет",
+    "kind": "Газ",
+    "responsible": "ГД Олжас",
+    "status_property": "в работе",
+    "status_barter": "в процессе",
+    "project": "Атмосфера",
+    "queue": "IV очередь",
+    "block": "24",
+    "floor": 5,
+    "apartment": "29",
+    "apt_type": null,
+    "area": 94,
+    "price_per_meter": 545000,
+    "amount_property": 51666000,
+    "terms": "",
+    "amount_contract": null,
+    "amount_paid_money": null,
+    "amount_done": null,
+    "remaining_contract": null,
+    "remaining_to_pay": null,
+    "company": "",
+    "note": ""
   }
 ]
