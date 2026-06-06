@@ -1,5 +1,5 @@
 {
-  "last_processed_ts": 1780714142,
+  "last_processed_ts": 1780724319,
   "items": {
     "8898712": {
       "meta": {
@@ -524909,11 +524909,155 @@
       "last_date": 1780714080,
       "last_date_local": "06.06.2026 07:48",
       "orphan_candidate": true
+    },
+    "16685768": {
+      "meta": {
+        "project": "Атмосфера",
+        "house": "VII очередь -  кладовые и паркинг",
+        "section": "38",
+        "number": "371",
+        "floor": 0,
+        "rooms": 0,
+        "area": 13.75,
+        "price": 2000000,
+        "status": "BOOKED",
+        "customStatusId": 112773
+      },
+      "current_status": "BOOKED",
+      "history": [
+        {
+          "date": 1780720676,
+          "date_local": "06.06.2026 09:37",
+          "from_status_key": null,
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 534604,
+          "dealName": "Артём 371 паркинг",
+          "responsibleName": "Гюзаль",
+          "contactName": "пеш Артём",
+          "contactPhone": "87055212574",
+          "contactId": 361142
+        }
+      ],
+      "current_status_label": "Бронь",
+      "last_deal_name": "Артём 371 паркинг",
+      "last_responsible": "Гюзаль",
+      "last_date": 1780720676,
+      "last_date_local": "06.06.2026 09:37",
+      "orphan_candidate": true
+    },
+    "16685769": {
+      "meta": {
+        "project": "Атмосфера",
+        "house": "VII очередь -  кладовые и паркинг",
+        "section": "38",
+        "number": "372",
+        "floor": 0,
+        "rooms": 0,
+        "area": 13.75,
+        "price": 2000000,
+        "status": "BOOKED",
+        "customStatusId": 112773
+      },
+      "current_status": "BOOKED",
+      "history": [
+        {
+          "date": 1780722682,
+          "date_local": "06.06.2026 10:11",
+          "from_status_key": null,
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 534610,
+          "dealName": "Артём паркинг 372",
+          "responsibleName": "Гюзаль",
+          "contactName": "пеш Артём",
+          "contactPhone": "87055212574",
+          "contactId": 361142
+        }
+      ],
+      "current_status_label": "Бронь",
+      "last_deal_name": "Артём паркинг 372",
+      "last_responsible": "Гюзаль",
+      "last_date": 1780722682,
+      "last_date_local": "06.06.2026 10:11",
+      "orphan_candidate": true
+    },
+    "16685813": {
+      "meta": {
+        "project": "Атмосфера",
+        "house": "VII очередь -  кладовые и паркинг",
+        "section": "38",
+        "number": "26",
+        "floor": -1,
+        "rooms": 0,
+        "area": 11.5,
+        "price": 1035000,
+        "status": "BOOKED",
+        "customStatusId": 112773
+      },
+      "current_status": "BOOKED",
+      "history": [
+        {
+          "date": 1780722390,
+          "date_local": "06.06.2026 10:06",
+          "from_status_key": null,
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 534612,
+          "dealName": "Артём кладовка",
+          "responsibleName": "Гюзаль",
+          "contactName": "пеш Артём",
+          "contactPhone": "87055212574",
+          "contactId": 361142
+        }
+      ],
+      "current_status_label": "Бронь",
+      "last_deal_name": "Артём кладовка",
+      "last_responsible": "Гюзаль",
+      "last_date": 1780722390,
+      "last_date_local": "06.06.2026 10:06",
+      "orphan_candidate": true
+    },
+    "16899393": {
+      "meta": {
+        "project": "KERUEN",
+        "house": "II очередь - кладовые и паркинг",
+        "section": "3",
+        "number": "20",
+        "floor": -1,
+        "rooms": 0,
+        "area": 4.65,
+        "price": 418500,
+        "status": "BOOKED",
+        "customStatusId": 112773
+      },
+      "current_status": "BOOKED",
+      "history": [
+        {
+          "date": 1780724319,
+          "date_local": "06.06.2026 10:38",
+          "from_status_key": null,
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 534630,
+          "dealName": "Раида - Пешеход",
+          "responsibleName": "Самал",
+          "contactName": "Раида",
+          "contactPhone": "+77013823297",
+          "contactId": 427246
+        }
+      ],
+      "current_status_label": "Бронь",
+      "last_deal_name": "Раида - Пешеход",
+      "last_responsible": "Самал",
+      "last_date": 1780724319,
+      "last_date_local": "06.06.2026 10:38",
+      "orphan_candidate": true
     }
   },
-  "last_run": 1780733877,
+  "last_run": 1780750427,
   "bitrix_last_sync": "2024-11-19T09:08:48+03:00",
-  "gsheet_last_sync": 1780733922,
+  "gsheet_last_sync": 1780750473,
   "gsheet_external_only": [
     {
       "date": "01.04.2026",
