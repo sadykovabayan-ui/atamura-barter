@@ -1,5 +1,5 @@
 {
-  "last_processed_ts": 1780645144,
+  "last_processed_ts": 1780714142,
   "items": {
     "8898712": {
       "meta": {
@@ -516884,7 +516884,7 @@
         "status": "AVAILABLE",
         "customStatusId": 112772
       },
-      "current_status": "AVAILABLE",
+      "current_status": "BOOKED",
       "history": [
         {
           "date": 1780629521,
@@ -519485,13 +519485,26 @@
           "contactName": "Валентин",
           "contactPhone": "+77478769723",
           "contactId": 410104
+        },
+        {
+          "date": 1780705875,
+          "date_local": "06.06.2026 05:31",
+          "from_status_key": "AVAILABLE",
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 534476,
+          "dealName": "ОТЫНШИЕВ ЕЛДОС ОСЕРБАЕВИЧ",
+          "responsibleName": "Заир",
+          "contactName": "Елдос",
+          "contactPhone": "+77078321658",
+          "contactId": 441378
         }
       ],
-      "current_status_label": "Свободно",
-      "last_deal_name": "ГРИЩЕНКО ВАЛЕНТИН ЮРЬЕВИЧ",
+      "current_status_label": "Бронь",
+      "last_deal_name": "ОТЫНШИЕВ ЕЛДОС ОСЕРБАЕВИЧ",
       "last_responsible": "Заир",
-      "last_date": 1780629521,
-      "last_date_local": "05.06.2026 08:18",
+      "last_date": 1780705875,
+      "last_date_local": "06.06.2026 05:31",
       "orphan_candidate": true
     },
     "17049652": {
@@ -524811,11 +524824,96 @@
       "last_date": 1780644168,
       "last_date_local": "05.06.2026 12:22",
       "orphan_candidate": true
+    },
+    "17049644": {
+      "meta": {
+        "project": "Атмосфера",
+        "house": "V очередь -  кладовые и паркинг",
+        "section": "26",
+        "number": "279",
+        "floor": 1,
+        "rooms": 0,
+        "area": 10,
+        "price": 2500000,
+        "status": "BOOKED",
+        "customStatusId": 112773
+      },
+      "current_status": "BOOKED",
+      "history": [
+        {
+          "date": 1780714142,
+          "date_local": "06.06.2026 07:49",
+          "from_status_key": null,
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 534526,
+          "dealName": "Дина - Пешеход",
+          "responsibleName": "Самал",
+          "contactName": "номер Дина",
+          "contactPhone": "+77073687570",
+          "contactId": 317106
+        }
+      ],
+      "current_status_label": "Бронь",
+      "last_deal_name": "Дина - Пешеход",
+      "last_responsible": "Самал",
+      "last_date": 1780714142,
+      "last_date_local": "06.06.2026 07:49",
+      "orphan_candidate": true
+    },
+    "17049665": {
+      "meta": {
+        "project": "Атмосфера",
+        "house": "V очередь -  кладовые и паркинг",
+        "section": "30",
+        "number": "300",
+        "floor": 1,
+        "rooms": 0,
+        "area": 10,
+        "price": 2000000,
+        "status": "AVAILABLE",
+        "customStatusId": 112772
+      },
+      "current_status": "AVAILABLE",
+      "history": [
+        {
+          "date": 1780711988,
+          "date_local": "06.06.2026 07:13",
+          "from_status_key": null,
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 534526,
+          "dealName": "Дина - Пешеход",
+          "responsibleName": "Самал",
+          "contactName": "номер Дина",
+          "contactPhone": "+77073687570",
+          "contactId": 317106
+        },
+        {
+          "date": 1780714080,
+          "date_local": "06.06.2026 07:48",
+          "from_status_key": "BOOKED",
+          "to_status_key": "AVAILABLE",
+          "to_status_label": "Свободно",
+          "dealId": 534526,
+          "dealName": "Дина - Пешеход",
+          "responsibleName": "Самал",
+          "contactName": "номер Дина",
+          "contactPhone": "+77073687570",
+          "contactId": 317106
+        }
+      ],
+      "current_status_label": "Свободно",
+      "last_deal_name": "Дина - Пешеход",
+      "last_responsible": "Самал",
+      "last_date": 1780714080,
+      "last_date_local": "06.06.2026 07:48",
+      "orphan_candidate": true
     }
   },
-  "last_run": 1780699702,
+  "last_run": 1780733877,
   "bitrix_last_sync": "2024-11-19T09:08:48+03:00",
-  "gsheet_last_sync": 1780699748,
+  "gsheet_last_sync": 1780733922,
   "gsheet_external_only": [
     {
       "date": "01.04.2026",
