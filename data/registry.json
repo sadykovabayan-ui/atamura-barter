@@ -1,5 +1,5 @@
 {
-  "last_processed_ts": 1780724319,
+  "last_processed_ts": 1780800632,
   "items": {
     "8898712": {
       "meta": {
@@ -525053,11 +525053,119 @@
       "last_date": 1780724319,
       "last_date_local": "06.06.2026 10:38",
       "orphan_candidate": true
+    },
+    "15640411": {
+      "meta": {
+        "project": "Атмосфера",
+        "house": "V очередь -  кладовые и паркинг",
+        "section": "28",
+        "number": "15",
+        "floor": -1,
+        "rooms": 1,
+        "area": 6.9,
+        "price": 828000,
+        "status": "BOOKED",
+        "customStatusId": 112773
+      },
+      "current_status": "BOOKED",
+      "history": [
+        {
+          "date": 1780800632,
+          "date_local": "07.06.2026 07:50",
+          "from_status_key": null,
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 535076,
+          "dealName": "Айжан - Пешеход",
+          "responsibleName": "Нургуль",
+          "contactName": "Айжан",
+          "contactPhone": "+77014612897",
+          "contactId": 441800
+        }
+      ],
+      "current_status_label": "Бронь",
+      "last_deal_name": "Айжан - Пешеход",
+      "last_responsible": "Нургуль",
+      "last_date": 1780800632,
+      "last_date_local": "07.06.2026 07:50",
+      "orphan_candidate": true
+    },
+    "17049656": {
+      "meta": {
+        "project": "Атмосфера",
+        "house": "V очередь -  кладовые и паркинг",
+        "section": "30",
+        "number": "291",
+        "floor": 1,
+        "rooms": 0,
+        "area": 10,
+        "price": 2500000,
+        "status": "BOOKED",
+        "customStatusId": 112773
+      },
+      "current_status": "BOOKED",
+      "history": [
+        {
+          "date": 1780798074,
+          "date_local": "07.06.2026 07:07",
+          "from_status_key": null,
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 535052,
+          "dealName": "Айжан - Пешеход",
+          "responsibleName": "Нургуль",
+          "contactName": "Айжан",
+          "contactPhone": "+77014612897",
+          "contactId": 441780
+        }
+      ],
+      "current_status_label": "Бронь",
+      "last_deal_name": "Айжан - Пешеход",
+      "last_responsible": "Нургуль",
+      "last_date": 1780798074,
+      "last_date_local": "07.06.2026 07:07",
+      "orphan_candidate": true
+    },
+    "17680660": {
+      "meta": {
+        "project": "KERUEN",
+        "house": "VI очередь",
+        "section": "Подъезд 11",
+        "number": "17",
+        "floor": 2,
+        "rooms": 2,
+        "area": 51.33,
+        "price": 22841850,
+        "status": "BOOKED",
+        "customStatusId": 112773
+      },
+      "current_status": "BOOKED",
+      "history": [
+        {
+          "date": 1780797098,
+          "date_local": "07.06.2026 06:51",
+          "from_status_key": null,
+          "to_status_key": "BOOKED",
+          "to_status_label": "Бронь",
+          "dealId": 533204,
+          "dealName": "Лиды FB | Keruen - Гулбике Тургимбаева",
+          "responsibleName": "Самал",
+          "contactName": "Гулбике Тургимбаева",
+          "contactPhone": "+77759541407",
+          "contactId": 440506
+        }
+      ],
+      "current_status_label": "Бронь",
+      "last_deal_name": "Лиды FB | Keruen - Гулбике Тургимбаева",
+      "last_responsible": "Самал",
+      "last_date": 1780797098,
+      "last_date_local": "07.06.2026 06:51",
+      "orphan_candidate": true
     }
   },
-  "last_run": 1780778855,
+  "last_run": 1780821549,
   "bitrix_last_sync": "2024-11-19T09:08:48+03:00",
-  "gsheet_last_sync": 1780778904,
+  "gsheet_last_sync": 1780821596,
   "gsheet_external_only": [
     {
       "date": "01.04.2026",
