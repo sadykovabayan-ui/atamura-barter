@@ -2203,5 +2203,23 @@
     "property_number_pb": "79",
     "project_pb": "Атмосфера",
     "type_pb": "Машиноместо"
+  },
+  {
+    "deal_id": "548100",
+    "deal_title": "Бартер ИП Молдахметов Жомарт",
+    "stage": "C6:LOSE",
+    "category_id": "6",
+    "closed": "Y",
+    "date_create": "2026-06-29T12:29:03+03:00",
+    "date_modify": "2026-06-29T12:41:00+03:00",
+    "opportunity": "0.00000000",
+    "contractor_name": "Бартер ИП Молдахметов Жомарт",
+    "contact": {},
+    "company": {},
+    "property_id_pb": null,
+    "house_id_pb": null,
+    "property_number_pb": null,
+    "project_pb": null,
+    "type_pb": null
   }
 ]
