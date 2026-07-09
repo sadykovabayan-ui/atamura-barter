@@ -2373,7 +2373,7 @@
     "remaining_contract": -43764914,
     "remaining_to_pay": 0,
     "company": "Воронцов / Аскольд / Главпроф",
-    "note": "ТМЦ подсистема"
+    "note": "оформлен в нотариусе"
   },
   {
     "date": "",
@@ -2400,7 +2400,7 @@
     "remaining_contract": -43552560,
     "remaining_to_pay": 0,
     "company": "Воронцов / Аскольд / Главпроф",
-    "note": "ТМЦ подсистема / через титан"
+    "note": "оформлен в нотариусе"
   },
   {
     "date": "",
@@ -3561,7 +3561,7 @@
     "remaining_contract": 0,
     "remaining_to_pay": null,
     "company": "",
-    "note": ""
+    "note": "оформлен в нотариусе"
   },
   {
     "date": "16.01.2025",
@@ -3588,7 +3588,7 @@
     "remaining_contract": 0,
     "remaining_to_pay": null,
     "company": "",
-    "note": ""
+    "note": "оформлен в нотариусе"
   },
   {
     "date": "16.01.2025",
@@ -3615,7 +3615,7 @@
     "remaining_contract": 0,
     "remaining_to_pay": null,
     "company": "",
-    "note": ""
+    "note": "оформлен в нотариусе"
   },
   {
     "date": "16.01.2025",
@@ -3642,7 +3642,7 @@
     "remaining_contract": 0,
     "remaining_to_pay": null,
     "company": "",
-    "note": ""
+    "note": "оформлен в нотариусе"
   },
   {
     "date": "16.01.2025",
@@ -3669,7 +3669,7 @@
     "remaining_contract": 0,
     "remaining_to_pay": null,
     "company": "",
-    "note": ""
+    "note": "оформлен в нотариусе"
   },
   {
     "date": "22/01/2025",
@@ -3858,7 +3858,7 @@
     "remaining_contract": null,
     "remaining_to_pay": null,
     "company": "",
-    "note": "оформлен в нотариусе"
+    "note": ""
   },
   {
     "date": "22.05.2025",
