@@ -348,7 +348,7 @@
     "remaining_contract": null,
     "remaining_to_pay": null,
     "company": "",
-    "note": ""
+    "note": "оформлен по переуступке на Бердигараеву Назгуль"
   },
   {
     "date": "12.11.2025",
@@ -3291,7 +3291,7 @@
     "remaining_contract": null,
     "remaining_to_pay": null,
     "company": "",
-    "note": "отправлен в нотариус"
+    "note": "отправлен в нотариусе"
   },
   {
     "date": "28.11.2024",
@@ -3408,7 +3408,7 @@
     "legal_entity": "Арман строй инвест",
     "kind": "",
     "responsible": "Гульнур",
-    "status_property": "",
+    "status_property": "СНЯТ",
     "status_barter": "???????",
     "project": "Атмосфера",
     "queue": "IV очередь",
@@ -4263,7 +4263,7 @@
     "remaining_contract": null,
     "remaining_to_pay": null,
     "company": "",
-    "note": ""
+    "note": "УИНЖАНОВ РУСЛАН НУРУНБЕКОВИЧ"
   },
   {
     "date": "12.08.2025",
@@ -4326,7 +4326,7 @@
     "legal_entity": "Ертолек",
     "kind": "Услуги",
     "responsible": "Гульнур/Данияр",
-    "status_property": "в работе",
+    "status_property": "снят",
     "status_barter": "????????",
     "project": "Атмосфера",
     "queue": "IV очередь",
@@ -4857,7 +4857,7 @@
     "remaining_contract": null,
     "remaining_to_pay": null,
     "company": "Geo Expert ИП Руслан",
-    "note": ""
+    "note": "оформлен в нотариусе 13.07.2026"
   },
   {
     "date": "26.09.25",
