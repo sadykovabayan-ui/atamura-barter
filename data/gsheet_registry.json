@@ -2,7 +2,7 @@
   {
     "date": "01.04.2026",
     "row_num": "",
-    "contractor": "",
+    "contractor": "ТОО Экспертно - тех бюро",
     "legal_entity": "Руслан",
     "kind": "Услуга",
     "responsible": "Руслан НИ и ГД",
@@ -29,7 +29,7 @@
   {
     "date": "24.04.2025",
     "row_num": "125",
-    "contractor": "",
+    "contractor": "ТОО KUSA BETON  ( Ермек - Аксай Резорт)",
     "legal_entity": "ТОО KUSA BETON",
     "kind": "материалы",
     "responsible": "Аида",
@@ -56,7 +56,7 @@
   {
     "date": "25.04.2025",
     "row_num": "126",
-    "contractor": "",
+    "contractor": "Владимир",
     "legal_entity": "«IZO-MARKET KM»",
     "kind": "материалы",
     "responsible": "Аида",
@@ -83,7 +83,7 @@
   {
     "date": "23.06.2025",
     "row_num": "130",
-    "contractor": "",
+    "contractor": "ИП Азамат",
     "legal_entity": "Азамат",
     "kind": "",
     "responsible": "Аида",
@@ -110,7 +110,7 @@
   {
     "date": "23.06.2025",
     "row_num": "131",
-    "contractor": "",
+    "contractor": "ИП Азамат",
     "legal_entity": "Азамат",
     "kind": "",
     "responsible": "Аида",
@@ -137,7 +137,7 @@
   {
     "date": "01.08.2025",
     "row_num": "137",
-    "contractor": "",
+    "contractor": "МАФ КЗ",
     "legal_entity": "МАФ КЗ",
     "kind": "Материалы",
     "responsible": "Аида",
@@ -164,7 +164,7 @@
   {
     "date": "12.08.2025",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Саги",
     "legal_entity": "SM STEEL",
     "kind": "Материалы",
     "responsible": "Аида",
@@ -191,7 +191,7 @@
   {
     "date": "12.08.2025",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Саги",
     "legal_entity": "SM STEEL",
     "kind": "Материалы",
     "responsible": "Аида",
@@ -218,7 +218,7 @@
   {
     "date": "09.09.2025",
     "row_num": "",
-    "contractor": "",
+    "contractor": "ТОО SM STEEL",
     "legal_entity": "SM STEEL",
     "kind": "",
     "responsible": "Аида",
@@ -245,7 +245,7 @@
   {
     "date": "26.08.25",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Senim Doors",
     "legal_entity": "",
     "kind": "Материалы",
     "responsible": "Аида",
@@ -272,7 +272,7 @@
   {
     "date": "26.08.25",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Senim Doors",
     "legal_entity": "",
     "kind": "Материалы",
     "responsible": "Аида",
@@ -299,7 +299,7 @@
   {
     "date": "04.09.2025",
     "row_num": "",
-    "contractor": "",
+    "contractor": "ИП Азамат Курылыс",
     "legal_entity": "Азамат",
     "kind": "Материалы",
     "responsible": "Аида",
@@ -326,7 +326,7 @@
   {
     "date": "07.10.2025",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Айрон Пласт",
     "legal_entity": "ТОО «IRON PLAST» ис",
     "kind": "товар",
     "responsible": "Аида",
@@ -353,7 +353,7 @@
   {
     "date": "12.11.2025",
     "row_num": "",
-    "contractor": "",
+    "contractor": "ИП Азамат",
     "legal_entity": "ИП Азамат",
     "kind": "Товар (окна)",
     "responsible": "Аида",
@@ -380,7 +380,7 @@
   {
     "date": "04.12",
     "row_num": "",
-    "contractor": "",
+    "contractor": "ТОО «Daraтurym group»",
     "legal_entity": "Кайрат +7 747 103 2908",
     "kind": "Окна",
     "responsible": "Аида",
@@ -407,7 +407,7 @@
   {
     "date": "17.12.2025",
     "row_num": "",
-    "contractor": "",
+    "contractor": "МАФ КЗ",
     "legal_entity": "МАФ КЗ",
     "kind": "Материалы",
     "responsible": "Аида",
@@ -434,7 +434,7 @@
   {
     "date": "17.12.2025",
     "row_num": "",
-    "contractor": "",
+    "contractor": "МАФ КЗ",
     "legal_entity": "МАФ КЗ",
     "kind": "Материалы",
     "responsible": "Аида",
@@ -461,7 +461,7 @@
   {
     "date": "",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Владимир",
     "legal_entity": "«IZO-MARKET KM»",
     "kind": "материалы",
     "responsible": "Аида",
@@ -488,7 +488,7 @@
   {
     "date": "25.12.2024",
     "row_num": "110",
-    "contractor": "",
+    "contractor": "Senim Doors",
     "legal_entity": "Дорс",
     "kind": "двери",
     "responsible": "Гульнур",
@@ -515,7 +515,7 @@
   {
     "date": "27/03/2025",
     "row_num": "124",
-    "contractor": "",
+    "contractor": "ИП Мурат",
     "legal_entity": "ИП Мурат",
     "kind": "",
     "responsible": "Гульнур",
@@ -542,7 +542,7 @@
   {
     "date": "25.06.2025",
     "row_num": "132",
-    "contractor": "",
+    "contractor": "Достар лифт (Нурболсын)",
     "legal_entity": "Достар лифт (Нурболсын)",
     "kind": "лифты",
     "responsible": "Гульнур",
@@ -569,7 +569,7 @@
   {
     "date": "26.06.2025",
     "row_num": "133",
-    "contractor": "",
+    "contractor": "Достар лифт (Нурболсын)",
     "legal_entity": "Достар лифт (Нурболсын)",
     "kind": "лифты",
     "responsible": "Гульнур",
@@ -596,7 +596,7 @@
   {
     "date": "27.06.2025",
     "row_num": "132",
-    "contractor": "",
+    "contractor": "Достар лифт (Нурболсын)",
     "legal_entity": "Достар лифт (Нурболсын)",
     "kind": "лифты",
     "responsible": "Гульнур",
@@ -623,7 +623,7 @@
   {
     "date": "28.06.2025",
     "row_num": "132",
-    "contractor": "",
+    "contractor": "Достар лифт (Нурболсын)",
     "legal_entity": "Достар лифт (Нурболсын)",
     "kind": "лифты",
     "responsible": "Гульнур",
@@ -650,7 +650,7 @@
   {
     "date": "29.06.2025",
     "row_num": "132",
-    "contractor": "",
+    "contractor": "Достар лифт (Нурболсын)",
     "legal_entity": "Достар лифт (Нурболсын)",
     "kind": "лифты",
     "responsible": "Гульнур",
@@ -677,7 +677,7 @@
   {
     "date": "30.06.2025",
     "row_num": "132",
-    "contractor": "",
+    "contractor": "Достар лифт (Нурболсын)",
     "legal_entity": "Достар лифт (Нурболсын)",
     "kind": "лифты",
     "responsible": "Гульнур",
@@ -704,7 +704,7 @@
   {
     "date": "01.07.2025",
     "row_num": "132",
-    "contractor": "",
+    "contractor": "Достар лифт (Нурболсын)",
     "legal_entity": "Достар лифт (Нурболсын)",
     "kind": "лифты",
     "responsible": "Гульнур",
@@ -731,7 +731,7 @@
   {
     "date": "02.07.2025",
     "row_num": "132",
-    "contractor": "",
+    "contractor": "Достар лифт (Нурболсын)",
     "legal_entity": "Достар лифт (Нурболсын)",
     "kind": "лифты",
     "responsible": "Гульнур",
@@ -758,7 +758,7 @@
   {
     "date": "03.07.2025",
     "row_num": "132",
-    "contractor": "",
+    "contractor": "Достар лифт (Нурболсын)",
     "legal_entity": "Достар лифт (Нурболсын)",
     "kind": "лифты",
     "responsible": "Гульнур",
@@ -785,7 +785,7 @@
   {
     "date": "20/08/2025",
     "row_num": "",
-    "contractor": "",
+    "contractor": "ИП Аскар",
     "legal_entity": "ИП Аскар",
     "kind": "услуги",
     "responsible": "Гульнур/Данияр",
@@ -812,7 +812,7 @@
   {
     "date": "20/08/2025",
     "row_num": "",
-    "contractor": "",
+    "contractor": "ИП Аскар/ИП Бектенова",
     "legal_entity": "ИП Аскар",
     "kind": "услуги",
     "responsible": "Гульнур/Данияр",
@@ -839,7 +839,7 @@
   {
     "date": "18.09.2025",
     "row_num": "",
-    "contractor": "",
+    "contractor": "SBK Group  Plus",
     "legal_entity": "SBK Group  Plus/Болганбаев Ш",
     "kind": "Услуги",
     "responsible": "Гульнур",
@@ -866,7 +866,7 @@
   {
     "date": "17/10/2025",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Талгат, ИП Гранд строй",
     "legal_entity": "ТИП Гранд строй",
     "kind": "услуги спец.техники",
     "responsible": "Руслан Кумакбаев",
@@ -893,7 +893,7 @@
   {
     "date": "23.10.25",
     "row_num": "129",
-    "contractor": "",
+    "contractor": "ИП Шукирбай Максат  87471040450",
     "legal_entity": "Ип Шукирбай",
     "kind": "услуги спецтехники по Карабулак",
     "responsible": "Ербол",
@@ -920,7 +920,7 @@
   {
     "date": "03.11.2025",
     "row_num": "",
-    "contractor": "",
+    "contractor": "ИП Молдахметов Жомарт",
     "legal_entity": "ИП Молдахметов Ж",
     "kind": "Услуги спецтехника",
     "responsible": "Гульнур",
@@ -947,7 +947,7 @@
   {
     "date": "03.11.2025",
     "row_num": "",
-    "contractor": "",
+    "contractor": "ИП Молдахметов Жомарт",
     "legal_entity": "ИП Молдахметов Ж",
     "kind": "Услуги спецтехника",
     "responsible": "Гульнур",
@@ -974,7 +974,7 @@
   {
     "date": "01.12.2025",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Исмайл Бакиров (Ержан)",
     "legal_entity": "Исмайл  котлован",
     "kind": "ИП Ерлан , ИП Бакирова",
     "responsible": "котлован",
@@ -1001,7 +1001,7 @@
   {
     "date": "01.12.2025",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Исмайл Бакиров (Ержан)",
     "legal_entity": "Исмайл  котлован",
     "kind": "ИП Ерлан , ИП Бакирова",
     "responsible": "котлован",
@@ -1028,7 +1028,7 @@
   {
     "date": "01.12.2025",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Исмайл Бакиров (Ержан)",
     "legal_entity": "Исмайл  котлован",
     "kind": "ИП Именов",
     "responsible": "котлован",
@@ -1055,7 +1055,7 @@
   {
     "date": "30/12/2025",
     "row_num": "",
-    "contractor": "",
+    "contractor": "ИП URMAN",
     "legal_entity": "Рустем 87015563639",
     "kind": "инертные материалы",
     "responsible": "Азамат и Руслан",
@@ -1082,7 +1082,7 @@
   {
     "date": "",
     "row_num": "91",
-    "contractor": "",
+    "contractor": "Саадам",
     "legal_entity": "Kotlovan-KZ",
     "kind": "Услуги",
     "responsible": "Нурсултан - Гульнур",
@@ -1109,7 +1109,7 @@
   {
     "date": "",
     "row_num": "82",
-    "contractor": "",
+    "contractor": "Аскар",
     "legal_entity": "ИП Мукашев",
     "kind": "Услуги",
     "responsible": "Гульнур",
@@ -1136,7 +1136,7 @@
   {
     "date": "",
     "row_num": "63",
-    "contractor": "",
+    "contractor": "Ертолек",
     "legal_entity": "",
     "kind": "Услуги",
     "responsible": "Шынар",
@@ -1163,7 +1163,7 @@
   {
     "date": "",
     "row_num": "64",
-    "contractor": "",
+    "contractor": "Ертолек",
     "legal_entity": "",
     "kind": "Услуги",
     "responsible": "Шынар",
@@ -1190,7 +1190,7 @@
   {
     "date": "",
     "row_num": "74",
-    "contractor": "",
+    "contractor": "ИП Мурат",
     "legal_entity": "УДЕРЖАТЬ 165 000 тг!",
     "kind": "Услуги",
     "responsible": "Нурсултан - Гульнур",
@@ -1217,7 +1217,7 @@
   {
     "date": "",
     "row_num": "25",
-    "contractor": "",
+    "contractor": "Абдували",
     "legal_entity": "",
     "kind": "Услуги",
     "responsible": "Гульнур Руслан",
@@ -1244,7 +1244,7 @@
   {
     "date": "",
     "row_num": "41",
-    "contractor": "",
+    "contractor": "Бисенов Ахмет Дюсюбекович",
     "legal_entity": "",
     "kind": "Услуги",
     "responsible": "Гульнур",
@@ -1271,7 +1271,7 @@
   {
     "date": "",
     "row_num": "1",
-    "contractor": "",
+    "contractor": "Ертолек",
     "legal_entity": "ИП Ертолек",
     "kind": "Услуги",
     "responsible": "Шынар",
@@ -1298,7 +1298,7 @@
   {
     "date": "",
     "row_num": "42",
-    "contractor": "",
+    "contractor": "Жадырасын",
     "legal_entity": "Жадырасын",
     "kind": "Услуги",
     "responsible": "Гульнур",
@@ -1325,7 +1325,7 @@
   {
     "date": "",
     "row_num": "44",
-    "contractor": "",
+    "contractor": "Жадырасын",
     "legal_entity": "Жадырасын",
     "kind": "Услуги",
     "responsible": "Гульнур",
@@ -1352,7 +1352,7 @@
   {
     "date": "",
     "row_num": "45",
-    "contractor": "",
+    "contractor": "Жадырасын",
     "legal_entity": "Жадырасын",
     "kind": "Услуги",
     "responsible": "Гульнур",
@@ -1379,7 +1379,7 @@
   {
     "date": "",
     "row_num": "46",
-    "contractor": "",
+    "contractor": "Жадырасын",
     "legal_entity": "Жадырасын",
     "kind": "Услуги",
     "responsible": "Гульнур",
@@ -1406,7 +1406,7 @@
   {
     "date": "",
     "row_num": "28",
-    "contractor": "",
+    "contractor": "Кияс",
     "legal_entity": "ИП Шалбарбаева Б.А.",
     "kind": "Услуги",
     "responsible": "Нурсултан - Гульнур",
@@ -1433,7 +1433,7 @@
   {
     "date": "",
     "row_num": "31",
-    "contractor": "",
+    "contractor": "Нуктебек",
     "legal_entity": "",
     "kind": "Услуги",
     "responsible": "Шынар",
@@ -1460,7 +1460,7 @@
   {
     "date": "",
     "row_num": "30",
-    "contractor": "",
+    "contractor": "Саадам",
     "legal_entity": "ТОО Kotlovan-KZ",
     "kind": "Услуги",
     "responsible": "Нурсултан - Гульнур",
@@ -1487,7 +1487,7 @@
   {
     "date": "",
     "row_num": "6",
-    "contractor": "",
+    "contractor": "Анара ГАЗ - МОНАРХ",
     "legal_entity": "",
     "kind": "Услуги",
     "responsible": "Гульнур Руслан",
@@ -1514,7 +1514,7 @@
   {
     "date": "",
     "row_num": "26",
-    "contractor": "",
+    "contractor": "Аскар ИП",
     "legal_entity": "",
     "kind": "Услуги",
     "responsible": "Нурсултан - Гульнур",
@@ -1541,7 +1541,7 @@
   {
     "date": "",
     "row_num": "27",
-    "contractor": "",
+    "contractor": "Аскар ИП",
     "legal_entity": "",
     "kind": "Услуги",
     "responsible": "Нурсултан - Гульнур",
@@ -1568,7 +1568,7 @@
   {
     "date": "",
     "row_num": "23",
-    "contractor": "",
+    "contractor": "Джумабаева Ольга Валерьевна",
     "legal_entity": "",
     "kind": "Услуги",
     "responsible": "Руслан",
@@ -1595,7 +1595,7 @@
   {
     "date": "",
     "row_num": "24",
-    "contractor": "",
+    "contractor": "Джумабаева Ольга Валерьевна",
     "legal_entity": "",
     "kind": "Услуги",
     "responsible": "Руслан",
@@ -1622,7 +1622,7 @@
   {
     "date": "",
     "row_num": "43",
-    "contractor": "",
+    "contractor": "Жадырасын",
     "legal_entity": "",
     "kind": "Услуги",
     "responsible": "Гульнур",
@@ -1649,7 +1649,7 @@
   {
     "date": "",
     "row_num": "13",
-    "contractor": "",
+    "contractor": "ИП Сыздыков",
     "legal_entity": "",
     "kind": "Услуги",
     "responsible": "Гульнур Руслан",
@@ -1676,7 +1676,7 @@
   {
     "date": "",
     "row_num": "4",
-    "contractor": "",
+    "contractor": "Рауан, Самал Жель",
     "legal_entity": "",
     "kind": "Услуги",
     "responsible": "Шынар",
@@ -1703,7 +1703,7 @@
   {
     "date": "",
     "row_num": "",
-    "contractor": "",
+    "contractor": "AKM Floor",
     "legal_entity": "",
     "kind": "Услуги",
     "responsible": "Шынар",
@@ -1730,7 +1730,7 @@
   {
     "date": "",
     "row_num": "3",
-    "contractor": "",
+    "contractor": "Айрон Пласт",
     "legal_entity": "ТОО «IRON PLAST»",
     "kind": "Материалы",
     "responsible": "Аида",
@@ -1757,7 +1757,7 @@
   {
     "date": "",
     "row_num": "2",
-    "contractor": "",
+    "contractor": "Айрон Пласт",
     "legal_entity": "ТОО «IRON PLAST»",
     "kind": "Материалы",
     "responsible": "Аида",
@@ -1784,7 +1784,7 @@
   {
     "date": "",
     "row_num": "9",
-    "contractor": "",
+    "contractor": "АКХ Капитал",
     "legal_entity": "",
     "kind": "Материалы",
     "responsible": "Аида",
@@ -1811,7 +1811,7 @@
   {
     "date": "",
     "row_num": "29",
-    "contractor": "",
+    "contractor": "Бородулин Сергей",
     "legal_entity": "",
     "kind": "Материалы",
     "responsible": "Аида",
@@ -1838,7 +1838,7 @@
   {
     "date": "",
     "row_num": "47",
-    "contractor": "",
+    "contractor": "Владимир",
     "legal_entity": "«IZO-MARKET KM»",
     "kind": "Материалы",
     "responsible": "Аида",
@@ -1865,7 +1865,7 @@
   {
     "date": "",
     "row_num": "48",
-    "contractor": "",
+    "contractor": "Владимир",
     "legal_entity": "«IZO-MARKET KM»",
     "kind": "Материалы",
     "responsible": "Аида",
@@ -1892,7 +1892,7 @@
   {
     "date": "",
     "row_num": "56",
-    "contractor": "",
+    "contractor": "Меса",
     "legal_entity": "",
     "kind": "Материалы",
     "responsible": "Аида",
@@ -1919,7 +1919,7 @@
   {
     "date": "",
     "row_num": "49",
-    "contractor": "",
+    "contractor": "Мустафа",
     "legal_entity": "ТОО Майнур ЭлитСтрой",
     "kind": "Материалы",
     "responsible": "Нурсултан - Гульнур",
@@ -1946,7 +1946,7 @@
   {
     "date": "",
     "row_num": "50",
-    "contractor": "",
+    "contractor": "Мустафа",
     "legal_entity": "ТОО Майнур ЭлитСтрой",
     "kind": "Материалы",
     "responsible": "Нурсултан - Гульнур",
@@ -1973,7 +1973,7 @@
   {
     "date": "",
     "row_num": "51",
-    "contractor": "",
+    "contractor": "Мустафа",
     "legal_entity": "ТОО Майнур ЭлитСтрой",
     "kind": "Материалы",
     "responsible": "Нурсултан - Гульнур",
@@ -2000,7 +2000,7 @@
   {
     "date": "",
     "row_num": "52",
-    "contractor": "",
+    "contractor": "Мустафа",
     "legal_entity": "ТОО Майнур ЭлитСтрой",
     "kind": "Материалы",
     "responsible": "Нурсултан - Гульнур",
@@ -2027,7 +2027,7 @@
   {
     "date": "",
     "row_num": "36",
-    "contractor": "",
+    "contractor": "Нурболсын",
     "legal_entity": "Dostar Lift",
     "kind": "Материалы",
     "responsible": "Аида",
@@ -2054,7 +2054,7 @@
   {
     "date": "",
     "row_num": "37",
-    "contractor": "",
+    "contractor": "Нурболсын",
     "legal_entity": "Dostar Lift",
     "kind": "Материалы",
     "responsible": "Аида",
@@ -2081,7 +2081,7 @@
   {
     "date": "",
     "row_num": "54",
-    "contractor": "",
+    "contractor": "Олег",
     "legal_entity": "ТОО \"МАФ\", ИП \"МАФ\"",
     "kind": "Материалы",
     "responsible": "Аида",
@@ -2108,7 +2108,7 @@
   {
     "date": "",
     "row_num": "55",
-    "contractor": "",
+    "contractor": "Олег",
     "legal_entity": "ТОО \"МАФ\", ИП \"МАФ\"",
     "kind": "Материалы",
     "responsible": "Аида",
@@ -2135,7 +2135,7 @@
   {
     "date": "",
     "row_num": "35",
-    "contractor": "",
+    "contractor": "ПКФ-Сталь",
     "legal_entity": "",
     "kind": "Материалы",
     "responsible": "Аида",
@@ -2162,7 +2162,7 @@
   {
     "date": "",
     "row_num": "81",
-    "contractor": "",
+    "contractor": "Senim Doors",
     "legal_entity": "",
     "kind": "Материалы",
     "responsible": "Аида",
@@ -2189,7 +2189,7 @@
   {
     "date": "",
     "row_num": "59",
-    "contractor": "",
+    "contractor": "Улар Инвест",
     "legal_entity": "Улар Инвест Имран",
     "kind": "Материалы",
     "responsible": "Аида",
@@ -2216,7 +2216,7 @@
   {
     "date": "",
     "row_num": "60",
-    "contractor": "",
+    "contractor": "Улар Инвест",
     "legal_entity": "Улар Инвест Имран",
     "kind": "Материалы",
     "responsible": "Аида",
@@ -2243,7 +2243,7 @@
   {
     "date": "",
     "row_num": "58",
-    "contractor": "",
+    "contractor": "Улар Инвест",
     "legal_entity": "Улар Инвест Имран",
     "kind": "Материалы",
     "responsible": "Аида",
@@ -2270,7 +2270,7 @@
   {
     "date": "",
     "row_num": "69",
-    "contractor": "",
+    "contractor": "Азамат",
     "legal_entity": "",
     "kind": "Материалы",
     "responsible": "Аида",
@@ -2297,7 +2297,7 @@
   {
     "date": "",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Азамат",
     "legal_entity": "",
     "kind": "Материалы",
     "responsible": "Аида",
@@ -2324,7 +2324,7 @@
   {
     "date": "",
     "row_num": "73",
-    "contractor": "",
+    "contractor": "Аксу бетон",
     "legal_entity": "",
     "kind": "Материалы",
     "responsible": "Гульнур",
@@ -2351,7 +2351,7 @@
   {
     "date": "",
     "row_num": "12",
-    "contractor": "",
+    "contractor": "Воронцов / Аскольд / Главпроф/Кириенко/ ALLKurylys/",
     "legal_entity": "",
     "kind": "Материалы",
     "responsible": "Аида",
@@ -2378,7 +2378,7 @@
   {
     "date": "",
     "row_num": "11",
-    "contractor": "",
+    "contractor": "Воронцов / Аскольд / Главпроф/Кириенко/ ALLKurylys/",
     "legal_entity": "",
     "kind": "Материалы",
     "responsible": "Аида",
@@ -2405,7 +2405,7 @@
   {
     "date": "",
     "row_num": "87",
-    "contractor": "",
+    "contractor": "Улар Инвест",
     "legal_entity": "Улар Инвест Имран",
     "kind": "Материалы",
     "responsible": "Гульнур",
@@ -2432,7 +2432,7 @@
   {
     "date": "",
     "row_num": "88",
-    "contractor": "",
+    "contractor": "Улар Инвест",
     "legal_entity": "Улар Инвест Имран",
     "kind": "Материалы",
     "responsible": "Гульнур",
@@ -2459,7 +2459,7 @@
   {
     "date": "",
     "row_num": "38",
-    "contractor": "",
+    "contractor": "Нурболсын",
     "legal_entity": "Dostar Lift",
     "kind": "Материалы",
     "responsible": "Аида",
@@ -2486,7 +2486,7 @@
   {
     "date": "",
     "row_num": "39",
-    "contractor": "",
+    "contractor": "Нурболсын",
     "legal_entity": "Dostar Lift",
     "kind": "Материалы",
     "responsible": "Аида",
@@ -2513,7 +2513,7 @@
   {
     "date": "",
     "row_num": "75",
-    "contractor": "",
+    "contractor": "Нурболсын",
     "legal_entity": "Dostar Lift",
     "kind": "Материалы",
     "responsible": "Аида",
@@ -2540,7 +2540,7 @@
   {
     "date": "",
     "row_num": "76",
-    "contractor": "",
+    "contractor": "Нурболсын",
     "legal_entity": "Dostar Lift",
     "kind": "Материалы",
     "responsible": "Аида",
@@ -2567,7 +2567,7 @@
   {
     "date": "",
     "row_num": "85",
-    "contractor": "",
+    "contractor": "Нурболсын",
     "legal_entity": "Dostar Lift",
     "kind": "Материалы",
     "responsible": "Аида",
@@ -2594,7 +2594,7 @@
   {
     "date": "",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Ак-Тулпар ИП, Жомарт",
     "legal_entity": "ИП Молдхаметов",
     "kind": "Материалы",
     "responsible": "",
@@ -2621,7 +2621,7 @@
   {
     "date": "",
     "row_num": "53",
-    "contractor": "",
+    "contractor": "Олег",
     "legal_entity": "ТОО \"МАФ\", ИП \"МАФ\"",
     "kind": "Материалы",
     "responsible": "Аида",
@@ -2648,7 +2648,7 @@
   {
     "date": "",
     "row_num": "84",
-    "contractor": "",
+    "contractor": "ПКФ-Сталь",
     "legal_entity": "",
     "kind": "Материалы",
     "responsible": "Аида",
@@ -2675,7 +2675,7 @@
   {
     "date": "",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Стальная марка",
     "legal_entity": "",
     "kind": "Материалы",
     "responsible": "Аида",
@@ -2702,7 +2702,7 @@
   {
     "date": "",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Стальная марка",
     "legal_entity": "",
     "kind": "Материалы",
     "responsible": "Аида",
@@ -2729,7 +2729,7 @@
   {
     "date": "",
     "row_num": "70",
-    "contractor": "",
+    "contractor": "Талгат,  Севардин Tech Fasade",
     "legal_entity": "ИП Кумарбек",
     "kind": "Материалы",
     "responsible": "Аида",
@@ -2756,7 +2756,7 @@
   {
     "date": "",
     "row_num": "5",
-    "contractor": "",
+    "contractor": "Senim Doors",
     "legal_entity": "",
     "kind": "Материалы",
     "responsible": "Гульнур",
@@ -2783,7 +2783,7 @@
   {
     "date": "",
     "row_num": "62",
-    "contractor": "",
+    "contractor": "Цой Ирина Юрьевна",
     "legal_entity": "",
     "kind": "Другое",
     "responsible": "Данияр",
@@ -2810,7 +2810,7 @@
   {
     "date": "",
     "row_num": "10",
-    "contractor": "",
+    "contractor": "Адия",
     "legal_entity": "",
     "kind": "Другое",
     "responsible": "Руслан",
@@ -2837,7 +2837,7 @@
   {
     "date": "",
     "row_num": "14",
-    "contractor": "",
+    "contractor": "Алма",
     "legal_entity": "",
     "kind": "Другое",
     "responsible": "Данияр",
@@ -2864,7 +2864,7 @@
   {
     "date": "",
     "row_num": "15",
-    "contractor": "",
+    "contractor": "Дощинская Эвелина Олеговна",
     "legal_entity": "",
     "kind": "Другое",
     "responsible": "Руслан",
@@ -2891,7 +2891,7 @@
   {
     "date": "",
     "row_num": "16",
-    "contractor": "",
+    "contractor": "Дощинская Эвелина Олеговна",
     "legal_entity": "",
     "kind": "Другое",
     "responsible": "Руслан",
@@ -2918,7 +2918,7 @@
   {
     "date": "",
     "row_num": "17",
-    "contractor": "",
+    "contractor": "Дощинская Эвелина Олеговна",
     "legal_entity": "",
     "kind": "Другое",
     "responsible": "Руслан",
@@ -2945,7 +2945,7 @@
   {
     "date": "",
     "row_num": "18",
-    "contractor": "",
+    "contractor": "Дощинская Эвелина Олеговна",
     "legal_entity": "",
     "kind": "Другое",
     "responsible": "Руслан",
@@ -2972,7 +2972,7 @@
   {
     "date": "",
     "row_num": "19",
-    "contractor": "",
+    "contractor": "Дощинская Эвелина Олеговна",
     "legal_entity": "",
     "kind": "Другое",
     "responsible": "Руслан",
@@ -2999,7 +2999,7 @@
   {
     "date": "",
     "row_num": "20",
-    "contractor": "",
+    "contractor": "Дощинская Эвелина Олеговна",
     "legal_entity": "",
     "kind": "Другое",
     "responsible": "Руслан",
@@ -3026,7 +3026,7 @@
   {
     "date": "",
     "row_num": "21",
-    "contractor": "",
+    "contractor": "Дощинская Эвелина Олеговна",
     "legal_entity": "",
     "kind": "Другое",
     "responsible": "Руслан",
@@ -3053,7 +3053,7 @@
   {
     "date": "",
     "row_num": "22",
-    "contractor": "",
+    "contractor": "Дощинская Эвелина Олеговна",
     "legal_entity": "",
     "kind": "Другое",
     "responsible": "Руслан",
@@ -3080,7 +3080,7 @@
   {
     "date": "",
     "row_num": "61",
-    "contractor": "",
+    "contractor": "Дощинская Эвелина Олеговна",
     "legal_entity": "",
     "kind": "Другое",
     "responsible": "Руслан",
@@ -3107,7 +3107,7 @@
   {
     "date": "",
     "row_num": "78",
-    "contractor": "",
+    "contractor": "ЗУ бартер",
     "legal_entity": "",
     "kind": "Другое",
     "responsible": "Руслан",
@@ -3134,7 +3134,7 @@
   {
     "date": "",
     "row_num": "79",
-    "contractor": "",
+    "contractor": "ЗУ бартер",
     "legal_entity": "",
     "kind": "Другое",
     "responsible": "Руслан",
@@ -3161,7 +3161,7 @@
   {
     "date": "",
     "row_num": "80",
-    "contractor": "",
+    "contractor": "ЗУ бартер",
     "legal_entity": "",
     "kind": "Другое",
     "responsible": "Руслан",
@@ -3188,7 +3188,7 @@
   {
     "date": "",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Стальная марка",
     "legal_entity": "",
     "kind": "Материалы",
     "responsible": "Аида",
@@ -3215,7 +3215,7 @@
   {
     "date": "5.9.2025",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Достар лифт (Нурболсын)",
     "legal_entity": "Достар лифт",
     "kind": "товар",
     "responsible": "Гульнур",
@@ -3242,7 +3242,7 @@
   {
     "date": "27.11.2024",
     "row_num": "100",
-    "contractor": "",
+    "contractor": "Бетон-А",
     "legal_entity": "Бетон-А переуступка на физ.лицо Сарсенова Карина",
     "kind": "",
     "responsible": "Гульнур, Аида",
@@ -3269,7 +3269,7 @@
   {
     "date": "27.11.2024",
     "row_num": "101",
-    "contractor": "",
+    "contractor": "Бетон-А",
     "legal_entity": "Бетон-А переуступка на физ.лицо Сарсенова Карина",
     "kind": "",
     "responsible": "Гульнур, Аида",
@@ -3296,7 +3296,7 @@
   {
     "date": "28.11.2024",
     "row_num": "102",
-    "contractor": "",
+    "contractor": "Игорь 87773300101",
     "legal_entity": "Pro СейсмоКЗ",
     "kind": "",
     "responsible": "Гульнур",
@@ -3323,7 +3323,7 @@
   {
     "date": "28.11.2024",
     "row_num": "103",
-    "contractor": "",
+    "contractor": "Игорь 87773300101",
     "legal_entity": "Pro СейсмоКЗ",
     "kind": "",
     "responsible": "Гульнур",
@@ -3350,7 +3350,7 @@
   {
     "date": "03/12/2024",
     "row_num": "105",
-    "contractor": "",
+    "contractor": "Майнур Элитсрой",
     "legal_entity": "Элитстрой",
     "kind": "",
     "responsible": "Гульнур",
@@ -3377,7 +3377,7 @@
   {
     "date": "11.12.2024",
     "row_num": "107",
-    "contractor": "",
+    "contractor": "Арлан строй инвест (Жадырасын)",
     "legal_entity": "Арман строй инвест",
     "kind": "",
     "responsible": "Гульнур",
@@ -3404,7 +3404,7 @@
   {
     "date": "11.12.2024",
     "row_num": "108",
-    "contractor": "",
+    "contractor": "Арлан строй инвест (Жадырасын)",
     "legal_entity": "Арман строй инвест",
     "kind": "",
     "responsible": "Гульнур",
@@ -3431,7 +3431,7 @@
   {
     "date": "25.12.2024",
     "row_num": "111",
-    "contractor": "",
+    "contractor": "ИП Ертолек",
     "legal_entity": "Ертолек",
     "kind": "",
     "responsible": "Гульнур",
@@ -3458,7 +3458,7 @@
   {
     "date": "23.12.2024",
     "row_num": "112",
-    "contractor": "",
+    "contractor": "ИП Маматов",
     "legal_entity": "ИП Маматов",
     "kind": "чистовая отделка ЖК Аура",
     "responsible": "Гульнур",
@@ -3485,7 +3485,7 @@
   {
     "date": "13/01/2025",
     "row_num": "113",
-    "contractor": "",
+    "contractor": "ТОО Майнур Элитсрой",
     "legal_entity": "Алиева Зара",
     "kind": "",
     "responsible": "Гульнур",
@@ -3512,7 +3512,7 @@
   {
     "date": "15/01/2025",
     "row_num": "114",
-    "contractor": "",
+    "contractor": "Воронцов / Аскольд / Главпроф/Кириенко/ ALLKurylys/",
     "legal_entity": "Андрей / Александр",
     "kind": "Материалы",
     "responsible": "Аида",
@@ -3539,7 +3539,7 @@
   {
     "date": "16.01.2025",
     "row_num": "115",
-    "contractor": "",
+    "contractor": "Воронцов / Аскольд / Главпроф/Кириенко/ ALLKurylys/",
     "legal_entity": "Андрей / Александр",
     "kind": "Материалы",
     "responsible": "Аида",
@@ -3566,7 +3566,7 @@
   {
     "date": "16.01.2025",
     "row_num": "115",
-    "contractor": "",
+    "contractor": "Воронцов / Аскольд / Главпроф",
     "legal_entity": "Андрей / Александр",
     "kind": "Материалы",
     "responsible": "Аида",
@@ -3593,7 +3593,7 @@
   {
     "date": "16.01.2025",
     "row_num": "115",
-    "contractor": "",
+    "contractor": "Воронцов / Аскольд / Главпроф",
     "legal_entity": "Андрей / Александр",
     "kind": "Материалы",
     "responsible": "Аида",
@@ -3620,7 +3620,7 @@
   {
     "date": "16.01.2025",
     "row_num": "115",
-    "contractor": "",
+    "contractor": "Воронцов / Аскольд / Главпроф",
     "legal_entity": "Андрей / Александр",
     "kind": "Материалы",
     "responsible": "Аида",
@@ -3647,7 +3647,7 @@
   {
     "date": "16.01.2025",
     "row_num": "115",
-    "contractor": "",
+    "contractor": "Воронцов / Аскольд / Главпроф",
     "legal_entity": "Андрей / Александр",
     "kind": "Материалы",
     "responsible": "Аида",
@@ -3674,7 +3674,7 @@
   {
     "date": "22/01/2025",
     "row_num": "116",
-    "contractor": "",
+    "contractor": "ИП Ертолек",
     "legal_entity": "Ертолек",
     "kind": "Услуги",
     "responsible": "Гульнур",
@@ -3701,7 +3701,7 @@
   {
     "date": "23.01.2025",
     "row_num": "117",
-    "contractor": "",
+    "contractor": "Улар Инвест",
     "legal_entity": "Улар Инвест",
     "kind": "",
     "responsible": "Аида",
@@ -3728,7 +3728,7 @@
   {
     "date": "03.02.2025",
     "row_num": "118",
-    "contractor": "",
+    "contractor": "ИП Молдахметов Жомарт",
     "legal_entity": "Ип Молдахметов",
     "kind": "услуги",
     "responsible": "Гульнур",
@@ -3755,7 +3755,7 @@
   {
     "date": "07.02.2025",
     "row_num": "119",
-    "contractor": "",
+    "contractor": "ИП Молдахметов Жомарт",
     "legal_entity": "Ип Молдахметов",
     "kind": "услуги",
     "responsible": "Гульнур",
@@ -3782,7 +3782,7 @@
   {
     "date": "10.02.2025",
     "row_num": "120",
-    "contractor": "",
+    "contractor": "Савердин 87777808182",
     "legal_entity": "ИП Кумарбек",
     "kind": "материалы",
     "responsible": "Аида",
@@ -3809,7 +3809,7 @@
   {
     "date": "25.12.2024",
     "row_num": "121",
-    "contractor": "",
+    "contractor": "ИП Ертолек",
     "legal_entity": "ИП Ертолек",
     "kind": "услуги",
     "responsible": "Гульнур",
@@ -3836,7 +3836,7 @@
   {
     "date": "07.03.2025",
     "row_num": "122",
-    "contractor": "",
+    "contractor": "Воронцов / Аскольд / Главпроф/Кириенко/ ALLKurylys/",
     "legal_entity": "Андрей / Александр",
     "kind": "материалы",
     "responsible": "Аида",
@@ -3863,7 +3863,7 @@
   {
     "date": "22.05.2025",
     "row_num": "127",
-    "contractor": "",
+    "contractor": "Улар Инвест",
     "legal_entity": "Улар Инвест",
     "kind": "",
     "responsible": "Гульнур",
@@ -3890,7 +3890,7 @@
   {
     "date": "22.05.2025",
     "row_num": "127",
-    "contractor": "",
+    "contractor": "Улар Инвест",
     "legal_entity": "Улар Инвест",
     "kind": "",
     "responsible": "Гульнур",
@@ -3917,7 +3917,7 @@
   {
     "date": "",
     "row_num": "127",
-    "contractor": "",
+    "contractor": "Улар Инвест",
     "legal_entity": "Улар Инвест",
     "kind": "",
     "responsible": "Гульнур",
@@ -3944,7 +3944,7 @@
   {
     "date": "28.05.2025",
     "row_num": "129",
-    "contractor": "",
+    "contractor": "ИП Розен",
     "legal_entity": "ИП Розен",
     "kind": "",
     "responsible": "Гульнур",
@@ -3971,7 +3971,7 @@
   {
     "date": "18/07/2025",
     "row_num": "133",
-    "contractor": "",
+    "contractor": "ТОО Майнур Элитсрой",
     "legal_entity": "Алиева Зара",
     "kind": "товар",
     "responsible": "Гульнур",
@@ -3998,7 +3998,7 @@
   {
     "date": "18.07.2025",
     "row_num": "134",
-    "contractor": "",
+    "contractor": "Хамза Майнур",
     "legal_entity": "Хамза Майнур (Алиева Зара)",
     "kind": "товар",
     "responsible": "Гульнур",
@@ -4025,7 +4025,7 @@
   {
     "date": "",
     "row_num": "108",
-    "contractor": "",
+    "contractor": "Улар Инвест",
     "legal_entity": "Улар Инвест",
     "kind": "",
     "responsible": "Гульнур",
@@ -4052,7 +4052,7 @@
   {
     "date": "",
     "row_num": "",
-    "contractor": "",
+    "contractor": "ИП АСКАР КУЛЫШ",
     "legal_entity": "ИП АСКАР",
     "kind": "",
     "responsible": "Гульнур",
@@ -4079,7 +4079,7 @@
   {
     "date": "",
     "row_num": "99",
-    "contractor": "",
+    "contractor": "Пожсервис",
     "legal_entity": "Жасулан",
     "kind": "",
     "responsible": "Данияр",
@@ -4106,7 +4106,7 @@
   {
     "date": "21.07.2025",
     "row_num": "135",
-    "contractor": "",
+    "contractor": "Ертолек",
     "legal_entity": "ИП ESD строй",
     "kind": "услуги",
     "responsible": "Гульнур",
@@ -4133,7 +4133,7 @@
   {
     "date": "22.07.2025",
     "row_num": "136",
-    "contractor": "",
+    "contractor": "Ертолек",
     "legal_entity": "ИП ESD строй",
     "kind": "услуги",
     "responsible": "Гульнур",
@@ -4160,7 +4160,7 @@
   {
     "date": "07.08.2025",
     "row_num": "138",
-    "contractor": "",
+    "contractor": "д.Вася",
     "legal_entity": "д.Вася",
     "kind": "",
     "responsible": "Данияр",
@@ -4187,7 +4187,7 @@
   {
     "date": "01.08.2025",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Ертолек",
     "legal_entity": "Ертолек",
     "kind": "Услуги",
     "responsible": "Гульнур/Данияр",
@@ -4214,7 +4214,7 @@
   {
     "date": "01.08.2025",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Ертолек",
     "legal_entity": "Ертолек",
     "kind": "Услуги",
     "responsible": "Гульнур/Данияр",
@@ -4241,7 +4241,7 @@
   {
     "date": "12.08.2025",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Ертолек",
     "legal_entity": "Ертолек",
     "kind": "Услуги",
     "responsible": "Гульнур/Данияр",
@@ -4268,7 +4268,7 @@
   {
     "date": "12.08.2025",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Ертолек",
     "legal_entity": "Ертолек",
     "kind": "Услуги",
     "responsible": "Гульнур/Данияр",
@@ -4295,7 +4295,7 @@
   {
     "date": "12.08.2025",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Ертолек",
     "legal_entity": "Ертолек",
     "kind": "Услуги",
     "responsible": "Гульнур/Данияр",
@@ -4322,7 +4322,7 @@
   {
     "date": "12.08.2025",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Ертолек",
     "legal_entity": "Ертолек",
     "kind": "Услуги",
     "responsible": "Гульнур/Данияр",
@@ -4349,7 +4349,7 @@
   {
     "date": "15.08.2025",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Данияр -шеф",
     "legal_entity": "Данияр шеф",
     "kind": "",
     "responsible": "Данияр",
@@ -4376,7 +4376,7 @@
   {
     "date": "18.08.25",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Бахытжанов Бауыржан (д.Вася)",
     "legal_entity": "Бахытжанов Бауыржан",
     "kind": "",
     "responsible": "Данияр",
@@ -4403,7 +4403,7 @@
   {
     "date": "18.08.25",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Бахытжанов Бауыржан (д.Вася)",
     "legal_entity": "Бахытжанов Бауыржан",
     "kind": "",
     "responsible": "Данияр",
@@ -4430,7 +4430,7 @@
   {
     "date": "18.08.25",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Бахытжанов Бауыржан (д.Вася)",
     "legal_entity": "Бахытжанов Бауыржан",
     "kind": "",
     "responsible": "Данияр",
@@ -4457,7 +4457,7 @@
   {
     "date": "18.08.25",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Бахытжанов Бауыржан (д.Вася)",
     "legal_entity": "Бахытжанов Бауыржан",
     "kind": "",
     "responsible": "Данияр",
@@ -4484,7 +4484,7 @@
   {
     "date": "18.08.25",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Бахытжанов Бауыржан (д.Вася)",
     "legal_entity": "Бахытжанов Бауыржан",
     "kind": "",
     "responsible": "Данияр",
@@ -4511,7 +4511,7 @@
   {
     "date": "18.08.25",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Бахытжанов Бауыржан (д.Вася)",
     "legal_entity": "Бахытжанов Бауыржан",
     "kind": "",
     "responsible": "Данияр",
@@ -4538,7 +4538,7 @@
   {
     "date": "19.08.25",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Шмидт Андрей Александрович (д.Вася)",
     "legal_entity": "Шмидт А.А",
     "kind": "",
     "responsible": "Данияр",
@@ -4565,7 +4565,7 @@
   {
     "date": "19.08.25",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Шмидт Андрей Александрович (д.Вася)",
     "legal_entity": "Шмидт А.А",
     "kind": "",
     "responsible": "Данияр",
@@ -4592,7 +4592,7 @@
   {
     "date": "19.08.25",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Шмидт Андрей Александрович (д.Вася)",
     "legal_entity": "Шмидт А.А",
     "kind": "",
     "responsible": "Данияр",
@@ -4619,7 +4619,7 @@
   {
     "date": "19.08.25",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Шмидт Андрей Александрович (д.Вася)",
     "legal_entity": "Шмидт А.А",
     "kind": "",
     "responsible": "Данияр",
@@ -4646,7 +4646,7 @@
   {
     "date": "20.08.25",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Шмидт Андрей Александрович (д.Вася)",
     "legal_entity": "Шмидт А.А",
     "kind": "",
     "responsible": "Данияр",
@@ -4673,7 +4673,7 @@
   {
     "date": "25.08.25",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Абуова Айгерим (д.Вася)",
     "legal_entity": "Абуова Айгерим (д.Вася)",
     "kind": "",
     "responsible": "Данияр",
@@ -4700,7 +4700,7 @@
   {
     "date": "25.08.25",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Абуова Айгерим (д.Вася)",
     "legal_entity": "Абуова Айгерим (д.Вася)",
     "kind": "",
     "responsible": "Данияр",
@@ -4727,7 +4727,7 @@
   {
     "date": "06.08.2025",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Абуова Маржан (д.Вася)",
     "legal_entity": "Абуова Маржан (д.Вася)",
     "kind": "",
     "responsible": "Данияр",
@@ -4754,7 +4754,7 @@
   {
     "date": "29.08.25",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Сергей (геология) 87051694491 Камеристова АННА",
     "legal_entity": "Сергей (геология) АННА",
     "kind": "Услуги",
     "responsible": "Дмитрий/Данияр",
@@ -4781,7 +4781,7 @@
   {
     "date": "29.08.25",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Сергей (геология) 87051694491 Жуков Матве",
     "legal_entity": "Сергей (геология)",
     "kind": "Услуги",
     "responsible": "Дмитрий/Данияр",
@@ -4808,7 +4808,7 @@
   {
     "date": "29.08.25",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Сергей (геология) 87051694491 Матвей",
     "legal_entity": "Сергей (геология) Матвей",
     "kind": "Услуги",
     "responsible": "Дмитрий/Данияр",
@@ -4835,7 +4835,7 @@
   {
     "date": "22/09/2025",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Geo Expert ИП Руслан",
     "legal_entity": "Джумабаев Руслан ИП",
     "kind": "Услуги",
     "responsible": "Гульнур",
@@ -4862,7 +4862,7 @@
   {
     "date": "26.09.25",
     "row_num": "",
-    "contractor": "",
+    "contractor": "ДВ (Жандос)",
     "legal_entity": "ДВ (Жандос)",
     "kind": "Услуги",
     "responsible": "Данияр/д.Вася",
@@ -4889,7 +4889,7 @@
   {
     "date": "26.09.25",
     "row_num": "",
-    "contractor": "",
+    "contractor": "ДВ (Жандос)",
     "legal_entity": "ДВ (Жандос)",
     "kind": "Услуги",
     "responsible": "Данияр/д.Вася",
@@ -4916,7 +4916,7 @@
   {
     "date": "02.10.2025",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Усенов Магамед",
     "legal_entity": "Олжас Койлышов (Еркебулан 1)",
     "kind": "",
     "responsible": "Данияр",
@@ -4943,7 +4943,7 @@
   {
     "date": "02.10.2025",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Алпысбаев Тохбергенов (Садыкова Сулу (Еркебулан 2))",
     "legal_entity": "Алпысбаев Тохбергенов (Садыкова Сулу (Еркебулан 2))",
     "kind": "",
     "responsible": "Данияр",
@@ -4970,7 +4970,7 @@
   {
     "date": "03/10/2025",
     "row_num": "",
-    "contractor": "",
+    "contractor": "ИП Молдахметов Жомарт",
     "legal_entity": "ИП Молдахметов Ж",
     "kind": "услуги",
     "responsible": "Гульнур",
@@ -4997,7 +4997,7 @@
   {
     "date": "19.09.2025",
     "row_num": "128",
-    "contractor": "",
+    "contractor": "Улар Инвест",
     "legal_entity": "Улар Инвест",
     "kind": "",
     "responsible": "Гульнур",
@@ -5024,7 +5024,7 @@
   {
     "date": "",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Хамза Майнур",
     "legal_entity": "Хамза Майнур (Алиева Зара)",
     "kind": "материалы",
     "responsible": "Гульнур",
@@ -5051,7 +5051,7 @@
   {
     "date": "01.08.2025",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Кумакбаев Б.",
     "legal_entity": "",
     "kind": "Другое",
     "responsible": "Данияр",
@@ -5078,7 +5078,7 @@
   {
     "date": "01.08.2025",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Кумакбаев Б.",
     "legal_entity": "",
     "kind": "Другое",
     "responsible": "Данияр",
@@ -5105,7 +5105,7 @@
   {
     "date": "01.08.2025",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Кумакбаев Б.",
     "legal_entity": "",
     "kind": "Другое",
     "responsible": "Данияр",
@@ -5132,7 +5132,7 @@
   {
     "date": "25.11.25",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Сейлхан",
     "legal_entity": "Сейлхан",
     "kind": "",
     "responsible": "Гульнур",
@@ -5159,7 +5159,7 @@
   {
     "date": "28/11/25",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Хамза Майнур",
     "legal_entity": "Хамза Майнур (Алиева Минара)",
     "kind": "инертный материал",
     "responsible": "Гульнур",
@@ -5186,7 +5186,7 @@
   {
     "date": "28/11/25",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Хамза Майнур",
     "legal_entity": "Хамза Майнур (Алиева Минара)",
     "kind": "инертный материал",
     "responsible": "Гульнур",
@@ -5213,7 +5213,7 @@
   {
     "date": "09/12/2025",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Нотариус( Райхан Джолдасбаева)",
     "legal_entity": "Нотариус 87016603332",
     "kind": "Услуги",
     "responsible": "Данияр/Жадыра",
@@ -5240,7 +5240,7 @@
   {
     "date": "17.12.2025",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Сергей (геология) 87051694491",
     "legal_entity": "Сергей Дербенов Владислав Александрович",
     "kind": "Услуги",
     "responsible": "Дима",
@@ -5267,7 +5267,7 @@
   {
     "date": "03.12.2025",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Каденов Жанибек Жанбулатович",
     "legal_entity": "Акимат казначей",
     "kind": "Услуги",
     "responsible": "Гульнур",
@@ -5294,7 +5294,7 @@
   {
     "date": "18.12.2025",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Шаймкулов Жанайдар",
     "legal_entity": "Казахэкспертцентр",
     "kind": "Услуги",
     "responsible": "Гульнур",
@@ -5321,7 +5321,7 @@
   {
     "date": "22.12.2025",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Айбек 87017839472",
     "legal_entity": "ТОО Амре Курлыс",
     "kind": "Услуги электромонт.раб",
     "responsible": "Гульнур",
@@ -5348,7 +5348,7 @@
   {
     "date": "23/12/2025",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Савердин 87777808182",
     "legal_entity": "ИП Кумарбек",
     "kind": "товар ФЦП",
     "responsible": "Аида",
@@ -5375,7 +5375,7 @@
   {
     "date": "30.12.2025",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Воронцов / Аскольд / Главпроф/Кириенко/ ALLKurylys/",
     "legal_entity": "АНдрей",
     "kind": "Материалы",
     "responsible": "АИда",
@@ -5402,7 +5402,7 @@
   {
     "date": "13.01.2026",
     "row_num": "",
-    "contractor": "",
+    "contractor": "ИП Ертолек",
     "legal_entity": "Ертолек",
     "kind": "услуги",
     "responsible": "Гульнур",
@@ -5429,7 +5429,7 @@
   {
     "date": "13.01.2026",
     "row_num": "",
-    "contractor": "",
+    "contractor": "ИП Ертолек",
     "legal_entity": "Ертолек",
     "kind": "услуги",
     "responsible": "Гульнур",
@@ -5456,7 +5456,7 @@
   {
     "date": "13.01.2026",
     "row_num": "",
-    "contractor": "",
+    "contractor": "ИП Ертолек",
     "legal_entity": "Ертолек",
     "kind": "услуги",
     "responsible": "Гульнур",
@@ -5483,7 +5483,7 @@
   {
     "date": "13.01.2026",
     "row_num": "",
-    "contractor": "",
+    "contractor": "ИП Ертолек",
     "legal_entity": "Ертолек",
     "kind": "услуги",
     "responsible": "Гульнур",
@@ -5510,7 +5510,7 @@
   {
     "date": "",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Пожсервис",
     "legal_entity": "Жасулан",
     "kind": "",
     "responsible": "Данияр",
@@ -5537,7 +5537,7 @@
   {
     "date": "05.02.2026",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Улар Инвест",
     "legal_entity": "Улар Инвест Имран",
     "kind": "товар",
     "responsible": "Аида",
@@ -5564,7 +5564,7 @@
   {
     "date": "05.02.2026",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Улар Инвест",
     "legal_entity": "Улар Инвест Имран",
     "kind": "товар",
     "responsible": "Аида",
@@ -5591,7 +5591,7 @@
   {
     "date": "11.02.2026",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Ержан Куандыков/Исмайл",
     "legal_entity": "Ержан и Исмаил (котлован)",
     "kind": "",
     "responsible": "Азамат и Руслан",
@@ -5618,7 +5618,7 @@
   {
     "date": "",
     "row_num": "",
-    "contractor": "",
+    "contractor": "ИП АСКАР КУЛЫШ",
     "legal_entity": "ИП АСКАР",
     "kind": "",
     "responsible": "Гульнур",
@@ -5645,7 +5645,7 @@
   {
     "date": "11.02.2026",
     "row_num": "",
-    "contractor": "",
+    "contractor": "ИП Бектенова /Аскар",
     "legal_entity": "Ип Бектенова/ Аскар",
     "kind": "услуги",
     "responsible": "Гульнур",
@@ -5672,7 +5672,7 @@
   {
     "date": "11.02.2026",
     "row_num": "",
-    "contractor": "",
+    "contractor": "ИП Азамат",
     "legal_entity": "Азамат",
     "kind": "",
     "responsible": "Аида",
@@ -5699,7 +5699,7 @@
   {
     "date": "11.02.2026",
     "row_num": "",
-    "contractor": "",
+    "contractor": "ИП Азамат",
     "legal_entity": "Азамат",
     "kind": "",
     "responsible": "Аида",
@@ -5726,7 +5726,7 @@
   {
     "date": "12.02.2026",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Ержан Куандыков/Исмайл",
     "legal_entity": "Ержан и Исмаил (котлован)",
     "kind": "котлован работы",
     "responsible": "ГД",
@@ -5753,7 +5753,7 @@
   {
     "date": "12.02.2026",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Ержан Куандыков/Исмайл",
     "legal_entity": "Ержан и Исмаил (котлован)",
     "kind": "котлован работы",
     "responsible": "ГД",
@@ -5780,7 +5780,7 @@
   {
     "date": "12.02.2026",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Ержан Куандыков/Исмайл",
     "legal_entity": "Ержан и Исмаил (котлован)",
     "kind": "котлован работы",
     "responsible": "ГД",
@@ -5807,7 +5807,7 @@
   {
     "date": "12.02.2026",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Ержан Куандыков/Исмайл",
     "legal_entity": "Ержан и Исмаил (котлован)",
     "kind": "котлован работы",
     "responsible": "ГД",
@@ -5834,7 +5834,7 @@
   {
     "date": "12.02.2026",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Ержан Куандыков/Исмайл",
     "legal_entity": "Ержан и Исмаил (котлован)",
     "kind": "котлован работы",
     "responsible": "ГД",
@@ -5861,7 +5861,7 @@
   {
     "date": "13.02.2026",
     "row_num": "Ернур",
-    "contractor": "",
+    "contractor": "ИП Темир",
     "legal_entity": "Ерлан и Ержан (стяжка)",
     "kind": "стяжка",
     "responsible": "ГД",
@@ -5888,7 +5888,7 @@
   {
     "date": "13.02.2025",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Арлан строй инвест (Жадырасын)",
     "legal_entity": "Арлан строй инвест (Жадырасын)",
     "kind": "услуги",
     "responsible": "Гульнур",
@@ -5915,7 +5915,7 @@
   {
     "date": "19.02.2026",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Хамза Майнур",
     "legal_entity": "Хамза Майнур (Алиева Минара)",
     "kind": "товар",
     "responsible": "ГД Олжас",
@@ -5942,7 +5942,7 @@
   {
     "date": "19.02.2026",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Хамза Майнур",
     "legal_entity": "Хамза Майнур (Алиева Минара)",
     "kind": "товар",
     "responsible": "ГД Олжас",
@@ -5969,7 +5969,7 @@
   {
     "date": "20.02.2026",
     "row_num": "Ернур",
-    "contractor": "",
+    "contractor": "ИП БМ Prom Service",
     "legal_entity": "Анатолий 87071217880",
     "kind": "",
     "responsible": "Аида",
@@ -5996,7 +5996,7 @@
   {
     "date": "20.02.2026",
     "row_num": "Ернур",
-    "contractor": "",
+    "contractor": "ИП БМ Prom Service",
     "legal_entity": "Анатолий 87071217880",
     "kind": "",
     "responsible": "Аида",
@@ -6023,7 +6023,7 @@
   {
     "date": "20.02.2026",
     "row_num": "Ернур",
-    "contractor": "",
+    "contractor": "ИП Бастау Строи Инжиниринг",
     "legal_entity": "Муслим 87778097963",
     "kind": "электрика",
     "responsible": "Аида",
@@ -6050,7 +6050,7 @@
   {
     "date": "02.03.2026",
     "row_num": "",
-    "contractor": "",
+    "contractor": "ТОО Элконт",
     "legal_entity": "ТОО Элконт, Галина  87057023638",
     "kind": "услуги",
     "responsible": "Аделя",
@@ -6077,7 +6077,7 @@
   {
     "date": "13.03.2026",
     "row_num": "",
-    "contractor": "",
+    "contractor": "ИП Бектенова /Аскар",
     "legal_entity": "Ип Бектенова/ Аскар",
     "kind": "услуги",
     "responsible": "Аида",
@@ -6104,7 +6104,7 @@
   {
     "date": "18.3.2026",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Бетон-А",
     "legal_entity": "Бетон-А",
     "kind": "товар",
     "responsible": "Аида",
@@ -6131,7 +6131,7 @@
   {
     "date": "19.03.2026",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Ермұханбетова Шәрбану Ермұханбетқызы",
     "legal_entity": "Ермұханбетова Шәрбану Ермұханбетқызы",
     "kind": "услуги опалубка",
     "responsible": "Ернур/Олжас",
@@ -6158,7 +6158,7 @@
   {
     "date": "19.03.2026",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Ермұханбетова Шәрбану Ермұханбетқызы",
     "legal_entity": "Ермұханбетова Шәрбану Ермұханбетқызы",
     "kind": "услуги опалубка",
     "responsible": "Ернур/Олжас",
@@ -6185,7 +6185,7 @@
   {
     "date": "02.04.2026",
     "row_num": "",
-    "contractor": "",
+    "contractor": "ТОО Okna Daraturym",
     "legal_entity": "ТОО Okna Daraturym",
     "kind": "товар",
     "responsible": "Аида",
@@ -6212,7 +6212,7 @@
   {
     "date": "09.04.2026",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Хамза Майнур",
     "legal_entity": "Хамза Майнур (Алиева Минара)",
     "kind": "товар",
     "responsible": "ГД",
@@ -6239,7 +6239,7 @@
   {
     "date": "09.04.2026",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Хамза Майнур",
     "legal_entity": "Хамза Майнур (Алиева Минара)",
     "kind": "товар",
     "responsible": "ГД",
@@ -6266,7 +6266,7 @@
   {
     "date": "09.04.2026",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Хамза Майнур",
     "legal_entity": "Хамза Майнур (Алиева Минара)",
     "kind": "товар",
     "responsible": "ГД",
@@ -6293,7 +6293,7 @@
   {
     "date": "20.04.2026",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Воронцов / Аскольд / Главпроф/Кириенко/ ALLKurylys/",
     "legal_entity": "ТОО OKTOPROF Андрей Воронцов",
     "kind": "товар",
     "responsible": "Аида",
@@ -6320,7 +6320,7 @@
   {
     "date": "14.05.2026",
     "row_num": "",
-    "contractor": "",
+    "contractor": "ИП Мурат",
     "legal_entity": "ИП Мурат",
     "kind": "Услуги",
     "responsible": "Аида",
@@ -6347,7 +6347,7 @@
   {
     "date": "14.05.2026",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Хамза Майнур",
     "legal_entity": "Хамза Майнур (Алиева Минара)",
     "kind": "товар",
     "responsible": "ГД Олжас",
@@ -6374,7 +6374,7 @@
   {
     "date": "14.05.2026",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Хамза Майнур",
     "legal_entity": "Хамза Майнур (Алиева Минара)",
     "kind": "товар",
     "responsible": "ГД Олжас",
@@ -6401,7 +6401,7 @@
   {
     "date": "14.05.2026",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Хамза Майнур",
     "legal_entity": "Хамза Майнур (Алиева Минара)",
     "kind": "товар",
     "responsible": "ГД Олжас",
@@ -6428,7 +6428,7 @@
   {
     "date": "14.05.2026",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Хамза Майнур",
     "legal_entity": "Хамза Майнур (Алиева Минара)",
     "kind": "товар",
     "responsible": "ГД Олжас",
@@ -6455,7 +6455,7 @@
   {
     "date": "21.05.2026",
     "row_num": "",
-    "contractor": "",
+    "contractor": "ИП Аскар",
     "legal_entity": "ИП Аскар",
     "kind": "Услуги",
     "responsible": "ГД Олжас",
@@ -6482,7 +6482,7 @@
   {
     "date": "21.05.2026",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Азамат",
     "legal_entity": "Азамат",
     "kind": "опалубка",
     "responsible": "ГД Олжас",
@@ -6509,7 +6509,7 @@
   {
     "date": "21.05.2026",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Азамат/Cунгат",
     "legal_entity": "Азамат/Cунгат",
     "kind": "монолит",
     "responsible": "ГД Олжас",
@@ -6536,7 +6536,7 @@
   {
     "date": "21.05.2026",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Азамат",
     "legal_entity": "Азамат",
     "kind": "опалубка",
     "responsible": "ГД Олжас",
@@ -6563,7 +6563,7 @@
   {
     "date": "21.05.2026",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Азамат/Cунгат",
     "legal_entity": "Азамат/Cунгат",
     "kind": "монолит",
     "responsible": "ГД Олжас",
@@ -6590,7 +6590,7 @@
   {
     "date": "21.05.2026",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Азамат",
     "legal_entity": "Азамат",
     "kind": "опалубка",
     "responsible": "ГД Олжас",
@@ -6617,7 +6617,7 @@
   {
     "date": "28.05.2026",
     "row_num": "",
-    "contractor": "",
+    "contractor": "ИП Слемов",
     "legal_entity": "ИП Слемов",
     "kind": "",
     "responsible": "ГД Олжас",
@@ -6644,7 +6644,7 @@
   {
     "date": "05.06.2026",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Тауекел газ/Адилет",
     "legal_entity": "Тауекел газ/Адилет",
     "kind": "Газ",
     "responsible": "ГД Олжас",
@@ -6671,7 +6671,7 @@
   {
     "date": "11.06.2026",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Тоо Grand Beton Group",
     "legal_entity": "Тоо Grand Beton Group",
     "kind": "бетон",
     "responsible": "ГД Олжас",
@@ -6698,7 +6698,7 @@
   {
     "date": "05.06.2026",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Тауекел газ/Адилет",
     "legal_entity": "Тауекел газ/Адилет",
     "kind": "Газ",
     "responsible": "ГД Олжас",
@@ -6725,7 +6725,7 @@
   {
     "date": "12.06.2026",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Абзал Казстрой блок Кладка",
     "legal_entity": "Абзал Казстрой блок Кладка",
     "kind": "Кладка",
     "responsible": "ГД Олжас",
@@ -6752,7 +6752,7 @@
   {
     "date": "16.06.2026",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Иван Фасад СМР",
     "legal_entity": "Иван Фасад СМР",
     "kind": "Фасад",
     "responsible": "ГД Олжас",
@@ -6779,7 +6779,7 @@
   {
     "date": "16.06.2026",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Иван Фасад ТМЦ",
     "legal_entity": "Иван Фасад ТМЦ",
     "kind": "Фасад",
     "responsible": "ГД Олжас",
@@ -6806,7 +6806,7 @@
   {
     "date": "17.06.2026",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Воронцов / Аскольд / Главпроф/Кириенко/ ALLKurylys/",
     "legal_entity": "ТОО OKTOPROF Андрей Воронцов",
     "kind": "товар",
     "responsible": "Аида",
@@ -6833,7 +6833,7 @@
   {
     "date": "17.06.20266",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Воронцов / Аскольд / Главпроф/Кириенко/ ALLKurylys/",
     "legal_entity": "ТОО OKTOPROF Андрей Воронцов",
     "kind": "товар",
     "responsible": "Аида",
@@ -6860,7 +6860,7 @@
   {
     "date": "17.06.20266",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Воронцов / Аскольд / Главпроф/Кириенко/ ALLKurylys/",
     "legal_entity": "ТОО OKTOPROF Андрей Воронцов",
     "kind": "товар",
     "responsible": "Аида",
@@ -6887,7 +6887,7 @@
   {
     "date": "15.08.2025",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Воронцов / Аскольд / Главпроф/Кириенко/ ALLKurylys/",
     "legal_entity": "ТОО OKTOPROF Андрей Воронцов",
     "kind": "товар",
     "responsible": "Аида",
@@ -6914,7 +6914,7 @@
   {
     "date": "15.08.2025",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Воронцов / Аскольд / Главпроф/Кириенко/ ALLKurylys/",
     "legal_entity": "ТОО OKTOPROF Андрей Воронцов",
     "kind": "товар",
     "responsible": "Аида",
@@ -6941,7 +6941,7 @@
   {
     "date": "01.07.2026",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Дмитрий Hyundai Elevators",
     "legal_entity": "Дмитрий Hyundai Elevators",
     "kind": "",
     "responsible": "ГД Олжас",
@@ -6954,8 +6954,8 @@
     "apartment": "1",
     "apt_type": null,
     "area": 78,
-    "price_per_meter": null,
-    "amount_property": null,
+    "price_per_meter": 430000,
+    "amount_property": 33862500,
     "terms": "бартер 80/20",
     "amount_contract": null,
     "amount_paid_money": null,
@@ -6968,7 +6968,7 @@
   {
     "date": "01.07.2026",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Дмитрий Hyundai Elevators",
     "legal_entity": "Дмитрий Hyundai Elevators",
     "kind": "",
     "responsible": "ГД Олжас",
@@ -6981,8 +6981,8 @@
     "apartment": "2",
     "apt_type": null,
     "area": 45,
-    "price_per_meter": null,
-    "amount_property": null,
+    "price_per_meter": 430000,
+    "amount_property": 19629500,
     "terms": "бартер 80/20",
     "amount_contract": null,
     "amount_paid_money": null,
@@ -6995,7 +6995,7 @@
   {
     "date": "01.07.2026",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Дмитрий Hyundai Elevators",
     "legal_entity": "Дмитрий Hyundai Elevators",
     "kind": "",
     "responsible": "ГД Олжас",
@@ -7008,8 +7008,8 @@
     "apartment": "3",
     "apt_type": null,
     "area": 45,
-    "price_per_meter": null,
-    "amount_property": null,
+    "price_per_meter": 430000,
+    "amount_property": 19663900,
     "terms": "бартер 80/20",
     "amount_contract": null,
     "amount_paid_money": null,
@@ -7022,7 +7022,7 @@
   {
     "date": "01.07.2026",
     "row_num": "",
-    "contractor": "",
+    "contractor": "Дмитрий Hyundai Elevators",
     "legal_entity": "Дмитрий Hyundai Elevators",
     "kind": "",
     "responsible": "ГД Олжас",
@@ -7035,8 +7035,8 @@
     "apartment": "4",
     "apt_type": null,
     "area": 45,
-    "price_per_meter": null,
-    "amount_property": null,
+    "price_per_meter": 430000,
+    "amount_property": 19530600,
     "terms": "бартер 80/20",
     "amount_contract": null,
     "amount_paid_money": null,
@@ -7049,7 +7049,7 @@
   {
     "date": "03.07.2026",
     "row_num": "",
-    "contractor": "",
+    "contractor": "АБЕНОВА САУЛЕ СЕРЕКПАЕВНА",
     "legal_entity": "АБЕНОВА САУЛЕ СЕРЕКПАЕВНА",
     "kind": "",
     "responsible": "",
@@ -7076,7 +7076,7 @@
   {
     "date": "13.01.2026",
     "row_num": "",
-    "contractor": "",
+    "contractor": "ИП Ертолек",
     "legal_entity": "Ертолек",
     "kind": "услуги",
     "responsible": "Гульнур",
