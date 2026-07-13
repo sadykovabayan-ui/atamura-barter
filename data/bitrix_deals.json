@@ -2123,10 +2123,13 @@
     "date_create": "2025-07-17T14:31:26+03:00",
     "date_modify": "2025-10-14T20:48:37+03:00",
     "opportunity": "0.00000000",
-    "contractor_name": "Данияр бартер ",
+    "contractor_name": "Данияр",
     "contact": {
       "id": "290984",
-      "error": "HTTP Error 502: Bad Gateway"
+      "name": "Данияр",
+      "phone": "+77713299779",
+      "email": "",
+      "company_id": null
     },
     "company": {},
     "property_id_pb": null,
@@ -2186,10 +2189,13 @@
     "date_create": "2025-07-24T15:13:18+03:00",
     "date_modify": "2025-07-24T15:16:27+03:00",
     "opportunity": "2500000.00000000",
-    "contractor_name": "АТ_2.П.79 - Бартер Алиева Зара (Майнур Элитстрой)",
+    "contractor_name": "Мвйнурстрой Хамза",
     "contact": {
       "id": "293610",
-      "error": "HTTP Error 502: Bad Gateway"
+      "name": "Мвйнурстрой Хамза",
+      "phone": "77013330577",
+      "email": "",
+      "company_id": null
     },
     "company": {},
     "property_id_pb": null,
