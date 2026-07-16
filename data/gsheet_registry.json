@@ -380,7 +380,7 @@
   {
     "date": "04.12",
     "row_num": "",
-    "contractor": "ТОО «Daraтurym group»",
+    "contractor": "ТОО Daraтurym group",
     "legal_entity": "Кайрат +7 747 103 2908",
     "kind": "Окна",
     "responsible": "Аида",
@@ -2301,7 +2301,7 @@
     "legal_entity": "",
     "kind": "Материалы",
     "responsible": "Аида",
-    "status_property": "Отработан",
+    "status_property": "ОФОРМЛЕН",
     "status_barter": "В процессе",
     "project": "Атмосфера",
     "queue": "IV очередь",
@@ -2319,7 +2319,7 @@
     "remaining_contract": 21170898,
     "remaining_to_pay": -16697692,
     "company": "Азамат ИП",
-    "note": "окна Аура 1 очередь"
+    "note": "окна Аура 1 очередь, оформлен на  Мухамеджан Нургуль"
   },
   {
     "date": "",
@@ -3264,7 +3264,7 @@
     "remaining_contract": null,
     "remaining_to_pay": null,
     "company": "",
-    "note": "отправлен в нотариус"
+    "note": "оформлен в нотариусе"
   },
   {
     "date": "27.11.2024",
@@ -3291,7 +3291,7 @@
     "remaining_contract": null,
     "remaining_to_pay": null,
     "company": "",
-    "note": "отправлен в нотариусе"
+    "note": "оформлен в нотариусе"
   },
   {
     "date": "28.11.2024",
