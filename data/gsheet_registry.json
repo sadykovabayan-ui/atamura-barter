@@ -7261,5 +7261,32 @@
     "remaining_to_pay": null,
     "company": "",
     "note": ""
+  },
+  {
+    "date": "20.07.2026",
+    "row_num": "Ернур",
+    "contractor": "ИП Темир",
+    "legal_entity": "Ерлан и Ержан (стяжка)",
+    "kind": "стяжка",
+    "responsible": "ГД",
+    "status_property": "в работе",
+    "status_barter": "в процессе",
+    "project": "KERUEN",
+    "queue": "V очередь",
+    "block": "9",
+    "floor": 6,
+    "apartment": "49",
+    "apt_type": null,
+    "area": 45,
+    "price_per_meter": 550000,
+    "amount_property": 24981000,
+    "terms": "бартер 60/40",
+    "amount_contract": null,
+    "amount_paid_money": null,
+    "amount_done": null,
+    "remaining_contract": null,
+    "remaining_to_pay": null,
+    "company": "ИП Темир",
+    "note": ""
   }
 ]
