@@ -7288,5 +7288,32 @@
     "remaining_to_pay": null,
     "company": "ИП Темир",
     "note": ""
+  },
+  {
+    "date": "21.05.2026",
+    "row_num": "",
+    "contractor": "Азамат",
+    "legal_entity": "Азамат Лита коммерц/Иван",
+    "kind": "",
+    "responsible": "",
+    "status_property": "в работе",
+    "status_barter": "в процессе",
+    "project": "KERUEN",
+    "queue": "V очередь",
+    "block": "10",
+    "floor": 1,
+    "apartment": "4",
+    "apt_type": null,
+    "area": 45,
+    "price_per_meter": null,
+    "amount_property": 0,
+    "terms": "",
+    "amount_contract": null,
+    "amount_paid_money": null,
+    "amount_done": null,
+    "remaining_contract": null,
+    "remaining_to_pay": null,
+    "company": "",
+    "note": ""
   }
 ]
