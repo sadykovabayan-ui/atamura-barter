@@ -2221,5 +2221,53 @@
     "property_number_pb": null,
     "project_pb": null,
     "type_pb": null
+  },
+  {
+    "deal_id": "563638",
+    "deal_title": "Шмидт Андрей Александрович - бартер",
+    "stage": "C2:UC_RPDNKW",
+    "category_id": "2",
+    "closed": "N",
+    "date_create": "2026-07-25T15:41:58+03:00",
+    "date_modify": "2026-07-25T15:45:10+03:00",
+    "opportunity": "29269500.00000000",
+    "contractor_name": "Эвелина (ВАСЯ) Тощинская",
+    "contact": {
+      "id": "163952",
+      "name": "Эвелина (ВАСЯ) Тощинская",
+      "phone": "+77078329369",
+      "email": "",
+      "company_id": null
+    },
+    "company": {},
+    "property_id_pb": null,
+    "house_id_pb": "III очередь",
+    "property_number_pb": null,
+    "project_pb": "AURA",
+    "type_pb": "Квартира"
+  },
+  {
+    "deal_id": "563640",
+    "deal_title": "Шмидт Андрей Александрович - бартер",
+    "stage": "C2:UC_RPDNKW",
+    "category_id": "2",
+    "closed": "N",
+    "date_create": "2026-07-25T15:45:38+03:00",
+    "date_modify": "2026-07-25T15:47:37+03:00",
+    "opportunity": "21232000.00000000",
+    "contractor_name": "Эвелина (ВАСЯ) Тощинская",
+    "contact": {
+      "id": "163952",
+      "name": "Эвелина (ВАСЯ) Тощинская",
+      "phone": "+77078329369",
+      "email": "",
+      "company_id": null
+    },
+    "company": {},
+    "property_id_pb": null,
+    "house_id_pb": "III очередь",
+    "property_number_pb": null,
+    "project_pb": "AURA",
+    "type_pb": "Квартира"
   }
 ]
