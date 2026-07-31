@@ -1877,11 +1877,11 @@
   {
     "deal_id": "316248",
     "deal_title": "Главпроф бартер ИП Аскольд/Воронцов (Копия из Отдела продаж) (Копия из Отдела продаж)",
-    "stage": "C2:PREPAYMENT_INVOICE",
+    "stage": "C2:UC_94GV55",
     "category_id": "2",
     "closed": "N",
     "date_create": "2025-04-25T09:20:05+03:00",
-    "date_modify": "2025-10-14T20:45:43+03:00",
+    "date_modify": "2026-07-31T17:59:20+03:00",
     "opportunity": "0.00000000",
     "contractor_name": "Без имени",
     "contact": {
@@ -1901,11 +1901,11 @@
   {
     "deal_id": "316250",
     "deal_title": "Главпроф бартер ИП Аскольд/Воронцов (Копия из Отдела продаж) (Копия из Отдела продаж)",
-    "stage": "C2:PREPAYMENT_INVOICE",
+    "stage": "C2:UC_94GV55",
     "category_id": "2",
     "closed": "N",
     "date_create": "2025-04-25T09:20:13+03:00",
-    "date_modify": "2025-10-14T20:45:43+03:00",
+    "date_modify": "2026-07-31T17:59:21+03:00",
     "opportunity": "0.00000000",
     "contractor_name": "Без имени",
     "contact": {
@@ -1925,11 +1925,11 @@
   {
     "deal_id": "316252",
     "deal_title": "Главпроф бартер ИП Аскольд/Воронцов (Копия из Отдела продаж) (Копия из Отдела продаж)",
-    "stage": "C2:PREPAYMENT_INVOICE",
+    "stage": "C2:UC_94GV55",
     "category_id": "2",
     "closed": "N",
     "date_create": "2025-04-25T09:20:15+03:00",
-    "date_modify": "2025-10-14T20:45:43+03:00",
+    "date_modify": "2026-07-31T17:59:22+03:00",
     "opportunity": "0.00000000",
     "contractor_name": "Без имени",
     "contact": {
@@ -2021,11 +2021,11 @@
   {
     "deal_id": "331830",
     "deal_title": "Дощинская Эвелина бартер АР_4.7.6.31-480 (Копия из Отдела продаж)",
-    "stage": "C2:PREPAYMENT_INVOICE",
+    "stage": "C2:UC_94GV55",
     "category_id": "2",
     "closed": "N",
     "date_create": "2025-06-13T10:17:09+03:00",
-    "date_modify": "2025-10-14T20:45:46+03:00",
+    "date_modify": "2026-07-31T17:59:32+03:00",
     "opportunity": "0.00000000",
     "contractor_name": "Без имени",
     "contact": {
