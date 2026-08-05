@@ -7315,5 +7315,32 @@
     "remaining_to_pay": null,
     "company": "",
     "note": ""
+  },
+  {
+    "date": "",
+    "row_num": "",
+    "contractor": "Улар Инвест",
+    "legal_entity": "Улар Инвест Имран",
+    "kind": "Материалы",
+    "responsible": "Аида",
+    "status_property": "в работе",
+    "status_barter": "в процессе",
+    "project": "KERUEN",
+    "queue": "V очередь",
+    "block": "9",
+    "floor": 3,
+    "apartment": "26",
+    "apt_type": null,
+    "area": 51,
+    "price_per_meter": 540000,
+    "amount_property": 27718200,
+    "terms": "",
+    "amount_contract": null,
+    "amount_paid_money": null,
+    "amount_done": null,
+    "remaining_contract": null,
+    "remaining_to_pay": null,
+    "company": "",
+    "note": ""
   }
 ]
