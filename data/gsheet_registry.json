@@ -54,33 +54,6 @@
     "note": ""
   },
   {
-    "date": "25.04.2025",
-    "row_num": "126",
-    "contractor": "Владимир",
-    "legal_entity": "«IZO-MARKET KM»",
-    "kind": "материалы",
-    "responsible": "Аида",
-    "status_property": "Отработан",
-    "status_barter": "в процессе",
-    "project": "Атмосфера",
-    "queue": "IV очередь",
-    "block": "22",
-    "floor": 1,
-    "apartment": "3",
-    "apt_type": null,
-    "area": 46,
-    "price_per_meter": 505000,
-    "amount_property": 23477450,
-    "terms": "30%/70%",
-    "amount_contract": 78258166,
-    "amount_paid_money": null,
-    "amount_done": null,
-    "remaining_contract": null,
-    "remaining_to_pay": null,
-    "company": "",
-    "note": ""
-  },
-  {
     "date": "23.06.2025",
     "row_num": "130",
     "contractor": "ИП Азамат",
@@ -3296,7 +3269,7 @@
   {
     "date": "28.11.2024",
     "row_num": "102",
-    "contractor": "Игорь 87773300101",
+    "contractor": "Игорь 87773300101 ( Pro СейсмоКЗ)",
     "legal_entity": "Pro СейсмоКЗ",
     "kind": "",
     "responsible": "Гульнур",
@@ -3323,7 +3296,7 @@
   {
     "date": "28.11.2024",
     "row_num": "103",
-    "contractor": "Игорь 87773300101",
+    "contractor": "Игорь 87773300101 ( Pro СейсмоКЗ)",
     "legal_entity": "Pro СейсмоКЗ",
     "kind": "",
     "responsible": "Гульнур",
@@ -7317,7 +7290,7 @@
     "note": ""
   },
   {
-    "date": "",
+    "date": "05.08.2026",
     "row_num": "",
     "contractor": "Улар Инвест",
     "legal_entity": "Улар Инвест Имран",
@@ -7344,7 +7317,7 @@
     "note": ""
   },
   {
-    "date": "",
+    "date": "06.08.2026",
     "row_num": "",
     "contractor": "Улар Инвест",
     "legal_entity": "Улар Инвест Имран",
@@ -7371,7 +7344,7 @@
     "note": ""
   },
   {
-    "date": "",
+    "date": "07.08.2026",
     "row_num": "",
     "contractor": "Улар Инвест",
     "legal_entity": "Улар Инвест Имран",
@@ -7398,7 +7371,7 @@
     "note": ""
   },
   {
-    "date": "",
+    "date": "08.08.2026",
     "row_num": "",
     "contractor": "Улар Инвест",
     "legal_entity": "Улар Инвест Имран",
@@ -7425,7 +7398,7 @@
     "note": ""
   },
   {
-    "date": "",
+    "date": "09.08.2026",
     "row_num": "",
     "contractor": "Улар Инвест",
     "legal_entity": "Улар Инвест Имран",
@@ -7452,7 +7425,7 @@
     "note": ""
   },
   {
-    "date": "",
+    "date": "10.08.2026",
     "row_num": "",
     "contractor": "Улар Инвест",
     "legal_entity": "Улар Инвест Имран",
@@ -7479,7 +7452,7 @@
     "note": ""
   },
   {
-    "date": "",
+    "date": "11.08.2026",
     "row_num": "",
     "contractor": "Улар Инвест",
     "legal_entity": "Улар Инвест Имран",
@@ -7506,7 +7479,7 @@
     "note": ""
   },
   {
-    "date": "",
+    "date": "12.08.2026",
     "row_num": "",
     "contractor": "Улар Инвест",
     "legal_entity": "Улар Инвест Имран",
@@ -7533,7 +7506,7 @@
     "note": ""
   },
   {
-    "date": "",
+    "date": "13.08.2026",
     "row_num": "",
     "contractor": "Улар Инвест",
     "legal_entity": "Улар Инвест Имран",
@@ -7560,7 +7533,7 @@
     "note": ""
   },
   {
-    "date": "",
+    "date": "14.08.2026",
     "row_num": "",
     "contractor": "Улар Инвест",
     "legal_entity": "Улар Инвест Имран",
@@ -7587,7 +7560,7 @@
     "note": ""
   },
   {
-    "date": "",
+    "date": "15.08.2026",
     "row_num": "",
     "contractor": "Улар Инвест",
     "legal_entity": "Улар Инвест Имран",
@@ -7614,7 +7587,7 @@
     "note": ""
   },
   {
-    "date": "",
+    "date": "16.08.2026",
     "row_num": "",
     "contractor": "Улар Инвест",
     "legal_entity": "Улар Инвест Имран",
@@ -7641,7 +7614,7 @@
     "note": ""
   },
   {
-    "date": "",
+    "date": "17.08.2026",
     "row_num": "",
     "contractor": "Улар Инвест",
     "legal_entity": "Улар Инвест Имран",
@@ -7668,7 +7641,7 @@
     "note": ""
   },
   {
-    "date": "",
+    "date": "18.08.2026",
     "row_num": "",
     "contractor": "Улар Инвест",
     "legal_entity": "Улар Инвест Имран",
@@ -7695,7 +7668,7 @@
     "note": ""
   },
   {
-    "date": "",
+    "date": "19.08.2026",
     "row_num": "",
     "contractor": "Улар Инвест",
     "legal_entity": "Улар Инвест Имран",
@@ -7722,7 +7695,7 @@
     "note": ""
   },
   {
-    "date": "",
+    "date": "20.08.2026",
     "row_num": "",
     "contractor": "Улар Инвест",
     "legal_entity": "Улар Инвест Имран",
